@@ -1,0 +1,6 @@
+{
+  "name": "Mã Thị Bích — Kế toán & Thuế Doanh nghiệp",
+  "description": "Dịch vụ kế toán trọn gói cho doanh nghiệp nhỏ và chủ hộ kinh doanh chuyển lên doanh nghiệp tại Cao Bằng và trực tuyến toàn quốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

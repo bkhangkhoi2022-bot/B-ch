@@ -1,0 +1,6298 @@
+﻿# TÀI LIỆU LÕI KINH DOANH — BCM
+## MÃ THỊ BÍCH | DỊCH VỤ KẾ TOÁN VÀ THUẾ DOANH NGHIỆP
+
+
+**Phiên bản:** BCM 1.0  
+**Ngày cập nhật:** 07/11/2026  
+**Thương hiệu:** Mã Thị Bích  
+**Website:** quybich.vn  
+**Thị trường trực tiếp:** Cao Bằng  
+**Phạm vi trực tuyến:** Toàn quốc  
+**Sản phẩm Core:** Kế toán trọn gói theo tháng  
+**Tên Offer đề xuất:** Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp  
+**Khách hàng ưu tiên:** Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp, chưa có kế toán nội bộ.
+
+
+---
+
+
+# QUY ƯỚC SỬ DỤNG BCM
+
+
+[THỰC TẾ]: Thông tin chủ kinh doanh đã cung cấp, chưa mặc định là thông tin đã được kiểm chứng độc lập.
+
+
+[ĐỀ XUẤT]: Kết quả phân tích, định vị, thiết kế sản phẩm hoặc chiến lược do AI đề xuất, cần xác nhận trước khi áp dụng thành chính sách.
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]: Lời nói, tâm lý, động cơ mua và hành vi chưa được thu thập trực tiếp từ khách.
+
+
+[CẦN BỔ SUNG]: Thông tin chưa có hoặc chưa được chủ kinh doanh xác nhận.
+
+
+Khi sử dụng tài liệu này:
+- Không tạo thêm giá, kết quả, tỷ lệ chuyển đổi hoặc lời chứng thực không có căn cứ.
+- Không tự thay đổi phạm vi gói dịch vụ.
+- Không dùng giả thuyết tâm lý như lời khách đã nói.
+- Không khẳng định dịch vụ bảo đảm tránh mọi sai sót hoặc rủi ro thuế.
+- Chính sách thanh toán, hoàn phí, bảo mật và xử lý sai sót phải được xác nhận trước khi công bố.
+- Phân biệt dịch vụ đang bán với sản phẩm mới chỉ ở dạng đề xuất.
+- Với thông tin pháp luật, thuế, BHXH và nghĩa vụ kê khai, phải kiểm tra quy định đang có hiệu lực và tình trạng riêng của từng doanh nghiệp.
+
+
+---
+
+
+# KHỐI 01 — SẢN PHẨM VÀ GIÁ TRỊ CỐT LÕI
+
+
+## 1.1. Doanh nghiệp cung cấp gì?
+
+
+[THỰC TẾ]
+
+
+Mã Thị Bích cung cấp dịch vụ kế toán và thuế cho doanh nghiệp nhỏ và vừa, gồm:
+
+
+1. Xuất hóa đơn dựa trên thông tin khách hàng cung cấp.
+2. Tiếp nhận và xử lý thông tin, chứng từ kế toán.
+3. Nhập liệu và lên sổ sách trên phần mềm MISA.
+4. Kê khai thuế định kỳ.
+5. Lập báo cáo tài chính.
+6. Thực hiện công việc quyết toán năm.
+7. Làm lương và hồ sơ BHXH trong phạm vi đã thống nhất.
+8. Soạn hợp đồng và những phiếu liên quan theo nghiệp vụ được nhận.
+9. Rà soát hợp đồng mua vào.
+10. Hỗ trợ chuẩn bị hồ sơ giải trình về thuế hoặc BHXH khi có yêu cầu.
+11. Thực hiện thủ tục thành lập doanh nghiệp.
+12. Thực hiện thủ tục thay đổi đăng ký doanh nghiệp.
+
+
+Dịch vụ chủ lực được tính phí theo tháng.
+
+
+Thành lập và thay đổi đăng ký doanh nghiệp có thể nhận theo từng lần.
+
+
+## 1.2. Sản phẩm Core
+
+
+[ĐỀ XUẤT TÊN THƯƠNG MẠI]
+
+
+KẾ TOÁN TRỌN GÓI — ĐỒNG HÀNH TỪ NGÀY ĐẦU DOANH NGHIỆP.
+
+
+Dành cho doanh nghiệp nhỏ, đặc biệt là chủ hộ kinh doanh vừa chuyển lên doanh nghiệp và chưa có kế toán nội bộ.
+
+
+## 1.3. Giá trị ba tầng
+
+
+### Tầng chức năng
+
+
+Khách có người thực hiện những công việc kế toán, hóa đơn, chứng từ, thuế và báo cáo theo phạm vi thỏa thuận.
+
+
+### Tầng vận hành
+
+
+Khách có một đầu mối tiếp nhận thông tin, nhắc chứng từ còn thiếu, hướng dẫn cách gửi hồ sơ và thông báo kết quả theo kỳ.
+
+
+### Tầng tâm lý
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+Khách bớt cảm giác phải tự xoay xở những nghiệp vụ ngoài chuyên môn và có cơ sở để theo dõi trách nhiệm của người phụ trách kế toán.
+
+
+## 1.4. Giá trị cốt lõi
+
+
+[ĐỀ XUẤT]
+
+
+Không chỉ làm sổ sách và tờ khai theo thỏa thuận, Mã Thị Bích còn hướng dẫn chủ doanh nghiệp chuẩn bị hóa đơn, chứng từ từ giai đoạn đầu và trực tiếp phối hợp xử lý các công việc kế toán phát sinh.
+
+
+## 1.5. Lý do khách lựa chọn
+
+
+[ĐỀ XUẤT — CHƯA XÁC NHẬN LÀ ĐỘNG CƠ MUA THỰC TẾ]
+
+
+- Cần người có nghiệp vụ kế toán và thuế.
+- Chưa có kế toán nội bộ.
+- Chưa biết tổ chức chứng từ.
+- Chưa quen thao tác hóa đơn.
+- Muốn có người theo dõi công việc định kỳ.
+- Muốn trao đổi trực tiếp với người nhận phụ trách.
+- Cần sự liên tục từ giai đoạn thành lập đến vận hành.
+
+
+## 1.6. Giới hạn
+
+
+Dịch vụ chỉ thực hiện theo phạm vi và năng lực được thống nhất.
+
+
+Không cam kết:
+- Không bao giờ có sai sót.
+- Không bao giờ bị xử phạt.
+- Hoàn thành mọi loại hồ sơ.
+- Hỗ trợ không giới hạn.
+- Phản hồi 24/7.
+- Miễn phí tất cả công việc ngoài gói.
+
+
+---
+
+
+# KHỐI 02 — CHÂN DUNG KHÁCH HÀNG MỤC TIÊU
+
+
+## 2.1. Khách hàng ưu tiên
+
+
+[THỰC TẾ + ĐỀ XUẤT PHÂN KHÚC]
+
+
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp.
+
+
+Đặc điểm:
+
+
+- Đã có hoạt động kinh doanh thực tế.
+- Chưa quen quy trình kế toán doanh nghiệp.
+- Chưa có kế toán nội bộ phụ trách.
+- Cần hướng dẫn hóa đơn và chứng từ.
+- Cần thực hiện công việc kế toán, thuế định kỳ.
+- Người quyết định thuê thường là chủ doanh nghiệp hoặc giám đốc.
+
+
+Địa bàn ưu tiên: Cao Bằng.
+
+
+Có thể nhận khách trực tuyến trên toàn quốc nếu phạm vi và điều kiện phối hợp phù hợp.
+
+
+## 2.2. Phân khúc khách
+
+
+### Nhóm A — Ưu tiên cao nhất
+
+
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp, chưa quen hóa đơn và chứng từ.
+
+
+### Nhóm B — Ưu tiên thứ hai
+
+
+Doanh nghiệp nhỏ đang hoạt động, chưa có kế toán nội bộ hoặc đang cần thuê người phụ trách kế toán định kỳ.
+
+
+### Nhóm C — Nhu cầu bổ trợ
+
+
+Doanh nghiệp cần thành lập, thay đổi đăng ký hoặc hỗ trợ hồ sơ phát sinh theo từng lần.
+
+
+## 2.3. Kinh nghiệm khách hàng hiện tại
+
+
+[THỰC TẾ]
+
+
+Đang nhận kế toán trọn gói cho 4 doanh nghiệp:
+
+
+| Ngành | Số doanh nghiệp | Doanh thu từng doanh nghiệp |
+|---|---:|---|
+| Tour xe máy và cho thuê xe máy | 2 | Dưới 3 tỷ đồng/năm |
+| Sản xuất cơ khí nhôm kính | 1 | Dưới 3 tỷ đồng/năm |
+| Vệ sinh công nghiệp | 1 | Dưới 3 tỷ đồng/năm |
+
+
+Ngoài ra, Mã Thị Bích đang phụ trách kế toán nội bộ và thuế tại một doanh nghiệp sửa chữa ô tô có doanh thu khoảng 10 tỷ đồng/năm.
+
+
+Cả 4 khách dịch vụ đều đã được hỗ trợ thủ tục thành lập doanh nghiệp trước khi tiếp tục sử dụng dịch vụ kế toán.
+
+
+Phần lớn khách dịch vụ chuyển lên từ hộ kinh doanh.
+
+
+Khối lượng ước tính của một khách điển hình: khoảng 500 hóa đơn đầu vào và đầu ra cộng lại mỗi tháng.
+
+
+## 2.4. Một ngày điển hình của khách
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+08:00 — Tập trung bán hàng, quản lý nhân viên, điều phối đơn hàng hoặc hoạt động dịch vụ.
+
+
+10:30 — Khách yêu cầu xuất hóa đơn; chủ doanh nghiệp phải tìm thông tin hoặc hỏi người hướng dẫn.
+
+
+14:00 — Phát sinh hợp đồng, thanh toán, hóa đơn mua vào hoặc hồ sơ nhân công.
+
+
+17:30 — Nhận ra còn chứng từ chưa lưu hoặc chưa gửi kế toán.
+
+
+Cuối quý — Muốn biết hồ sơ đã đầy đủ chưa và cần chuẩn bị khoản thuế nào.
+
+
+## 2.5. Tình huống kích hoạt nhu cầu
+
+
+- Chuẩn bị chuyển từ hộ kinh doanh lên doanh nghiệp.
+- Vừa được cấp giấy chứng nhận đăng ký doanh nghiệp.
+- Phát sinh giao dịch cần xuất hóa đơn.
+- Chưa biết lưu và gửi chứng từ cho kế toán.
+- Đến kỳ cần theo dõi nghĩa vụ thuế.
+- Phát sinh lao động, tiền lương, BHXH.
+- Thay đổi địa chỉ hoặc đăng ký địa điểm kinh doanh mới.
+- Muốn giao việc kế toán cho người phụ trách định kỳ.
+
+
+## 2.6. Khách không phù hợp
+
+
+- Chỉ cần một công việc đơn lẻ nhưng không có nhu cầu thuê kế toán định kỳ.
+- Không sẵn sàng cung cấp thông tin cần thiết.
+- Yêu cầu xử lý giao dịch không có thật hoặc trái quy định.
+- Có nghiệp vụ vượt khả năng thực hiện.
+- Cần nhân sự kế toán toàn thời gian tại trụ sở trong khi chỉ có thể cung cấp dịch vụ theo thỏa thuận.
+- Có khối lượng quá lớn so với năng lực tiếp nhận thực tế.
+
+
+---
+
+
+# KHỐI 03 — PAIN, MONG MUỐN VÀ JTBD
+
+
+## 3.1. Pain — Bảy nỗi đau
+
+
+P1 — CHƯA QUEN XUẤT HÓA ĐƠN
+
+
+Biểu hiện:
+- Không biết thao tác trên phần mềm.
+- Chưa biết chuẩn bị thông tin lập hóa đơn.
+- Phải hỏi người khác khi khách yêu cầu.
+
+
+Cảm xúc giả định:
+- Sợ làm sai.
+- Ngại mất thời gian trước khách hàng.
+
+
+P2 — CHỨNG TỪ RỜI RẠC
+
+
+Biểu hiện:
+- Ảnh giấy tờ, hóa đơn và thông tin giao dịch nằm nhiều nơi.
+- Không biết chứng từ nào cần gửi.
+- Thiếu hồ sơ khi kế toán tổng hợp.
+
+
+Cảm xúc giả định:
+- Lo đến kỳ không tìm đủ giấy tờ.
+
+
+P3 — KHÔNG BIẾT THEO DÕI THUẾ
+
+
+Biểu hiện:
+- Chưa rõ công việc cần thực hiện theo kỳ.
+- Không biết thông tin nào phải chuẩn bị.
+- Cần được thông báo số thuế phải nộp.
+
+
+Cảm xúc giả định:
+- Sợ bị động khi có yêu cầu về thuế.
+
+
+P4 — THIẾU KẾ TOÁN NỘI BỘ
+
+
+Biểu hiện:
+- Chủ doanh nghiệp phải tự theo dõi từng đầu việc.
+- Không có người phụ trách thường xuyên.
+- Mất thời gian hỏi nhiều người.
+
+
+Cảm xúc giả định:
+- Mệt vì phải giải quyết việc ngoài chuyên môn.
+
+
+P5 — KHÓ XỬ LÝ HỒ SƠ NHÂN CÔNG
+
+
+Biểu hiện:
+- Phát sinh hợp đồng lao động.
+- Có thông tin tiền lương, BHXH.
+- Chưa rõ hồ sơ cần chuẩn bị và lưu trữ.
+
+
+Cảm xúc giả định:
+- Lo hồ sơ thiếu khi cần sử dụng hoặc kiểm tra.
+
+
+P6 — PHÁT SINH THAY ĐỔI DOANH NGHIỆP
+
+
+Biểu hiện:
+- Cần thay đổi địa chỉ.
+- Cần đăng ký địa điểm kinh doanh.
+- Cần hoàn thiện hồ sơ theo yêu cầu mới.
+
+
+Cảm xúc giả định:
+- Sợ thủ tục làm gián đoạn hoạt động.
+
+
+P7 — KHÓ ĐÁNH GIÁ NGƯỜI LÀM KẾ TOÁN
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+Biểu hiện:
+- Không biết người phụ trách đã xử lý công việc đến đâu.
+- Chưa rõ hồ sơ bàn giao phải gồm những gì.
+- Khó đánh giá chất lượng dịch vụ.
+
+
+Cảm xúc giả định:
+- Sợ giao việc rồi vẫn phải tự giám sát toàn bộ.
+
+
+## 3.2. Mong muốn khách hàng theo bốn tầng
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+Tầng 1 — Chức năng:
+"Tôi cần người làm sổ sách và thuế."
+
+
+Tầng 2 — Vận hành:
+"Tôi muốn biết phải gửi hồ sơ gì, thiếu gì thì được nhắc."
+
+
+Tầng 3 — Cảm xúc:
+"Tôi muốn bớt lo mỗi lần phát sinh việc về hóa đơn và thuế."
+
+
+Tầng 4 — Vị thế:
+"Tôi muốn tập trung điều hành doanh nghiệp thay vì loay hoay với những việc giấy tờ mình không hiểu."
+
+
+## 3.3. JTBD — Jobs To Be Done
+
+
+JTBD là công việc khách thực sự muốn hoàn thành khi thuê dịch vụ.
+
+
+JTBD chính:
+
+
+"Khi vừa chuyển từ hộ kinh doanh lên doanh nghiệp, tôi cần một người biết làm kế toán và thuế, hướng dẫn từ những chứng từ đầu tiên và phụ trách công việc định kỳ, để tôi không phải tự xoay xở tất cả nghiệp vụ ngoài chuyên môn."
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+JTBD chức năng:
+Có người tiếp nhận, xử lý và bàn giao công việc kế toán theo thỏa thuận.
+
+
+JTBD cảm xúc:
+Bớt cảm giác thiếu kiểm soát khi gặp công việc kế toán, thuế.
+
+
+JTBD xã hội/vị thế:
+Có thể điều hành doanh nghiệp với sự rõ ràng về trách nhiệm và đầu việc.
+
+
+## 3.4. Thứ tự ưu tiên Pain
+
+
+[ĐỀ XUẤT]
+
+
+Pain dùng thu hút ban đầu: P1.
+
+
+Pain làm rõ giá trị thuê định kỳ: P3, P4.
+
+
+Pain giúp giải thích quy trình dịch vụ: P2, P5.
+
+
+Pain mở ra dịch vụ phát sinh: P6.
+
+
+Pain cần giải quyết để tạo niềm tin: P7.
+
+
+---
+
+
+# KHỐI 04 — INSIGHT CHIẾN LƯỢC VÀ BẢN ĐỒ 10 Ô
+
+
+## 4.1. Insight trung tâm
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+"Tôi chuyển lên doanh nghiệp để kinh doanh bài bản hơn, nhưng lại phải đối mặt với những công việc kế toán, thuế mà trước đây tôi chưa từng quản lý."
+
+
+"Tôi không nhất thiết muốn trở thành người giỏi kế toán. Tôi muốn biết khi phát sinh hóa đơn, chứng từ hoặc hồ sơ thuế, ai sẽ hướng dẫn và chịu trách nhiệm phần việc đã nhận."
+
+
+## 4.2. Mâu thuẫn tâm lý
+
+
+Khách muốn giảm chi phí thuê kế toán, nhưng cũng không muốn tự gánh toàn bộ công việc và rủi ro do thiếu kiến thức nghiệp vụ.
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+Hướng tư vấn: Giúp khách so sánh rõ các phần việc có thể tự thực hiện, phần việc cần chuyên môn và trách nhiệm khi thuê dịch vụ.
+
+
+## 4.3. Bản đồ Insight 10 ô
+
+
+| Ô | Nội dung |
+|---|---|
+| 01. Bối cảnh | Vừa chuyển từ hộ kinh doanh lên doanh nghiệp |
+| 02. Kích hoạt | Phát sinh hóa đơn, chứng từ hoặc kỳ kê khai |
+| 03. Pain | Thiếu người theo dõi kế toán và thuế |
+| 04. Nỗi sợ | Làm sai hoặc bỏ sót việc mà không biết |
+| 05. Mong muốn | Có người hướng dẫn và phụ trách rõ ràng |
+| 06. Niềm tin | Cần người có kinh nghiệm và trao đổi trực tiếp |
+| 07. Rào cản | Chi phí, bảo mật, trách nhiệm, chất lượng |
+| 08. Lựa chọn khác | Tự làm, nhờ người quen, thuê kế toán nội bộ, thuê dịch vụ khác |
+| 09. Điều kiện quyết định | Hiểu rõ phạm vi, giá, cách làm việc và trách nhiệm |
+| 10. Chuyển hóa | Từ tự xoay xở sang có đầu mối phụ trách |
+
+
+## 4.4. Hàm ý hành động theo từng ô
+
+
+Ô 01:
+Tiếp cận khách từ giai đoạn thành lập, không đợi đến kỳ báo cáo.
+
+
+Ô 02:
+Dùng nội dung về những giao dịch đầu tiên cần xuất hóa đơn và chuẩn bị chứng từ.
+
+
+Ô 03:
+Giải thích vì sao chỉ biết xuất hóa đơn chưa đủ để quản lý công việc kế toán định kỳ.
+
+
+Ô 04:
+Làm rõ cách kiểm tra chứng từ, trách nhiệm hai bên và quy trình xử lý sai sót.
+
+
+Ô 05:
+Trình bày đầu ra dịch vụ và cách phối hợp.
+
+
+Ô 06:
+Giới thiệu kinh nghiệm thực tế, loại hồ sơ từng xử lý và cách trao đổi với khách.
+
+
+Ô 07:
+Dùng bảng phạm vi, điều kiện hợp đồng và chính sách bảo mật đã xác nhận.
+
+
+Ô 08:
+So sánh phương án dựa trên nhu cầu thực, không hạ thấp lựa chọn khác.
+
+
+Ô 09:
+Trả lời năm câu hỏi:
+1. Ai trực tiếp phụ trách?
+2. Công việc nào được làm?
+3. Khách phải cung cấp gì?
+4. Phí bao nhiêu và khi nào phát sinh thêm?
+5. Sau mỗi kỳ khách nhận được gì?
+
+
+Ô 10:
+Mô tả sự thay đổi về cách phối hợp và theo dõi công việc, không hứa loại bỏ hoàn toàn rủi ro.
+
+
+## 4.5. Thông điệp xuất phát từ Insight
+
+
+"Mới lên doanh nghiệp, chưa quen hóa đơn và chứng từ? Có Mã Thị Bích trực tiếp hướng dẫn và phụ trách kế toán theo thỏa thuận."
+
+
+## 4.6. Bộ câu hỏi kiểm chứng Insight
+
+
+1. Khi vừa thành lập doanh nghiệp, việc gì về hóa đơn hoặc kế toán khiến anh/chị gặp khó khăn đầu tiên?
+2. Trước khi thuê kế toán, anh/chị đã tự làm hoặc nhờ ai?
+3. Lý do quan trọng nhất khiến anh/chị quyết định thuê dịch vụ lúc đó là gì?
+4. Trong quá trình sử dụng, phần hỗ trợ nào có ích nhất?
+5. Nếu giới thiệu dịch vụ cho người quen, anh/chị sẽ nói điểm nào đáng chú ý?
+
+
+Chỉ ghi nhận VOC thật khi có câu trả lời thực tế.
+Không biến câu nói giả định thành lời chứng thực.
+
+
+---
+
+
+# KHỐI 05 — BẢN ĐỒ TRỞ NGẠI
+
+
+## 5.1. Kết quả khách hướng tới
+
+
+Từ chủ hộ vừa chuyển lên doanh nghiệp, chưa quen công việc kế toán, trở thành chủ doanh nghiệp có đầu mối phụ trách kế toán và thuế, biết cách phối hợp, theo dõi trách nhiệm và nhận kết quả bàn giao theo thỏa thuận.
+
+
+## 5.2. Chín trở ngại
+
+
+O1 — Không biết chuẩn bị gì sau thành lập.
+Hệ quả: Bối rối ngay từ đầu.
+
+
+O2 — Chưa quen xuất hóa đơn.
+Hệ quả: Cần người hướng dẫn khi phát sinh giao dịch.
+
+
+O3 — Chứng từ chưa được tổ chức.
+Hệ quả: Khó tập hợp và bàn giao cho kế toán.
+
+
+O4 — Không biết ai theo dõi công việc thuế định kỳ.
+Hệ quả: Lo bỏ sót nghĩa vụ.
+
+
+O5 — Không có kế toán nội bộ.
+Hệ quả: Chủ doanh nghiệp phải tự xoay xở.
+
+
+O6 — Phát sinh hợp đồng, lương và BHXH.
+Hệ quả: Khó chuẩn bị đúng hồ sơ.
+
+
+O7 — Chưa thấy giá trị tương xứng với phí.
+Hệ quả: Chần chừ khi quyết định thuê.
+
+
+O8 — Lo bảo mật, trách nhiệm và chất lượng.
+Hệ quả: Ngại giao hồ sơ.
+
+
+O9 — Phát sinh thay đổi đăng ký hoặc giải trình.
+Hệ quả: Cần hỗ trợ ngoài công việc định kỳ.
+
+
+O7 và O8 là giả thuyết cần xác nhận.
+
+
+## 5.3. Ma trận trở ngại — giải pháp — tầng sản phẩm
+
+
+| Trở ngại | Giải pháp | Tầng |
+|---|---|---|
+| O1 | Checklist khởi đầu | Mồi câu |
+| O2 | Hướng dẫn hóa đơn | Tripwire/Core |
+| O3 | Quy trình gửi chứng từ | Core |
+| O4 | Kê khai, thông báo theo kỳ | Core |
+| O5 | Kế toán trọn gói | Core |
+| O6 | Hồ sơ lương và BHXH theo phạm vi | Core/ngoài gói |
+| O7 | Khảo sát và báo giá minh bạch | Trước Core |
+| O8 | Làm rõ kinh nghiệm, quy trình, trách nhiệm | Xuyên suốt |
+| O9 | Xử lý hồ sơ phát sinh | Ngoài thang/Premium |
+
+
+## 5.4. Ba điểm nghẽn chiến lược
+
+
+Điểm nghẽn 1:
+Khách chưa biết bắt đầu từ đâu.
+
+
+Giải pháp:
+Tài liệu hướng dẫn đơn giản và nội dung theo tình huống.
+
+
+Điểm nghẽn 2:
+Khách chưa có khả năng tự tổ chức kế toán.
+
+
+Giải pháp:
+Gói Core có người phụ trách theo tháng và quy trình phối hợp cụ thể.
+
+
+Điểm nghẽn 3:
+Khách chưa có đủ cơ sở để tin tưởng và ký hợp đồng.
+
+
+Giải pháp:
+Bảng phạm vi công việc, năng lực thực tế, trách nhiệm và điều kiện hợp đồng minh bạch.
+
+
+---
+
+
+# KHỐI 06 — THANG SẢN PHẨM
+
+
+## 6.1. Sơ đồ tổng thể
+
+
+MỒI CÂU
+↓
+TRIPWIRE
+↓
+CORE
+↓
+PREMIUM
+↓
+CONTINUITY
+
+
+Đây là thang giá trị, không phải đường đi bắt buộc của mọi khách.
+
+
+Khách đã có nhu cầu rõ có thể đi thẳng vào Core.
+
+
+## 6.2. Tầng 1 — Mồi câu
+
+
+[ĐỀ XUẤT — CHƯA TRIỂN KHAI]
+
+
+Tên:
+"Checklist khởi đầu kế toán cho doanh nghiệp mới".
+
+
+Đối tượng:
+Chủ hộ vừa chuyển lên doanh nghiệp.
+
+
+Trở ngại:
+O1; một phần O2 và O3.
+
+
+Định dạng đề xuất:
+PDF hoặc nội dung gửi qua Zalo.
+
+
+Nội dung:
+1. Thông tin doanh nghiệp cần chuẩn bị.
+2. Hóa đơn đầu vào, đầu ra cần theo dõi.
+3. Thông tin cần kiểm tra khi lập hóa đơn.
+4. Hồ sơ hợp đồng, thanh toán.
+5. Hồ sơ nhân công nếu phát sinh.
+6. Những câu hỏi cần trao đổi với kế toán.
+
+
+Kết quả bước đầu:
+Khách có thể nhận diện những giấy tờ mình đã có và thông tin còn thiếu.
+
+
+Giá:
+Miễn phí là đề xuất, chưa xác nhận chính sách.
+
+
+CTA:
+"Bạn đã có giấy tờ nhưng chưa rõ phần nào cần gửi kế toán? Hãy trao đổi tình huống của doanh nghiệp mình."
+
+
+## 6.3. Tầng 2 — Tripwire
+
+
+[ĐỀ XUẤT — CHƯA TRIỂN KHAI]
+
+
+Tên:
+"Buổi khởi động hóa đơn và chứng từ cho doanh nghiệp mới".
+
+
+Đối tượng:
+Chủ doanh nghiệp có giao dịch phát sinh nhưng chưa quen hóa đơn và cách lưu chứng từ.
+
+
+Trở ngại:
+O2, O3, một phần O7.
+
+
+Đầu ra dự kiến:
+1. Danh sách chứng từ cần chuẩn bị.
+2. Hướng dẫn kiểm tra thông tin trước khi lập hóa đơn.
+3. Cách phối hợp và gửi hồ sơ cho kế toán.
+4. Danh sách phần việc tự làm và phần việc nên giao chuyên môn.
+
+
+Giá: [CẦN BỔ SUNG]
+Thời lượng: [CẦN BỔ SUNG]
+Hình thức: [CẦN BỔ SUNG]
+Chính sách: [CẦN BỔ SUNG]
+
+
+CTA:
+"Nếu cần người tiếp nhận chứng từ, làm sổ sách và theo dõi thuế thường xuyên, mình có thể khảo sát để báo gói kế toán trọn gói."
+
+
+Lưu ý:
+Có thể dùng buổi này như phần tiếp nhận Core thay vì bán riêng nếu nguồn lực không phù hợp.
+
+
+## 6.4. Tầng 3 — Core
+
+
+[THỰC TẾ VỀ DỊCH VỤ; ĐỀ XUẤT VỀ TÊN THƯƠNG MẠI]
+
+
+Tên:
+"Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp".
+
+
+Đối tượng:
+Doanh nghiệp nhỏ chưa có kế toán nội bộ, cần người phụ trách kế toán định kỳ.
+
+
+Trở ngại:
+O2, O3, O4, O5, O6 và một phần O8.
+
+
+Công việc hiện có:
+- Hóa đơn.
+- Chứng từ.
+- Sổ MISA.
+- Kê khai thuế.
+- Báo cáo tài chính.
+- Quyết toán năm.
+- Lương, BHXH theo phạm vi thỏa thuận.
+
+
+Giá hiện tại:
+
+
+| Doanh thu năm | Phí kế toán trọn gói/tháng |
+|---|---|
+| Đến 3 tỷ đồng | 2.500.000–3.000.000 đồng |
+| Trên 3 đến 10 tỷ đồng | 5.000.000–8.000.000 đồng |
+
+
+Đầu ra đầu tiên:
+Khách biết người phụ trách, phương thức gửi chứng từ và danh sách thông tin cần chuẩn bị.
+
+
+CTA:
+"Trao đổi tình trạng doanh nghiệp để xác định phạm vi và báo giá."
+
+
+## 6.5. Tầng 4 — Premium
+
+
+[ĐỀ XUẤT — CHƯA CÓ BẢNG GIÁ CHUẨN]
+
+
+Tên:
+"Rà soát và xử lý hồ sơ kế toán, thuế theo tình trạng thực tế".
+
+
+Đối tượng:
+Doanh nghiệp có hồ sơ tồn đọng, cần rà soát chuyên sâu hoặc xử lý yêu cầu vượt gói định kỳ.
+
+
+Trở ngại:
+Hồ sơ cũ, thiếu chứng từ, nhu cầu giải trình hoặc nghiệp vụ phức tạp.
+
+
+Đầu ra dự kiến:
+1. Đánh giá tình trạng hồ sơ.
+2. Danh sách vấn đề.
+3. Phạm vi và kế hoạch xử lý.
+4. Hồ sơ, kết quả bàn giao theo thỏa thuận.
+
+
+Giá: [CẦN BỔ SUNG]
+Phạm vi nhận: [CẦN BỔ SUNG]
+
+
+Chỉ nhận công việc phù hợp với năng lực, nguồn lực và điều kiện pháp lý áp dụng.
+
+
+CTA:
+"Gửi mô tả tình trạng hồ sơ để xác định phạm vi cần rà soát."
+
+
+## 6.6. Tầng 5 — Continuity
+
+
+[ĐỀ XUẤT CƠ CHẾ DUY TRÌ]
+
+
+Tên:
+"Duy trì đồng hành kế toán".
+
+
+Không nhất thiết tạo gói phí mới.
+
+
+Mục tiêu:
+Duy trì dịch vụ hiện có, đánh giá thay đổi hoạt động và rà soát phạm vi khi cần.
+
+
+Công việc:
+- Tiếp tục thực hiện kế toán theo hợp đồng.
+- Theo dõi chứng từ còn thiếu.
+- Rà soát biến động về hoạt động và khối lượng.
+- Trao đổi nhu cầu phát sinh.
+- Điều chỉnh phạm vi và phí theo thỏa thuận mới nếu cần.
+
+
+Giá phát sinh: [CẦN BỔ SUNG]
+
+
+CTA:
+"Mình cùng rà soát xem khối lượng và công việc hiện tại có thay đổi so với phạm vi đang thực hiện không."
+
+
+## 6.7. Dịch vụ ngoài thang
+
+
+| Dịch vụ | Trạng thái | Giá |
+|---|---|---|
+| Thành lập doanh nghiệp | Đang nhận | [CẦN BỔ SUNG] |
+| Thay đổi đăng ký doanh nghiệp | Đang nhận | 500.000–2.000.000 đồng/lần |
+| Hỗ trợ giải trình thuế/BHXH | Theo yêu cầu | [CẦN BỔ SUNG] |
+| Rà soát sổ sách cũ | Chưa có giá chuẩn | [CẦN BỔ SUNG] |
+| Xử lý hồ sơ tồn đọng | Chưa có giá chuẩn | [CẦN BỔ SUNG] |
+
+
+Trường hợp KH01 từng được hỗ trợ hai thủ tục không thu thêm phí không đồng nghĩa với chính sách miễn phí cho mọi khách.
+
+
+## 6.8. Nguyên tắc điều hướng
+
+
+Khách chưa biết bắt đầu:
+Gợi ý Mồi câu.
+
+
+Khách chỉ cần hiểu hóa đơn, chứng từ:
+Xem nhu cầu Tripwire; chưa hứa dịch vụ riêng khi chưa triển khai.
+
+
+Khách cần kế toán định kỳ:
+Khảo sát và đề xuất Core.
+
+
+Khách có hồ sơ chuyên sâu:
+Khảo sát khả năng nhận Premium hoặc dịch vụ riêng.
+
+
+Khách đang dùng Core:
+Duy trì theo Continuity, chỉ đề xuất thay đổi phạm vi khi có căn cứ.
+
+
+---
+
+
+# KHỐI 07 — OFFER GRAND SLAM CORE
+
+
+## 7.1. Tên Offer
+
+
+KẾ TOÁN TRỌN GÓI — ĐỒNG HÀNH TỪ NGÀY ĐẦU DOANH NGHIỆP.
+
+
+## 7.2. Lời đề nghị một dòng
+
+
+"Mã Thị Bích nhận kế toán trọn gói theo tháng cho doanh nghiệp nhỏ, trực tiếp hướng dẫn chứng từ và hóa đơn, thực hiện sổ sách MISA, kê khai và báo cáo thuế theo phạm vi thỏa thuận, để chủ doanh nghiệp có một đầu mối kế toán đồng hành trong quá trình hoạt động."
+
+
+## 7.3. Hai headline thay thế
+
+
+Headline A:
+"Vừa chuyển lên doanh nghiệp, chưa có kế toán riêng? Có người hướng dẫn hóa đơn và phụ trách kế toán ngay từ giai đoạn đầu."
+
+
+Headline B:
+"12 năm kinh nghiệm kế toán — Mã Thị Bích trực tiếp nhận và theo dõi sổ sách, thuế cho doanh nghiệp nhỏ."
+
+
+## 7.4. Value Stack V1–V8
+
+
+V1 — HƯỚNG DẪN BAN ĐẦU
+Khách biết cần chuẩn bị những thông tin, giấy tờ gì.
+Giải quyết O1, O3.
+
+
+V2 — HÓA ĐƠN
+Lập hóa đơn dựa trên thông tin khách cung cấp và hướng dẫn thao tác khi cần.
+Giải quyết O2.
+
+
+V3 — XỬ LÝ CHỨNG TỪ
+Tiếp nhận, kiểm tra thông tin và nhắc bổ sung hồ sơ còn thiếu.
+Giải quyết O3.
+
+
+V4 — SỔ SÁCH MISA
+Nhập liệu, hạch toán và lên sổ theo phạm vi nhận làm.
+Giải quyết O3, O5.
+
+
+V5 — CÔNG VIỆC THUẾ THEO KỲ
+Thực hiện kê khai và thông báo số thuế cần nộp theo phạm vi, kỳ áp dụng.
+Giải quyết O4.
+
+
+V6 — BÁO CÁO NĂM
+Lập báo cáo tài chính, quyết toán năm và bàn giao kết quả theo thỏa thuận.
+Giải quyết O4, O5.
+
+
+V7 — LƯƠNG VÀ BHXH
+Xử lý công việc đã thống nhất thuộc nghiệp vụ lương và BHXH.
+Giải quyết O6.
+
+
+V8 — TRAO ĐỔI TRỰC TIẾP
+Mã Thị Bích trực tiếp trao đổi qua Zalo; điện thoại hoặc gặp trực tiếp khi cần và phù hợp.
+Giải quyết O5, O8.
+
+
+## 7.5. Bonus B1–B4
+
+
+[ĐỀ XUẤT — CHƯA TRIỂN KHAI CHÍNH THỨC]
+
+
+B1 — Checklist chứng từ ban đầu.
+Giải quyết: Khách chưa biết bắt đầu từ đâu.
+
+
+B2 — Hướng dẫn gửi chứng từ qua Zalo.
+Giải quyết: Khách sợ việc gửi giấy tờ phức tạp.
+
+
+B3 — Bảng phân chia trách nhiệm hai bên.
+Giải quyết: Khách lo không rõ ai chịu trách nhiệm.
+
+
+B4 — Danh sách công việc và kết quả bàn giao theo kỳ.
+Giải quyết: Khách không biết kế toán đã làm những gì.
+
+
+Không định giá ảo cho Bonus.
+Không quảng cáo là tặng kèm chính thức trước khi được xác nhận.
+
+
+## 7.6. Value Equation
+
+
+Giá trị cảm nhận tăng khi:
+- Kết quả mong muốn rõ ràng hơn.
+- Niềm tin đạt kết quả được củng cố.
+- Thời gian chờ giảm trong phạm vi thực tế.
+- Công sức khách phải bỏ ra giảm.
+
+
+Áp dụng cho Mã Thị Bích:
+
+
+Kết quả:
+Có người phụ trách kế toán định kỳ theo phạm vi.
+
+
+Niềm tin:
+Kinh nghiệm 12 năm, 4 khách dịch vụ và quy trình rõ.
+
+
+Thời gian:
+Có cơ chế tiếp nhận, xử lý và bàn giao; thời hạn cụ thể [CẦN BỔ SUNG].
+
+
+Công sức:
+Khách được hướng dẫn chuẩn bị và gửi chứng từ, thay vì tự tìm hiểu tất cả nghiệp vụ.
+
+
+Đây là khung giá trị định tính, không phải công thức dự báo kết quả.
+
+
+## 7.7. Cơ chế cung cấp giá trị
+
+
+Tên:
+TIẾP NHẬN RÕ — XỬ LÝ ĐÚNG PHẠM VI — BÀN GIAO THEO KỲ.
+
+
+Bước 01 — Khảo sát:
+Hỏi ngành, tình trạng thành lập, số hóa đơn, chứng từ và công việc cần làm.
+
+
+Bước 02 — Thống nhất:
+Xác định phạm vi, phí, trách nhiệm, cách phối hợp và điều kiện hợp đồng.
+
+
+Bước 03 — Tiếp nhận:
+Nhận thông tin, chứng từ qua kênh phù hợp và hướng dẫn bổ sung.
+
+
+Bước 04 — Xử lý:
+Làm hóa đơn, chứng từ, sổ MISA, công việc thuế và nghiệp vụ theo phạm vi đã nhận.
+
+
+Bước 05 — Bàn giao:
+Thông báo tờ khai, số thuế cần nộp và kết quả theo kỳ.
+
+
+Bước 06 — Rà soát:
+Đánh giá thay đổi hoạt động và công việc ngoài phạm vi.
+
+
+Bước 01, 02 và 06 là phần chuẩn hóa đề xuất từ cách làm thực tế.
+
+
+## 7.8. Giá Offer
+
+
+[THỰC TẾ]
+
+
+Doanh thu đến 3 tỷ đồng/năm:
+2.500.000–3.000.000 đồng/tháng.
+
+
+Doanh thu trên 3 đến 10 tỷ đồng/năm:
+5.000.000–8.000.000 đồng/tháng.
+
+
+Giá cụ thể cần xem:
+- Doanh thu năm.
+- Ngành kinh doanh.
+- Tình trạng hồ sơ.
+- Khối lượng chứng từ.
+- Nghiệp vụ phát sinh.
+- Phạm vi công việc.
+
+
+Không tự thêm mức chiết khấu, khuyến mãi hoặc giá neo.
+
+
+## 7.9. Guarantee — Cam kết có điều kiện
+
+
+[ĐỀ XUẤT — CHƯA PHẢI ĐIỀU KHOẢN CHÍNH THỨC]
+
+
+"Mình thực hiện công việc kế toán, thuế theo phạm vi hai bên đã thống nhất; trao đổi khi phát hiện thông tin hoặc chứng từ cần bổ sung; bàn giao kết quả theo kỳ và phối hợp xử lý những vấn đề thuộc trách nhiệm đã thỏa thuận, với điều kiện khách cung cấp thông tin trung thực, đầy đủ và đúng thời điểm."
+
+
+CẦN BỔ SUNG:
+- Điều khoản bảo mật.
+- Thời gian phản hồi.
+- Điều kiện thanh toán.
+- Xử lý sai sót.
+- Khiếu nại.
+- Hoàn phí hoặc chấm dứt dịch vụ.
+- Quy trình bàn giao khi kết thúc hợp đồng.
+
+
+## 7.10. Risk Reversal
+
+
+Giảm rủi ro cảm nhận bằng:
+1. Bảng phạm vi rõ.
+2. Trách nhiệm mỗi bên rõ.
+3. Đầu ra theo kỳ rõ.
+4. Chính sách dữ liệu được xác nhận.
+5. Điều kiện xử lý công việc phát sinh rõ.
+
+
+Không dùng cam kết tránh mọi rủi ro thuế.
+
+
+## 7.11. Urgency và Scarcity
+
+
+Urgency hợp lý:
+Khách vừa thành lập, phát sinh hóa đơn hoặc chuẩn bị kỳ xử lý hồ sơ.
+
+
+Không tạo hạn chót giả.
+
+
+Scarcity:
+Năng lực nhận thêm khách chưa xác định.
+
+
+Không quảng cáo "chỉ còn 5 suất".
+
+
+Mục tiêu thêm khoảng 5 khách trong 3–6 tháng là mục tiêu kinh doanh, không phải số lượng chỗ còn trống.
+
+
+## 7.12. Ma trận khóa Objection
+
+
+| Objection | Thành phần giải quyết | Hướng tư vấn |
+|---|---|---|
+| Chưa biết bắt đầu | V1, B1 | Xác định giấy tờ cần chuẩn bị |
+| Chưa biết xuất hóa đơn | V2 | Hỏi tình huống và hướng dẫn phù hợp |
+| Sợ gửi chứng từ khó | V3, B2 | Làm rõ cách gửi hồ sơ |
+| Không biết đã khai thuế chưa | V5, B4 | Giải thích công việc và đầu ra theo kỳ |
+| Lo bảo mật | V8, B3 | Làm rõ chính sách dữ liệu |
+| Lo chi phí | V1–V8 | So sánh phạm vi và khối lượng |
+| Sợ sai sót | B3, Guarantee | Làm rõ trách nhiệm hợp đồng |
+
+
+## 7.13. CTA chính
+
+
+"Bạn đang cần kế toán trọn gói cho doanh nghiệp mới? Nhắn mình ngành kinh doanh, doanh thu dự kiến và tình trạng hóa đơn, chứng từ hiện tại. Mình sẽ trao đổi về phạm vi dịch vụ phù hợp."
+
+
+## 7.14. CTA phụ
+
+
+"Mới lên doanh nghiệp và chưa biết bắt đầu từ đâu? Nhắn mình tình huống đang vướng về hóa đơn hoặc chứng từ để xác định bước tiếp theo."
+
+
+---
+
+
+# KHỐI 08 — ĐỊNH VỊ VÀ LỰA CHỌN CẠNH TRANH
+
+
+## 8.1. Tuyên bố định vị
+
+
+MÃ THỊ BÍCH — KẾ TOÁN TRỌN GÓI CHO DOANH NGHIỆP NHỎ, ĐẶC BIỆT LÀ CHỦ HỘ VỪA CHUYỂN LÊN DOANH NGHIỆP.
+
+
+"Không chỉ thực hiện sổ sách và kê khai thuế theo thỏa thuận, mình còn trực tiếp hướng dẫn khách chuẩn bị hóa đơn, chứng từ và phối hợp xử lý công việc kế toán trong quá trình doanh nghiệp hoạt động."
+
+
+## 8.2. Bốn trụ cột khác biệt có cơ sở
+
+
+1. KINH NGHIỆM THỰC TẾ
+
+
+12 năm làm kế toán, trong đó 5 năm làm kế toán thuế.
+
+
+2. KINH NGHIỆM TỪ THÀNH LẬP ĐẾN VẬN HÀNH
+
+
+Đã hỗ trợ 4 khách dịch vụ thành lập doanh nghiệp và tiếp tục phụ trách kế toán.
+
+
+3. TRỰC TIẾP HƯỚNG DẪN KHÁCH
+
+
+Trao đổi qua Zalo, hướng dẫn xuất hóa đơn, nhắc chứng từ.
+
+
+4. NHIỀU CÔNG VIỆC LIÊN QUAN TRONG MỘT ĐẦU MỐI
+
+
+Hóa đơn, chứng từ, sổ MISA, báo cáo, hồ sơ lao động và thủ tục doanh nghiệp theo phạm vi nhận làm.
+
+
+## 8.3. Các lựa chọn thay thế
+
+
+### Tự làm kế toán
+
+
+Phù hợp khi:
+Khách có đủ năng lực, thời gian và công cụ.
+
+
+Cần so sánh:
+Thời gian, khối lượng, chuyên môn và trách nhiệm.
+
+
+### Nhờ người quen
+
+
+Phù hợp khi:
+Có người đủ năng lực và trách nhiệm.
+
+
+Cần so sánh:
+Phạm vi, tính liên tục và khả năng bàn giao.
+
+
+### Thuê kế toán nội bộ
+
+
+Phù hợp khi:
+Có nhu cầu nhân sự thường xuyên tại chỗ.
+
+
+Cần so sánh:
+Khối lượng công việc, tổng chi phí và năng lực quản lý.
+
+
+### Thuê dịch vụ khác
+
+
+Phù hợp khi:
+Đơn vị đó có kinh nghiệm, quy trình và điều kiện tốt hơn cho nhu cầu khách.
+
+
+Cần so sánh:
+Người phụ trách, phạm vi, đầu ra, hợp đồng, giá.
+
+
+### Thuê Mã Thị Bích
+
+
+Phù hợp khi:
+Chủ doanh nghiệp nhỏ cần hướng dẫn giai đoạn đầu và phụ trách kế toán theo tháng, trong phạm vi Mã Thị Bích có thể nhận.
+
+
+## 8.4. Ngôn ngữ định vị
+
+
+Nên nói:
+- Có kinh nghiệm trực tiếp.
+- Hướng dẫn từ bước đầu.
+- Có đầu mối phụ trách.
+- Làm theo phạm vi thống nhất.
+- Bàn giao kết quả theo kỳ.
+- Phù hợp doanh nghiệp nhỏ.
+
+
+Không nói khi chưa có bằng chứng:
+- Tốt nhất Cao Bằng.
+- Rẻ nhất thị trường.
+- Không bao giờ xảy ra sai sót.
+- Chắc chắn không bị phạt.
+- Tiết kiệm một tỷ lệ chi phí cố định.
+- Đảm bảo mọi hồ sơ đều hoàn thành đúng hạn bất kể điều kiện.
+
+
+---
+
+
+# KHỐI 09 — HÀNH TRÌNH KHÁCH HÀNG 5 CHẶNG
+
+
+## 9.1. Sơ đồ
+
+
+BIẾT ĐẾN
+→ QUAN TÂM
+→ CÂN NHẮC
+→ QUYẾT ĐỊNH
+→ SỬ DỤNG, DUY TRÌ VÀ GIỚI THIỆU
+
+
+## 9.2. Chặng 1 — Biết đến
+
+
+Mindset:
+Khách chưa chủ động tìm dịch vụ kế toán, đang tập trung vận hành doanh nghiệp.
+
+
+Câu hỏi:
+- Mới thành lập cần chuẩn bị gì?
+- Khi có khách yêu cầu hóa đơn phải làm sao?
+- Có cần thuê kế toán chưa?
+
+
+Điểm chạm:
+Website quybich.vn, nội dung Facebook/Zalo đề xuất, giới thiệu từ người quen.
+
+
+Nội dung:
+Checklist 5 nhóm thông tin và chứng từ ban đầu.
+
+
+Proof:
+12 năm kinh nghiệm và các nhóm ngành đã trực tiếp xử lý.
+
+
+CTA:
+Xem hoặc nhận checklist.
+
+
+Tầng:
+Mồi câu — chưa triển khai.
+
+
+Chỉ số:
+Lượt xem, số người yêu cầu checklist, số cuộc trao đổi.
+
+
+Rơi rụng:
+Khách nghĩ chưa cần kế toán.
+
+
+Cách giữ:
+Dùng tình huống thực tế thay vì bán ngay gói tháng.
+
+
+## 9.3. Chặng 2 — Quan tâm
+
+
+Mindset:
+Khách nhận ra cần hướng dẫn nhưng chưa chắc cần dịch vụ trọn gói.
+
+
+Câu hỏi:
+- Có hướng dẫn xuất hóa đơn không?
+- Ảnh chứng từ gửi như thế nào?
+- Doanh nghiệp mới có cần thuê kế toán?
+
+
+Điểm chạm:
+Zalo, điện thoại, trao đổi trực tiếp.
+
+
+Nội dung:
+Mẫu khảo sát gồm ngành, thời điểm thành lập, tình trạng hóa đơn, người đang phụ trách và vấn đề cần xử lý.
+
+
+Proof:
+Kinh nghiệm hỗ trợ 4 khách từ thành lập đến vận hành.
+
+
+CTA:
+Gửi tình huống và thông tin doanh nghiệp để xác định nhu cầu.
+
+
+Tầng:
+Tripwire đề xuất hoặc khảo sát thẳng Core.
+
+
+Chỉ số:
+Số khách cung cấp thông tin, số cuộc tư vấn và số yêu cầu xem phạm vi.
+
+
+Rơi rụng:
+Khách ngại bị hỏi quá nhiều.
+
+
+Cách giữ:
+Chỉ hỏi thông tin cần thiết, giải thích mục đích.
+
+
+## 9.4. Chặng 3 — Cân nhắc
+
+
+Mindset:
+Khách đang so sánh người làm kế toán, giá và trách nhiệm.
+
+
+Câu hỏi:
+- Phí gồm những gì?
+- Ai trực tiếp làm?
+- Nếu gửi thiếu chứng từ thì sao?
+- Thuê từ xa có tiện không?
+
+
+Điểm chạm:
+Zalo, điện thoại, gặp trực tiếp nếu phù hợp.
+
+
+Nội dung:
+Bảng phạm vi Core, quy trình làm việc, đầu ra và thông tin về trách nhiệm.
+
+
+Proof:
+12 năm kế toán, 5 năm thuế, 4 khách dịch vụ và KH01 theo giới hạn quyền sử dụng.
+
+
+CTA:
+Nhận phạm vi và báo giá.
+
+
+Tầng:
+Core.
+
+
+Chỉ số:
+Số báo giá, phản hồi báo giá và lý do chưa quyết định.
+
+
+Rơi rụng:
+Khách chỉ thấy giá, chưa thấy công việc.
+
+
+Cách giữ:
+Giải thích cụ thể các đầu việc trong gói.
+
+
+## 9.5. Chặng 4 — Quyết định
+
+
+Mindset:
+Khách gần đồng ý nhưng cần rõ điều kiện.
+
+
+Câu hỏi:
+- Khi nào bắt đầu?
+- Gửi hồ sơ gì?
+- Thanh toán ra sao?
+- Phí phát sinh tính thế nào?
+
+
+Điểm chạm:
+Hợp đồng và trao đổi trực tiếp.
+
+
+Nội dung:
+Báo giá, bảng phạm vi, trách nhiệm hai bên, danh sách hồ sơ ban đầu.
+
+
+Proof:
+Đầu ra dịch vụ, kinh nghiệm và quy trình thực tế.
+
+
+CTA:
+Thống nhất điều khoản, ký hợp đồng.
+
+
+Tầng:
+Core.
+
+
+Chỉ số:
+Báo giá được chấp nhận, hợp đồng ký, thời gian ra quyết định.
+
+
+Rơi rụng:
+Điều khoản chưa rõ hoặc lo phát sinh phí.
+
+
+Cách giữ:
+Tổng hợp nội dung cần xác nhận, không tự giảm giá.
+
+
+## 9.6. Chặng 5 — Sử dụng và duy trì
+
+
+Mindset:
+Khách muốn thấy cách phối hợp thực tế có hiệu quả hay không.
+
+
+Câu hỏi:
+- Gửi chứng từ vào đâu?
+- Hồ sơ còn thiếu gì?
+- Thuế cần nộp bao nhiêu?
+- Hồ sơ thay đổi doanh nghiệp xử lý thế nào?
+
+
+Điểm chạm:
+Nhóm Zalo, thông báo thuế, sổ sách và báo cáo theo kỳ.
+
+
+Nội dung:
+Hướng dẫn tiếp nhận, nhắc chứng từ, cập nhật công việc và bàn giao.
+
+
+Proof:
+Kết quả thực tế và phản hồi được phép sử dụng.
+
+
+CTA:
+Duy trì hợp đồng; rà soát phạm vi; khảo sát Premium khi có phát sinh phù hợp; giới thiệu tự nguyện.
+
+
+Tầng:
+Continuity và Premium khi cần.
+
+
+Chỉ số:
+Khách tiếp tục sử dụng, hồ sơ bàn giao, yêu cầu phát sinh và giới thiệu.
+
+
+Rơi rụng:
+Không biết công việc đã làm đến đâu hoặc phối hợp khó.
+
+
+Cách giữ:
+Có cơ chế trao đổi, thông báo và bàn giao rõ ràng.
+
+
+## 9.7. CTA đúng tầng
+
+
+| Chặng | CTA | Tầng |
+|---|---|---|
+| Biết đến | Nhận checklist | Mồi câu |
+| Quan tâm | Trao đổi tình huống | Tripwire/Core |
+| Cân nhắc | Nhận phạm vi và báo giá | Core |
+| Quyết định | Thống nhất hợp đồng | Core |
+| Sử dụng | Duy trì và rà soát | Continuity |
+| Phát sinh chuyên sâu | Khảo sát hồ sơ riêng | Premium |
+
+
+Không quảng cáo các tầng chưa triển khai như dịch vụ đã có sẵn.
+
+
+---
+
+
+# KHỐI 10 — BẢN ĐỒ TÂM LÝ KHÁCH HÀNG 7 TẦNG
+
+
+Toàn bộ lời tự nói bên dưới là giả định, cần xác nhận với khách thật.
+
+
+## Tầng 1 — Chưa nhận ra vấn đề
+
+
+1. Nghĩ:
+"Mình mới lên doanh nghiệp, chắc công việc vẫn giống hồi hộ kinh doanh."
+
+
+2. Pain:
+Chưa biết những giấy tờ và công việc kế toán cần chuẩn bị.
+
+
+3. Muốn:
+Tiếp tục kinh doanh mà không bị gián đoạn.
+
+
+4. Sợ:
+Phát sinh nhiều việc giấy tờ.
+
+
+5. Rào cản:
+Chưa thấy cần quan tâm đến kế toán.
+
+
+6. Niềm tin cần xây:
+Việc tổ chức hóa đơn, chứng từ cần bắt đầu phù hợp với giao dịch phát sinh.
+
+
+7. Kéo sang bước sau:
+Nhìn thấy tình huống giống doanh nghiệp mình.
+
+
+8. Tự nói:
+"Có khi mình cũng cần biết mấy việc này."
+
+
+9. Big Message:
+"Mới lên doanh nghiệp, có những thông tin và chứng từ nên chuẩn bị ngay từ đầu."
+
+
+10. Không nên nói:
+"Không thuê kế toán ngay là chắc chắn bị phạt."
+
+
+11. Proof:
+Kinh nghiệm hỗ trợ sau thành lập.
+
+
+12. CTA:
+Xem checklist Mồi câu.
+
+
+13. Mục tiêu:
+Khách nhận diện vấn đề.
+
+
+## Tầng 2 — Nhận ra vấn đề
+
+
+1. Nghĩ:
+"Khách yêu cầu hóa đơn mà tôi vẫn phải hỏi cách làm."
+
+
+2. Pain:
+P1, P2.
+
+
+3. Muốn:
+Biết chuẩn bị thông tin và thao tác.
+
+
+4. Sợ:
+Làm sai hoặc ảnh hưởng giao dịch.
+
+
+5. Rào cản:
+Không biết hỏi từ đâu.
+
+
+6. Niềm tin cần xây:
+Có thể được hướng dẫn theo tình huống cụ thể.
+
+
+7. Kéo sang bước sau:
+Có người giải thích dễ hiểu.
+
+
+8. Tự nói:
+"Tôi cần ai đó hướng dẫn một lần cho rõ."
+
+
+9. Big Message:
+"Chưa quen hóa đơn không có nghĩa là phải tự tìm hiểu mọi thứ một mình."
+
+
+10. Không nên nói:
+"Việc này ai cũng làm được."
+
+
+11. Proof:
+Kinh nghiệm hướng dẫn khách xuất hóa đơn.
+
+
+12. CTA:
+Nhắn tình huống đang vướng.
+
+
+13. Mục tiêu:
+Khách đặt câu hỏi cụ thể.
+
+
+## Tầng 3 — Tìm kiếm giải pháp
+
+
+1. Nghĩ:
+"Tôi tự làm, nhờ người quen hay thuê kế toán?"
+
+
+2. Pain:
+P3, P4.
+
+
+3. Muốn:
+Có giải pháp phù hợp quy mô và ngân sách.
+
+
+4. Sợ:
+Thuê không cần thiết hoặc tự làm vượt khả năng.
+
+
+5. Rào cản:
+Chưa phân biệt việc một lần và việc định kỳ.
+
+
+6. Niềm tin:
+Cần chọn hình thức dựa trên nhu cầu thực tế.
+
+
+7. Kéo sang bước sau:
+Hiểu phạm vi kế toán trọn gói.
+
+
+8. Tự nói:
+"Nếu thuê, tôi phải biết họ làm gì."
+
+
+9. Big Message:
+"Hãy xác định công việc doanh nghiệp cần trước khi chọn gói kế toán."
+
+
+10. Không nên nói:
+"Doanh nghiệp nào cũng phải thuê bên mình."
+
+
+11. Proof:
+Danh sách đầu việc và kết quả bàn giao.
+
+
+12. CTA:
+Khảo sát nhu cầu Core hoặc Tripwire.
+
+
+13. Mục tiêu:
+Khách tìm hiểu dịch vụ.
+
+
+## Tầng 4 — So sánh và nghi ngờ
+
+
+1. Nghĩ:
+"Các bên đều nhận kế toán trọn gói, khác nhau ở đâu?"
+
+
+2. Pain:
+P7.
+
+
+3. Muốn:
+Có tiêu chí đánh giá người làm kế toán.
+
+
+4. Sợ:
+Thuê người thiếu trách nhiệm hoặc không đủ năng lực.
+
+
+5. Rào cản:
+O7, O8.
+
+
+6. Niềm tin:
+Có thể so sánh dựa trên năng lực, quy trình, phạm vi và hợp đồng.
+
+
+7. Kéo sang bước sau:
+Nhận bảng phạm vi và bằng chứng năng lực.
+
+
+8. Tự nói:
+"Tôi muốn biết ai trực tiếp làm và hỏi ai khi có việc."
+
+
+9. Big Message:
+"Đừng chỉ so sánh phí tháng; hãy xem ai phụ trách, làm gì và bàn giao gì."
+
+
+10. Không nên nói:
+"Bên mình tốt nhất Cao Bằng."
+
+
+11. Proof:
+12 năm kế toán, 5 năm thuế, 4 khách dịch vụ.
+
+
+12. CTA:
+Nhận phạm vi và báo giá Core.
+
+
+13. Mục tiêu:
+Khách đánh giá trên cơ sở công việc.
+
+
+## Tầng 5 — Muốn mua nhưng do dự
+
+
+1. Nghĩ:
+"Dịch vụ phù hợp nhưng tôi còn lo chi phí và trách nhiệm."
+
+
+2. Pain:
+Chưa có đầu mối phụ trách chắc chắn.
+
+
+3. Muốn:
+Rõ phí, phạm vi và điều kiện bắt đầu.
+
+
+4. Sợ:
+Phát sinh phí hoặc sai sót.
+
+
+5. Rào cản:
+Chính sách chưa rõ.
+
+
+6. Niềm tin:
+Trách nhiệm quan trọng phải được thể hiện bằng thỏa thuận.
+
+
+7. Kéo sang bước sau:
+Có báo giá và điều khoản rõ.
+
+
+8. Tự nói:
+"Nếu mọi thứ ghi rõ thì tôi có thể cân nhắc ký."
+
+
+9. Big Message:
+"Biết rõ công việc, chi phí và trách nhiệm trước khi bắt đầu."
+
+
+10. Không nên nói:
+"Cứ ký đi, có gì bên mình lo hết."
+
+
+11. Proof:
+Bảng phạm vi, mẫu bàn giao, điều khoản xác nhận.
+
+
+12. CTA:
+Thống nhất hợp đồng Core.
+
+
+13. Mục tiêu:
+Khách quyết định hoặc nêu đúng lý do chưa mua.
+
+
+## Tầng 6 — Đã mua, cần xác nhận niềm tin
+
+
+1. Nghĩ:
+"Tôi đã thuê kế toán, bây giờ phối hợp thế nào?"
+
+
+2. Pain:
+Chưa quen gửi chứng từ.
+
+
+3. Muốn:
+Hướng dẫn rõ cách làm việc.
+
+
+4. Sợ:
+Gửi thiếu hồ sơ.
+
+
+5. Rào cản:
+Chưa có thói quen tổ chức chứng từ.
+
+
+6. Niềm tin:
+Phối hợp rõ ràng giúp xử lý công việc hiệu quả hơn.
+
+
+7. Kéo sang bước sau:
+Hoàn thành tiếp nhận hồ sơ đầu tiên.
+
+
+8. Tự nói:
+"Giờ tôi biết khi phát sinh việc phải gửi cho ai."
+
+
+9. Big Message:
+"Khách cung cấp thông tin đúng, đủ; kế toán xử lý phần việc đã nhận."
+
+
+10. Không nên nói:
+"Thuê rồi thì không cần quan tâm đến thuế nữa."
+
+
+11. Proof:
+Hướng dẫn và kết quả tiếp nhận, bàn giao thực tế.
+
+
+12. CTA:
+Onboarding và duy trì Core.
+
+
+13. Mục tiêu:
+Khách phối hợp đúng quy trình.
+
+
+## Tầng 7 — Tin tưởng, duy trì và giới thiệu
+
+
+1. Nghĩ:
+"Tôi đã có đầu mối kế toán; khi có việc mới cần trao đổi."
+
+
+2. Pain:
+Doanh nghiệp phát sinh nghiệp vụ mới.
+
+
+3. Muốn:
+Duy trì sự phối hợp ổn định.
+
+
+4. Sợ:
+Phạm vi cũ không còn phù hợp.
+
+
+5. Rào cản:
+Chưa có cơ chế rà soát định kỳ.
+
+
+6. Niềm tin:
+Phạm vi có thể điều chỉnh theo thỏa thuận khi nhu cầu đổi.
+
+
+7. Kéo sang bước sau:
+Có trải nghiệm phù hợp và chủ động phản hồi.
+
+
+8. Tự nói:
+"Nếu người quen cần kế toán, tôi có thể giới thiệu Bích."
+
+
+9. Big Message:
+"Doanh nghiệp thay đổi đến đâu, hai bên cùng rà soát công việc đến đó."
+
+
+10. Không nên nói:
+"Dùng bên mình rồi không cần kiểm tra sổ sách."
+
+
+11. Proof:
+Bàn giao thực tế và phản hồi được phép sử dụng.
+
+
+12. CTA:
+Continuity, Premium khi cần và giới thiệu tự nguyện.
+
+
+13. Mục tiêu:
+Khách tiếp tục sử dụng hoặc giới thiệu khách phù hợp.
+
+
+---
+
+
+# KHỐI 11 — BẰNG CHỨNG, UY TÍN VÀ NIỀM TIN
+
+
+## 11.1. Kinh nghiệm cá nhân
+
+
+[THỰC TẾ]
+
+
+- 12 năm làm kế toán.
+- Trong đó có 5 năm làm kế toán thuế.
+- Đang phụ trách kế toán nội bộ và kế toán thuế tại doanh nghiệp sửa chữa ô tô.
+- Doanh nghiệp nơi làm việc chính có doanh thu khoảng 10 tỷ đồng/năm.
+
+
+## 11.2. Khách hàng hiện tại
+
+
+[THỰC TẾ]
+
+
+Có 4 doanh nghiệp đang sử dụng dịch vụ kế toán trọn gói.
+
+
+Gồm:
+- 2 doanh nghiệp du lịch, tour xe máy và cho thuê xe máy.
+- 1 doanh nghiệp cơ khí nhôm kính.
+- 1 doanh nghiệp vệ sinh công nghiệp.
+
+
+Mỗi doanh nghiệp có doanh thu dưới 3 tỷ đồng/năm.
+
+
+Cả 4 khách đều đã được hỗ trợ thủ tục thành lập doanh nghiệp rồi tiếp tục làm kế toán.
+
+
+Không công bố tên và dữ liệu khách nếu chưa có quyền phù hợp.
+
+
+## 11.3. Trường hợp KH01
+
+
+[THỰC TẾ]
+
+
+KH01 là khách đang sử dụng gói kế toán.
+
+
+Khách phát sinh nhu cầu:
+- Thay đổi địa chỉ kinh doanh.
+- Đăng ký địa điểm kinh doanh mới.
+
+
+Mã Thị Bích đã hỗ trợ cả hai thủ tục.
+
+
+Khách có cùng một đầu mối xử lý hồ sơ phát sinh.
+
+
+Trong trường hợp này, khách không phải trả thêm phí dịch vụ.
+
+
+Không suy ra:
+- Mọi khách đều được miễn phí thủ tục.
+- Tất cả thủ tục đều hoàn thành trong một thời hạn cố định.
+- Được phép dùng hồ sơ KH01 công khai.
+
+
+Quyền sử dụng case study:
+[CẦN BỔ SUNG]
+
+
+## 11.4. Phản hồi khách hàng
+
+
+[THỰC TẾ THEO GHI NHẬN CỦA CHỦ KINH DOANH]
+
+
+Khách đánh giá cao sự nhiệt tình và việc hướng dẫn họ tự thao tác xuất hóa đơn.
+
+
+Không có nguyên văn lời chứng thực được xác nhận quyền sử dụng.
+
+
+Không tự sáng tác tên, câu nói hoặc đánh giá của khách.
+
+
+## 11.5. Bằng chứng từ quy trình
+
+
+Đang sử dụng:
+- Nhóm Zalo.
+- Tiếp nhận ảnh giấy tờ và thông tin giao dịch.
+- Nhắc chứng từ còn thiếu.
+- Gửi tờ khai thuế và thông báo số thuế theo quý.
+- Bàn giao sổ sách và báo cáo tài chính theo năm.
+- Hỗ trợ các công việc phát sinh thuộc phạm vi đã thống nhất.
+
+
+Đây là bằng chứng về cách làm việc, không phải chứng cứ bảo đảm kết quả tuyệt đối.
+
+
+## 11.6. Tài liệu cần phát triển
+
+
+[ĐỀ XUẤT]
+
+
+1. Mẫu giới thiệu kinh nghiệm cá nhân.
+2. Bảng danh mục công việc Core.
+3. Mẫu danh sách chứng từ cần cung cấp.
+4. Mẫu bàn giao kết quả theo kỳ.
+5. Mẫu phân định trách nhiệm.
+6. Chính sách bảo mật.
+7. Case study KH01 sau khi được phép.
+8. Phản hồi thật có sự đồng ý sử dụng.
+
+
+## 11.7. Những điều không được tuyên bố
+
+
+- Đã phục vụ hàng trăm khách nếu không có số liệu.
+- Có tỷ lệ hoàn thành hoặc hiệu quả kinh doanh chưa đo.
+- Đã giúp khách tiết kiệm một khoản tiền cụ thể nếu không có số liệu.
+- Cam kết tránh mọi rủi ro.
+- Có lời chứng thực từ khách khi chưa được phép.
+- Có hệ thống bảo mật hoặc chính sách chưa thực sự triển khai.
+
+
+---
+
+
+# KHỐI 12 — HỆ THỐNG BÁN HÀNG VÀ CHĂM SÓC KHÁCH
+
+
+## 12.1. Mục tiêu bán hàng
+
+
+[THỰC TẾ]
+
+
+Mục tiêu phát triển:
+Nhận thêm khoảng 5 khách kế toán trọn gói trong 3–6 tháng tới.
+
+
+Đây là mục tiêu của chủ kinh doanh, không phải kết quả cam kết.
+
+
+Năng lực nhận thêm khách:
+[CẦN BỔ SUNG]
+
+
+Ưu tiên vận hành:
+Học và ứng dụng AI để giảm thao tác nhập liệu thủ công, dành thêm thời gian tìm kiếm khách mới.
+
+
+## 12.2. Hệ thống thu hút khách
+
+
+[ĐỀ XUẤT]
+
+
+Nội dung theo tình huống:
+- Mới chuyển lên doanh nghiệp cần chuẩn bị gì?
+- Chưa quen xuất hóa đơn phải bắt đầu từ đâu?
+- Cần gửi chứng từ gì cho kế toán?
+- Thuê kế toán trọn gói khác tự làm ở điểm nào?
+- Khi doanh nghiệp thay đổi địa chỉ cần trao đổi những việc gì?
+
+
+Kênh:
+- Website quybich.vn.
+- Zalo hiện có.
+- Facebook nếu triển khai.
+- Điện thoại hoặc gặp trực tiếp.
+- Khách giới thiệu tự nguyện.
+
+
+## 12.3. Quy trình tư vấn 6 bước
+
+
+Bước 1 — Mở đầu:
+Giới thiệu kinh nghiệm, xin phép tìm hiểu nhu cầu.
+
+
+Bước 2 — Khám phá:
+Hỏi ngành, thời điểm thành lập, người phụ trách, hóa đơn, chứng từ, nhân sự.
+
+
+Bước 3 — Đào sâu:
+Hỏi tình huống thực tế gần nhất, cách khách đã xử lý, khó khăn quan trọng nhất.
+
+
+Bước 4 — Đề xuất:
+Nhắc lại Pain khách xác nhận và trình bày phạm vi dịch vụ phù hợp.
+
+
+Bước 5 — Gỡ Objection:
+Làm rõ giá, trách nhiệm, bảo mật, cách phối hợp hoặc lựa chọn khác.
+
+
+Bước 6 — Chốt bước:
+Nếu phù hợp thì thống nhất phạm vi, báo giá, điều khoản; nếu chưa phù hợp thì kết thúc lịch sự.
+
+
+## 12.4. Câu hỏi khảo sát khách mới
+
+
+1. Doanh nghiệp đã thành lập hay đang chuẩn bị?
+2. Ngành kinh doanh là gì?
+3. Doanh thu năm hoặc dự kiến thuộc khoảng nào?
+4. Một tháng có khoảng bao nhiêu hóa đơn đầu vào và đầu ra?
+5. Hiện ai phụ trách hóa đơn, chứng từ và sổ sách?
+6. Đang có nghiệp vụ lương, BHXH hoặc hợp đồng nhân công không?
+7. Hồ sơ trước đây có đang tồn đọng không?
+8. Việc gì khách muốn giải quyết trước tiên?
+9. Khách cần hỗ trợ một lần hay kế toán định kỳ?
+10. Khi nào khách muốn bắt đầu nếu hai bên phù hợp?
+
+
+## 12.5. Những Objection cần chuẩn bị
+
+
+1. Chưa cần thuê kế toán.
+2. Muốn tự làm.
+3. Muốn nhờ người quen.
+4. Phí hơi cao.
+5. Chưa rõ phạm vi.
+6. Sợ sai sót.
+7. Sợ giao thông tin cho người ngoài.
+8. Lo làm việc từ xa.
+9. Chưa rõ cách thanh toán.
+10. Muốn hỏi người nhà hoặc so sánh thêm.
+11. Muốn hỗ trợ nhiều việc ngoài gói.
+12. Chưa tin người cung cấp có kinh nghiệm ngành.
+13. Không biết kết quả bàn giao ra sao.
+14. Lo số hóa đơn tăng sẽ phát sinh phí.
+15. Chưa sẵn sàng ký hợp đồng.
+
+
+## 12.6. FAQ
+
+
+Đã xây dựng 15 câu trả lời trong FLOW 5.
+
+
+Các nhóm:
+- Nhu cầu.
+- Phạm vi.
+- Hóa đơn.
+- Chứng từ.
+- Lương và BHXH.
+- Giá.
+- Công việc phát sinh.
+- Làm việc từ xa.
+- Thanh toán.
+- Trách nhiệm.
+- Bảo mật.
+- Kinh nghiệm ngành.
+- Thủ tục thay đổi doanh nghiệp.
+- Kết quả bàn giao.
+
+
+Nội dung đầy đủ được giữ trong Bộ bán hàng FLOW 5 và sẽ xuất nguyên văn tại FLOW 6 — Phần C.
+
+
+## 12.7. Kịch bản inbox
+
+
+Đã xây dựng 8 tin:
+1. Chào khách mới.
+2. Khách vừa chuyển lên doanh nghiệp.
+3. Khách hỏi giá.
+4. Khách chưa quen hóa đơn.
+5. Khách hỏi phạm vi gói.
+6. Khách lo làm việc từ xa.
+7. Khách đã tư vấn và cần bước chốt.
+8. Khách chưa phù hợp.
+
+
+Các tin sử dụng Zalo/Facebook theo tình huống, không gửi dồn.
+
+
+Nội dung đầy đủ sẽ được giữ nguyên tại FLOW 6 — Phần C.
+
+
+## 12.8. Chuỗi chăm sóc lại bốn tin
+
+
+Tin 1:
+Nhắc lại đúng vấn đề khách từng chia sẻ.
+Đề xuất sau khoảng 1 ngày.
+
+
+Tin 2:
+Giải thích phạm vi và cách đánh giá giá.
+Đề xuất sau tin 1 khoảng 2–3 ngày.
+
+
+Tin 3:
+Bổ sung thông tin kinh nghiệm và năng lực thực tế.
+Đề xuất sau tin 2 khoảng 3–5 ngày.
+
+
+Tin 4:
+Đề nghị bước tiếp theo và khép lại lịch sự.
+Đề xuất sau tin 3 khoảng 5–7 ngày.
+
+
+Lịch trên là đề xuất, không phải quy trình đang có.
+
+
+Điều kiện:
+Chỉ gửi khi có cơ sở liên hệ phù hợp; dừng nếu khách từ chối hoặc không muốn nhận tiếp.
+
+
+Không tiếp tục tự động sau tin 4 nếu khách không phản hồi.
+
+
+## 12.9. CRM tối thiểu
+
+
+Các trường cần theo dõi:
+
+
+- Mã hoặc tên khách.
+- Ngành kinh doanh.
+- Giai đoạn doanh nghiệp.
+- Pain chính P1–P7.
+- Trở ngại O1–O9.
+- Chặng hành trình 1–5.
+- Objection đã nói.
+- Sản phẩm quan tâm.
+- Phạm vi cần xử lý.
+- Giá đã báo.
+- Bước tiếp theo.
+- Lý do mua hoặc chưa mua.
+- Trạng thái trao đổi.
+
+
+## 12.10. Chỉ số cần theo dõi
+
+
+Số khách quan tâm.
+Số cuộc tư vấn.
+Số báo giá.
+Số hợp đồng.
+Số khách tiếp tục sử dụng.
+Số khách giới thiệu.
+Lý do từ chối.
+Thời gian xử lý chứng từ.
+Khối lượng hóa đơn theo khách.
+Khả năng tiếp nhận thêm hợp đồng.
+
+
+Chưa có số liệu thực tế để đặt tỷ lệ chuyển đổi.
+
+
+---
+
+
+# PHỤ LỤC TRONG PHẦN A — THÔNG TIN CHƯA HOÀN THIỆN
+
+
+## A1. Chính sách
+
+
+[CẦN BỔ SUNG]
+- Kỳ thanh toán.
+- Hình thức thanh toán.
+- Điều kiện đặt cọc.
+- Điều kiện tạm ngừng hoặc chấm dứt.
+- Hoàn phí.
+- Xử lý khiếu nại.
+- Trách nhiệm khi có sai sót.
+- Thời gian phản hồi.
+- Thời hạn xử lý theo từng loại hồ sơ.
+- Phạm vi và phí ngoài gói.
+
+
+## A2. Bảo mật và dữ liệu
+
+
+[CẦN BỔ SUNG]
+- Quy trình gửi tài liệu.
+- Phân quyền truy cập.
+- Lưu trữ.
+- Sao lưu.
+- Thời gian lưu.
+- Xóa và bàn giao dữ liệu.
+- Điều kiện sử dụng công cụ AI để xử lý thông tin khách hàng.
+
+
+Không đưa ảnh giấy tờ cá nhân hoặc hồ sơ doanh nghiệp chứa dữ liệu nhạy cảm vào công cụ AI khi chưa có điều kiện bảo vệ phù hợp.
+
+
+## A3. Năng lực vận hành
+
+
+[CẦN BỔ SUNG]
+- Số khách có thể nhận thêm.
+- Thời gian xử lý một khách với khoảng 500 hóa đơn/tháng.
+- Khối lượng công việc kế toán chính.
+- Phần có thể tự động hóa.
+- Quy trình kiểm tra đầu ra AI.
+- Nguồn lực hỗ trợ khi tăng khách.
+
+
+## A4. Sản phẩm mới
+
+
+[CẦN BỔ SUNG]
+- Checklist Mồi câu đã hoàn thiện chưa.
+- Tripwire có bán riêng không.
+- Giá và thời lượng Tripwire.
+- Phạm vi Premium.
+- Giá Premium.
+- Có chính sách Bonus chính thức hay không.
+
+
+## A5. Bằng chứng
+
+
+[CẦN BỔ SUNG]
+- Quyền sử dụng KH01.
+- Phản hồi khách được phép trích dẫn.
+- Tài liệu kết quả được phép công bố.
+- VOC khách thật.
+- Dữ liệu khách đồng ý cho sử dụng trong nội dung marketing.
+
+
+---
+
+
+# RÀ SOÁT ĐỘ HOÀN THIỆN BCM
+
+
+| Khối | Nội dung | Trạng thái |
+|---|---|---|
+| 01 | Sản phẩm và giá trị | Nền tảng rõ |
+| 02 | Chân dung khách hàng | Nền tảng rõ |
+| 03 | Pain và JTBD | Chờ VOC |
+| 04 | Insight và bản đồ 10 ô | Giả thuyết cần kiểm chứng |
+| 05 | Bản đồ trở ngại | Đã thiết kế |
+| 06 | Thang sản phẩm | Có tầng mới chưa triển khai |
+| 07 | Offer Core | Thiếu một số chính sách |
+| 08 | Định vị | Cần kiểm chứng thị trường |
+| 09 | Hành trình 5 chặng | Đã thiết kế |
+| 10 | Tâm lý 7 tầng | Chờ VOC |
+| 11 | Bằng chứng | Thiếu quyền sử dụng công khai |
+| 12 | Hệ thống bán hàng | Đã soạn, cần triển khai |
+
+
+Đánh giá bản thảo từ FLOW 5:
+- Sản phẩm và khách hàng: khoảng 90%.
+- Insight và trở ngại: khoảng 75%.
+- Thang sản phẩm và Offer: khoảng 70%.
+- Hành trình và tâm lý: khoảng 75%.
+- Bộ bán hàng: khoảng 85%.
+- Chính sách và bằng chứng triển khai: khoảng 40%.
+
+
+Các con số chỉ là ước lượng quản trị nội dung của bản thảo, không phải điểm BCM được đo theo thang chuẩn hoặc tỷ lệ hiệu quả kinh doanh.
+
+
+Chưa xác định được tỷ lệ hoàn thiện BCM chính thức có thể kiểm chứng.
+
+
+---
+
+
+# KẾT LUẬN LÕI KINH DOANH
+
+
+KHÁCH HÀNG:
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp, chưa có kế toán nội bộ.
+
+
+VẤN ĐỀ:
+Chưa quen hóa đơn, chứng từ, sổ sách và công việc thuế định kỳ.
+
+
+MONG MUỐN:
+Có đầu mối chuyên môn hướng dẫn và phụ trách công việc kế toán theo thỏa thuận.
+
+
+SẢN PHẨM CORE:
+Kế toán trọn gói theo tháng.
+
+
+LỢI THẾ:
+12 năm kinh nghiệm kế toán, 5 năm kế toán thuế; từng hỗ trợ 4 khách từ thành lập đến vận hành; trực tiếp hướng dẫn và trao đổi.
+
+
+CƠ CHẾ:
+Tiếp nhận rõ — Xử lý đúng phạm vi — Bàn giao theo kỳ.
+
+
+THÔNG ĐIỆP:
+"Mới lên doanh nghiệp, chưa quen hóa đơn và chứng từ? Có Mã Thị Bích trực tiếp hướng dẫn và phụ trách kế toán theo thỏa thuận."
+
+
+CTA:
+"Nhắn mình tình trạng doanh nghiệp, ngành kinh doanh và vấn đề đang vướng để trao đổi về phạm vi dịch vụ phù hợp."
+
+
+ƯU TIÊN TRIỂN KHAI:
+1. Chuẩn hóa tiếp nhận khách và báo giá.
+2. Hoàn thiện bảng phạm vi và chính sách hợp đồng.
+3. Tạo checklist chứng từ ban đầu.
+4. Kiểm chứng Insight bằng khách thật.
+5. Chuẩn hóa việc tiếp nhận và xử lý chứng từ.
+6. Ứng dụng AI có kiểm soát để giảm nhập liệu.
+7. Đánh giá nguồn lực trước khi nhận thêm khách.
+
+
+MỤC TIÊU KINH DOANH:
+Nhận thêm khoảng 5 khách kế toán trọn gói trong 3–6 tháng, nếu năng lực vận hành cho phép.
+
+
+# HẾT PHẦN A — BCM 12 KHỐI
+
+
+
+
+# PHỤ LỤC CHIẾN LƯỢC BCM — PHẦN B
+
+
+THƯƠNG HIỆU: MÃ THỊ BÍCH
+WEBSITE: quybich.vn
+NGÀNH: Dịch vụ kế toán và thuế doanh nghiệp
+THỊ TRƯỜNG: Cao Bằng và trực tuyến toàn quốc
+SẢN PHẨM CORE: Kế toán trọn gói theo tháng
+OFFER ĐỀ XUẤT: Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp
+PHIÊN BẢN: BCM 1.0
+NGÀY CẬP NHẬT: 07/11/2026
+
+
+PHẠM VI:
+Phụ lục chiến lược kế thừa FLOW 0–5 và tài liệu BCM 12 khối tại Phần A.
+
+
+QUY ƯỚC:
+- [THỰC TẾ]: Chủ kinh doanh đã cung cấp.
+- [ĐỀ XUẤT]: Phương án được xây dựng nhưng chưa mặc định đã triển khai.
+- [GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]: Phân tích hành vi, cảm xúc và VOC chưa kiểm chứng.
+- [CẦN BỔ SUNG]: Chưa có thông tin được xác nhận.
+- Không tạo giá, doanh thu, số khách, lời chứng thực, chính sách hoặc cam kết ngoài nguồn dữ liệu.
+- Không tự khẳng định một quy định thuế hoặc pháp luật còn hiệu lực nếu chưa kiểm tra nguồn chính thức áp dụng tại thời điểm sử dụng.
+
+
+==================================================
+A. THANG SẢN PHẨM & BẢN ĐỒ TRỞ NGẠI
+==================================================
+
+
+## A1. Insight làm nền tảng
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+"Tôi chuyển lên doanh nghiệp để kinh doanh bài bản hơn, nhưng lại phải đối mặt với những công việc kế toán, thuế mà trước đây tôi chưa từng quản lý."
+
+
+"Tôi không nhất thiết muốn trở thành người giỏi kế toán. Tôi muốn biết mỗi khi phát sinh hóa đơn, chứng từ hoặc hồ sơ thuế, ai sẽ hướng dẫn và chịu trách nhiệm phần việc đã nhận."
+
+
+Hàm ý:
+
+
+Khách không chỉ cần một người lập báo cáo thuế.
+
+
+Khách có thể cần một người hướng dẫn từ giai đoạn đầu, tiếp nhận chứng từ, phụ trách những nghiệp vụ đã thỏa thuận và giúp họ biết cách phối hợp.
+
+
+Không xem đây là VOC thật khi chưa phỏng vấn khách.
+
+
+## A2. Bản đồ 9 trở ngại
+
+
+| Mã | Trở ngại | Hệ quả | Giải pháp |
+|---|---|---|---|
+| O1 | Không biết chuẩn bị gì sau khi thành lập | Bối rối khi bắt đầu | Checklist khởi đầu |
+| O2 | Chưa quen xuất hóa đơn | Phải hỏi người hướng dẫn khi có giao dịch | Hướng dẫn hóa đơn |
+| O3 | Chứng từ rời rạc | Khó tổng hợp, dễ thiếu hồ sơ | Quy trình tiếp nhận chứng từ |
+| O4 | Chưa biết ai theo dõi thuế | Lo bỏ sót công việc theo kỳ | Kê khai, thông báo theo kỳ |
+| O5 | Thiếu kế toán nội bộ | Chủ tự theo dõi từng việc | Kế toán trọn gói |
+| O6 | Phát sinh lương, hợp đồng, BHXH | Chưa rõ hồ sơ cần chuẩn bị | Hỗ trợ theo phạm vi |
+| O7 | Chưa thấy giá trị tương xứng với phí | Trì hoãn quyết định | Khảo sát, bảng phạm vi, báo giá |
+| O8 | Lo bảo mật và trách nhiệm | Ngại giao hồ sơ | Minh bạch quy trình, thỏa thuận |
+| O9 | Phát sinh thủ tục doanh nghiệp | Cần người xử lý công việc ngoài định kỳ | Thủ tục riêng/Premium |
+
+
+O7–O8 là các giả thuyết tâm lý cần xác nhận.
+
+
+## A3. Bảng Thang sản phẩm
+
+
+| Tầng | Sản phẩm | Pain/Trở ngại | Giá | Trạng thái |
+|---|---|---|---|---|
+| Mồi câu | Checklist khởi đầu kế toán | O1, O2, O3 | Miễn phí là đề xuất | Chưa triển khai |
+| Tripwire | Buổi hướng dẫn hóa đơn, chứng từ ban đầu | O2, O3, O7 | [CẦN BỔ SUNG] | Chưa triển khai |
+| Core | Kế toán trọn gói theo tháng | O2–O6, một phần O8 | Theo bảng phí hiện tại | Đang cung cấp |
+| Premium | Rà soát, xử lý hồ sơ chuyên sâu | Hồ sơ tồn đọng/phức tạp | [CẦN BỔ SUNG] | Đề xuất |
+| Continuity | Duy trì đồng hành kế toán | Thay đổi quy mô, nhu cầu | Theo hợp đồng hiện có | Cơ chế đề xuất |
+
+
+## A4. Nội dung từng tầng
+
+
+### Mồi câu — Checklist khởi đầu kế toán
+
+
+Đối tượng:
+Chủ hộ vừa chuyển lên doanh nghiệp.
+
+
+Định dạng đề xuất:
+PDF hoặc tài liệu gửi Zalo.
+
+
+Nội dung:
+1. Thông tin đăng ký doanh nghiệp.
+2. Thông tin hóa đơn bán ra và mua vào.
+3. Thông tin cần kiểm tra khi lập hóa đơn.
+4. Hợp đồng, thanh toán và chứng từ liên quan.
+5. Hồ sơ lao động, tiền lương nếu phát sinh.
+6. Những câu hỏi cần trao đổi với kế toán.
+
+
+Thắng nhanh:
+Khách biết giấy tờ nào mình đã có và phần nào cần được hướng dẫn thêm.
+
+
+CTA:
+"Bạn đã có giấy tờ nhưng chưa rõ phần nào cần gửi kế toán? Hãy trao đổi tình huống của doanh nghiệp mình."
+
+
+### Tripwire — Buổi hướng dẫn ban đầu
+
+
+Đối tượng:
+Chủ doanh nghiệp đã hoặc chuẩn bị phát sinh hóa đơn nhưng chưa quen quy trình.
+
+
+Đầu ra đề xuất:
+1. Danh sách chứng từ cần chuẩn bị.
+2. Hướng dẫn thông tin cần kiểm tra khi xuất hóa đơn.
+3. Cách phối hợp với kế toán.
+4. Phân biệt công việc có thể tự thực hiện và phần nên giao người có chuyên môn.
+
+
+Giá: [CẦN BỔ SUNG]
+Thời lượng: [CẦN BỔ SUNG]
+Hình thức: [CẦN BỔ SUNG]
+Chính sách: [CẦN BỔ SUNG]
+
+
+CTA:
+"Nếu cần người phụ trách sổ sách và thuế thường xuyên, mình sẽ khảo sát nhu cầu để báo gói kế toán trọn gói."
+
+
+### Core — Kế toán trọn gói
+
+
+Sản phẩm đang cung cấp.
+
+
+Đầu việc:
+- Hóa đơn dựa trên thông tin khách cung cấp.
+- Tiếp nhận và xử lý chứng từ.
+- Nhập liệu, lên sổ MISA.
+- Kê khai thuế định kỳ.
+- Báo cáo tài chính và quyết toán năm.
+- Lương, BHXH theo phạm vi thỏa thuận.
+- Hướng dẫn và trao đổi trực tiếp với khách qua Zalo.
+
+
+Giá:
+
+
+Doanh thu đến 3 tỷ đồng/năm:
+2.500.000–3.000.000 đồng/tháng.
+
+
+Doanh thu trên 3 đến 10 tỷ đồng/năm:
+5.000.000–8.000.000 đồng/tháng.
+
+
+Giá cụ thể phụ thuộc phạm vi và tình trạng thực tế.
+
+
+CTA:
+"Trao đổi tình trạng doanh nghiệp để xác định phạm vi và báo giá."
+
+
+### Premium — Xử lý hồ sơ chuyên sâu
+
+
+Sản phẩm đề xuất.
+
+
+Dành cho:
+Doanh nghiệp có hồ sơ cũ, chứng từ cần rà soát, vấn đề cần giải trình hoặc công việc vượt gói thường xuyên.
+
+
+Đầu ra dự kiến:
+1. Đánh giá hiện trạng.
+2. Danh sách vấn đề.
+3. Phạm vi xử lý.
+4. Kế hoạch thực hiện.
+5. Kết quả bàn giao theo hợp đồng.
+
+
+Giá: [CẦN BỔ SUNG]
+
+
+Không nhận công việc vượt năng lực hoặc không đáp ứng điều kiện pháp lý áp dụng.
+
+
+### Continuity — Duy trì đồng hành
+
+
+Cơ chế đề xuất, không mặc định là gói mới.
+
+
+Bao gồm:
+- Tiếp tục thực hiện hợp đồng tháng.
+- Rà soát chứng từ và khối lượng công việc.
+- Đánh giá những thay đổi của doanh nghiệp.
+- Thống nhất phạm vi bổ sung khi cần.
+- Duy trì một đầu mối trao đổi.
+
+
+Phí ngoài phạm vi:
+[CẦN BỔ SUNG]
+
+
+## A5. Dịch vụ ngoài thang
+
+
+1. Thành lập doanh nghiệp — đang nhận; phí [CẦN BỔ SUNG].
+2. Thay đổi đăng ký doanh nghiệp — 500.000–2.000.000 đồng/lần.
+3. Hỗ trợ hồ sơ giải trình thuế/BHXH — phạm vi và phí [CẦN BỔ SUNG].
+4. Rà soát sổ sách cũ — chưa có mức phí chuẩn.
+5. Xử lý hồ sơ tồn đọng — chưa có mức phí chuẩn.
+
+
+KH01 đã được hỗ trợ thay đổi địa chỉ và đăng ký địa điểm kinh doanh mới không thu thêm phí trong trường hợp cụ thể đó.
+
+
+Không biến trường hợp KH01 thành chính sách chung.
+
+
+## A6. Điểm vào chính
+
+
+Ưu tiên:
+Khảo sát nhu cầu → Đề xuất Core.
+
+
+Khách có nhu cầu rõ ràng không phải đi qua Mồi câu và Tripwire.
+
+
+Mồi câu dành cho người đang tìm hiểu.
+
+
+Tripwire dành cho người cần hướng dẫn ban đầu nếu dịch vụ được triển khai.
+
+
+Core là sản phẩm doanh thu chính.
+
+
+Premium và Continuity chỉ được giới thiệu khi phù hợp với nhu cầu và nguồn lực.
+
+
+## A7. Kiểm tra Thang sản phẩm
+
+
+- Mỗi tầng có trở ngại rõ: Đạt về thiết kế.
+- Core giải quyết nhu cầu định kỳ: Có.
+- Có đường cho khách chưa sẵn sàng: Có.
+- Có đường vào thẳng Core: Có.
+- Sản phẩm mới đã hoàn thiện: Chưa.
+- Giá Tripwire, Premium: [CẦN BỔ SUNG].
+- Khả năng nhận thêm khách: [CẦN BỔ SUNG].
+- Nguy cơ quá tải do quá nhiều sản phẩm: Cần theo dõi.
+
+
+Khuyến nghị:
+Không triển khai tất cả tầng cùng lúc.
+
+
+Trước tiên chuẩn hóa Core, mẫu tiếp nhận khách, bảng phạm vi và checklist.
+
+
+==================================================
+B. CHÂN DUNG KHÁCH HÀNG ĐẦY ĐỦ
+==================================================
+
+
+## B1. Khách hàng lõi
+
+
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp.
+
+
+Vai trò:
+Chủ doanh nghiệp hoặc giám đốc.
+
+
+Giai đoạn:
+Chuẩn bị thành lập, mới thành lập hoặc mới đi vào hoạt động.
+
+
+Đặc điểm:
+- Có kinh nghiệm kinh doanh.
+- Chưa quen nhiều nghiệp vụ kế toán doanh nghiệp.
+- Chưa có kế toán nội bộ.
+- Có hóa đơn, hợp đồng và chứng từ phát sinh.
+- Cần người trực tiếp hướng dẫn.
+
+
+Khu vực:
+Cao Bằng, mở rộng trực tuyến toàn quốc.
+
+
+Độ tuổi, giới tính, thu nhập cá nhân:
+[CẦN BỔ SUNG]
+
+
+Không tự gán nhân khẩu học chưa được xác nhận.
+
+
+## B2. Bảy Pain
+
+
+P1. Chưa quen xuất hóa đơn.
+P2. Chứng từ rời rạc.
+P3. Chưa biết theo dõi công việc thuế.
+P4. Không có kế toán nội bộ.
+P5. Chưa quen hồ sơ hợp đồng, lương, BHXH.
+P6. Phát sinh thay đổi thông tin doanh nghiệp.
+P7. Khó đánh giá người làm kế toán.
+
+
+P1–P6 có nền tảng từ dữ liệu và nghiệp vụ đã mô tả.
+
+
+P7 là giả thuyết.
+
+
+## B3. Mong muốn
+
+
+Tầng chức năng:
+Có người thực hiện công việc chuyên môn.
+
+
+Tầng vận hành:
+Biết gửi thông tin gì và nhận kết quả nào.
+
+
+Tầng cảm xúc:
+Bớt lo lắng khi phát sinh công việc kế toán, thuế.
+
+
+Tầng vị thế:
+Có thể tập trung điều hành doanh nghiệp thay vì tự xoay xở nghiệp vụ.
+
+
+Các tầng cảm xúc và vị thế cần kiểm chứng với khách thật.
+
+
+## B4. Bảy nhóm Objection
+
+
+1. "Doanh nghiệp mới mở, chưa cần kế toán."
+2. "Tôi tự làm có được không?"
+3. "Phí dịch vụ hơi cao."
+4. "Tôi sợ giao giấy tờ cho người ngoài."
+5. "Thuê kế toán ở xa có bất tiện không?"
+6. "Nếu làm sai thì ai chịu trách nhiệm?"
+7. "Để tôi hỏi người quen hoặc so sánh thêm."
+
+
+Đây là VOC giả định.
+
+
+Không coi là lời phản đối đã thu thập được.
+
+
+## B5. Một ngày điển hình
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+08:00:
+Bắt đầu công việc kinh doanh, bán hàng, điều phối nhân viên.
+
+
+10:30:
+Có khách yêu cầu hóa đơn, chủ doanh nghiệp cần kiểm tra cách lập.
+
+
+14:00:
+Phát sinh chi phí, hợp đồng hoặc hồ sơ lao động.
+
+
+17:30:
+Nhận ra còn chứng từ chưa gửi kế toán.
+
+
+Cuối quý:
+Cần biết các công việc thuế, hồ sơ phải chuẩn bị và khoản tiền phải nộp.
+
+
+## B6. Kích hoạt nhu cầu
+
+
+- Trước hoặc sau khi thành lập doanh nghiệp.
+- Khi có hóa đơn đầu tiên.
+- Khi chứng từ phát sinh ngày càng nhiều.
+- Khi cần kê khai theo kỳ.
+- Khi phát sinh lao động.
+- Khi thay đổi đăng ký doanh nghiệp.
+- Khi cần người phụ trách kế toán lâu dài.
+
+
+## B7. JTBD
+
+
+"Khi vừa chuyển từ hộ kinh doanh lên doanh nghiệp, tôi cần một người biết làm kế toán và thuế, hướng dẫn tôi từ những chứng từ đầu tiên và theo dõi công việc định kỳ, để tôi không phải tự xoay xở mọi nghiệp vụ ngoài chuyên môn."
+
+
+Giả thuyết, cần xác nhận với khách thật.
+
+
+## B8. Lựa chọn khác của khách
+
+
+- Tự thực hiện.
+- Nhờ người quen.
+- Thuê kế toán nội bộ.
+- Thuê dịch vụ kế toán khác.
+- Chưa xử lý ngay.
+
+
+Không khẳng định lựa chọn khác đều kém hiệu quả.
+
+
+## B9. Niềm tin cần xây
+
+
+Khách cần thấy:
+1. Người nhận làm có kinh nghiệm phù hợp.
+2. Phạm vi công việc rõ.
+3. Có đầu mối liên hệ.
+4. Có cách bàn giao.
+5. Có thỏa thuận về trách nhiệm.
+6. Có cách bảo vệ hồ sơ.
+7. Có báo giá phù hợp khối lượng.
+
+
+## B10. Câu hỏi xác minh với khách thật
+
+
+1. Trước khi thuê kế toán, anh/chị đã gặp vấn đề gì cụ thể?
+2. Ai đang xử lý hóa đơn, sổ sách lúc đó?
+3. Việc gì khiến anh/chị quyết định tìm người hỗ trợ?
+4. Anh/chị đã cân nhắc những phương án nào?
+5. Vì sao cuối cùng chọn dịch vụ này?
+6. Anh/chị từng lo lắng điều gì trước khi ký?
+7. Phần hỗ trợ nào có ích nhất sau khi sử dụng?
+8. Điều gì còn bất tiện?
+9. Nếu giới thiệu cho người khác, anh/chị sẽ nói gì?
+10. Có cho phép sử dụng phản hồi ẩn danh trong truyền thông không?
+
+
+==================================================
+C. OFFER GRAND SLAM — PHÂN TÍCH ĐẦY ĐỦ
+==================================================
+
+
+## C1. Offer được chọn
+
+
+KẾ TOÁN TRỌN GÓI — ĐỒNG HÀNH TỪ NGÀY ĐẦU DOANH NGHIỆP.
+
+
+Khách:
+Chủ doanh nghiệp nhỏ, đặc biệt là hộ vừa chuyển đổi.
+
+
+Kết quả mong muốn:
+Có người hướng dẫn, tiếp nhận và phụ trách các công việc kế toán, thuế trong phạm vi thống nhất.
+
+
+Lời đề nghị:
+
+
+"Mã Thị Bích nhận kế toán trọn gói theo tháng cho doanh nghiệp nhỏ, trực tiếp hướng dẫn chứng từ và hóa đơn, thực hiện sổ sách MISA, kê khai và báo cáo thuế theo phạm vi thỏa thuận, để chủ doanh nghiệp có một đầu mối kế toán đồng hành trong quá trình hoạt động."
+
+
+## C2. Value Stack
+
+
+V1. Hướng dẫn ban đầu
+- Xác định thông tin và chứng từ cần chuẩn bị.
+- Giải quyết O1, O3.
+
+
+V2. Hóa đơn
+- Lập hóa đơn từ thông tin được cung cấp.
+- Hướng dẫn thao tác khi cần.
+- Giải quyết O2.
+
+
+V3. Xử lý chứng từ
+- Tiếp nhận.
+- Kiểm tra thông tin.
+- Nhắc bổ sung hồ sơ còn thiếu.
+- Giải quyết O3.
+
+
+V4. Sổ sách MISA
+- Nhập liệu.
+- Hạch toán.
+- Lên sổ theo phạm vi.
+- Giải quyết O3, O5.
+
+
+V5. Công việc thuế theo kỳ
+- Kê khai.
+- Thông báo số thuế phải nộp.
+- Giải quyết O4.
+
+
+V6. Báo cáo năm
+- Báo cáo tài chính.
+- Quyết toán năm.
+- Sổ sách bàn giao.
+- Giải quyết O4, O5.
+
+
+V7. Lương và BHXH
+- Hồ sơ nghiệp vụ liên quan trong phạm vi thỏa thuận.
+- Giải quyết O6.
+
+
+V8. Trao đổi trực tiếp
+- Nhóm Zalo.
+- Điện thoại hoặc gặp trực tiếp khi phù hợp.
+- Giải quyết O5, một phần O8.
+
+
+## C3. Bonus
+
+
+[ĐỀ XUẤT — CHƯA PHẢI CAM KẾT]
+
+
+B1. Checklist chứng từ ban đầu.
+B2. Mẫu hướng dẫn gửi chứng từ qua Zalo.
+B3. Bảng phân chia trách nhiệm.
+B4. Danh sách công việc và bàn giao theo kỳ.
+
+
+Không định giá ảo cho các Bonus.
+
+
+Không quảng cáo đã tặng kèm khi chưa triển khai.
+
+
+## C4. Cơ chế kết quả
+
+
+TIẾP NHẬN RÕ — XỬ LÝ ĐÚNG PHẠM VI — BÀN GIAO THEO KỲ.
+
+
+Bước 1:
+Khảo sát doanh nghiệp và tình trạng hồ sơ.
+
+
+Bước 2:
+Thống nhất công việc, trách nhiệm, phí và điều kiện.
+
+
+Bước 3:
+Tiếp nhận chứng từ và yêu cầu bổ sung.
+
+
+Bước 4:
+Xử lý nghiệp vụ đã nhận.
+
+
+Bước 5:
+Thông báo, bàn giao theo kỳ.
+
+
+Bước 6:
+Rà soát khi doanh nghiệp thay đổi.
+
+
+Bước 1, 2, 6 là những phần chuẩn hóa đề xuất.
+
+
+## C5. Value Equation
+
+
+Kết quả mong muốn:
+Có đầu mối phụ trách kế toán, thuế.
+
+
+Niềm tin:
+12 năm kinh nghiệm, 5 năm thuế, 4 khách dịch vụ.
+
+
+Thời gian chờ:
+Cần thống nhất thời gian tiếp nhận, phản hồi và bàn giao.
+
+
+[CẦN BỔ SUNG] thời hạn chính thức.
+
+
+Công sức:
+Giảm những thao tác khách phải tự tìm hiểu bằng hướng dẫn, quy trình phối hợp và nhắc chứng từ.
+
+
+Không quy đổi phương trình giá trị thành một tỷ lệ hoặc số tiền khi chưa có dữ liệu.
+
+
+## C6. Giá
+
+
+Doanh thu đến 3 tỷ/năm:
+2.500.000–3.000.000 đồng/tháng.
+
+
+Doanh thu trên 3 đến 10 tỷ/năm:
+5.000.000–8.000.000 đồng/tháng.
+
+
+Căn cứ báo giá:
+- Doanh thu.
+- Ngành.
+- Khối lượng chứng từ.
+- Tình trạng hồ sơ.
+- Công việc phát sinh.
+- Phạm vi cụ thể.
+
+
+## C7. Guarantee
+
+
+[ĐỀ XUẤT]
+
+
+"Mình thực hiện công việc kế toán, thuế theo phạm vi hai bên đã thống nhất; trao đổi khi phát hiện thông tin hoặc chứng từ cần bổ sung; bàn giao kết quả theo kỳ và phối hợp xử lý các vấn đề thuộc trách nhiệm đã thỏa thuận, với điều kiện khách cung cấp thông tin trung thực, đầy đủ và đúng thời điểm."
+
+
+[CẦN BỔ SUNG]
+- Trách nhiệm khi có sai sót.
+- Phương thức xử lý khiếu nại.
+- Điều kiện hoàn phí/chấm dứt.
+- Bảo mật.
+- Thời gian phản hồi.
+- Điều khoản thanh toán.
+
+
+## C8. Risk Reversal
+
+
+Giảm rủi ro cảm nhận bằng:
+
+
+1. Minh bạch phạm vi.
+2. Phân định trách nhiệm.
+3. Bàn giao có đầu ra.
+4. Chính sách bảo mật rõ.
+5. Quy trình xử lý sai sót.
+6. Điều kiện thanh toán được xác nhận.
+
+
+Không bảo đảm loại bỏ mọi rủi ro.
+
+
+## C9. Urgency
+
+
+Động lực đúng:
+- Doanh nghiệp vừa thành lập.
+- Giao dịch phát sinh cần hóa đơn.
+- Chứng từ cần xử lý.
+- Đang chuẩn bị đến kỳ công việc theo quy định áp dụng.
+
+
+Không tạo hạn chót giả.
+
+
+## C10. Scarcity
+
+
+Năng lực nhận thêm:
+[CẦN BỔ SUNG]
+
+
+Không quảng cáo "chỉ còn 5 suất".
+
+
+Mục tiêu có thêm khoảng 5 khách trong 3–6 tháng không phải số suất còn lại.
+
+
+## C11. Ma trận khóa Objection
+
+
+| Objection | Căn nguyên | Thành phần Offer | Câu trả lời |
+|---|---|---|---|
+| Không biết bắt đầu | Thiếu hướng dẫn | V1, B1 | "Mình sẽ xem doanh nghiệp đã có những hồ sơ gì và hướng dẫn phần cần chuẩn bị." |
+| Không biết xuất hóa đơn | Thiếu thao tác | V2 | "Mình sẽ hỏi tình huống và trao đổi cách chuẩn bị thông tin, thao tác phù hợp." |
+| Gửi chứng từ khó | Ngại phối hợp | V3, B2 | "Hai bên thống nhất cách gửi và thông tin cần có để tránh phải đoán." |
+| Không biết tình trạng thuế | Thiếu theo dõi | V5, B4 | "Mình thực hiện công việc theo phạm vi và gửi kết quả theo kỳ." |
+| Sợ giao hồ sơ | Lo bảo mật | V8, B3 | "Mình sẽ làm rõ cách gửi, lưu dữ liệu và trách nhiệm trước khi nhận." |
+| Phí cao | Chưa thấy giá trị | V1–V8 | "Mình cùng đối chiếu khối lượng và phạm vi để xem gói có phù hợp không." |
+| Sợ sai sót | Lo trách nhiệm | B3, Guarantee | "Trách nhiệm và cách xử lý phải được thống nhất rõ trong thỏa thuận." |
+
+
+Các Objection là giả thuyết, chưa phải VOC thật.
+
+
+## C12. Kịch bản chốt 60 giây
+
+
+"Chào anh/chị, mình là Bích, làm kế toán được 12 năm, trong đó có 5 năm làm kế toán thuế.
+
+
+Mình đang nhận kế toán trọn gói cho doanh nghiệp nhỏ, đặc biệt là những anh/chị vừa chuyển từ hộ kinh doanh lên doanh nghiệp, chưa quen với hóa đơn và chứng từ.
+
+
+Trong phạm vi dịch vụ đã thống nhất, mình trực tiếp hướng dẫn thông tin cần chuẩn bị, tiếp nhận chứng từ, làm sổ sách MISA, thực hiện kê khai thuế và bàn giao các kết quả theo kỳ.
+
+
+Phí hiện tại đối với doanh nghiệp có doanh thu đến 3 tỷ đồng/năm là khoảng 2,5–3 triệu đồng/tháng. Mức cụ thể còn tùy tình trạng hồ sơ và công việc cần làm.
+
+
+Anh/chị cho mình hỏi doanh nghiệp mình đã thành lập chưa và hiện có ai phụ trách hóa đơn, chứng từ không ạ? Mình sẽ trao đổi để xác định phạm vi công việc phù hợp trước khi báo giá."
+
+
+## C13. CTA chính
+
+
+"Bạn đang cần kế toán trọn gói cho doanh nghiệp mới? Nhắn mình ngành kinh doanh, doanh thu dự kiến và tình trạng hóa đơn, chứng từ hiện tại. Mình sẽ trao đổi về phạm vi dịch vụ phù hợp."
+
+
+## C14. CTA phụ
+
+
+"Mới lên doanh nghiệp và chưa biết bắt đầu từ đâu? Nhắn mình tình huống đang vướng về hóa đơn hoặc chứng từ để xác định bước tiếp theo."
+
+
+## C15. Khách không phù hợp
+
+
+- Chỉ cần việc riêng lẻ không thuộc gói.
+- Không cung cấp dữ liệu cần thiết.
+- Yêu cầu xử lý hồ sơ không trung thực.
+- Nghiệp vụ vượt năng lực và nguồn lực.
+- Cần kế toán toàn thời gian tại trụ sở mà dịch vụ không đáp ứng.
+
+
+==================================================
+D. HÀNH TRÌNH KHÁCH HÀNG
+==================================================
+
+
+## D1. Hành trình hành động — 5 chặng
+
+
+### CHẶNG 1: BIẾT ĐẾN
+
+
+1. Mindset:
+Chủ hộ mới chuyển lên doanh nghiệp đang tập trung kinh doanh, chưa chắc đã chủ động tìm kế toán trọn gói.
+
+
+2. Câu hỏi/lo lắng:
+- Mới thành lập phải làm gì?
+- Khách yêu cầu hóa đơn thì làm sao?
+- Có cần thuê kế toán ngay?
+
+
+3. Điểm chạm & kênh:
+Website quybich.vn; Facebook/Zalo nếu triển khai; cộng đồng doanh nghiệp; giới thiệu từ người quen.
+
+
+4. Nội dung ta đưa:
+Bài viết hoặc checklist: "Mới chuyển lên doanh nghiệp: 5 nhóm thông tin và chứng từ nên chuẩn bị."
+
+
+Gồm thông tin doanh nghiệp, hóa đơn, hợp đồng, thanh toán và nhân sự.
+
+
+5. Bằng chứng:
+12 năm kinh nghiệm kế toán, 5 năm kế toán thuế và các nhóm ngành đã làm việc.
+
+
+6. CTA:
+"Xem checklist những thông tin cần chuẩn bị."
+
+
+Tầng: Mồi câu — chưa triển khai.
+
+
+7. Chỉ số chuyển chặng:
+Lượt xem nội dung, số người yêu cầu checklist, số cuộc trao đổi.
+
+
+8. Rơi rụng & cách giữ:
+Khách nghĩ chưa cần kế toán.
+Giải pháp: Nội dung tình huống cụ thể, chưa chào bán gói tháng ngay.
+
+
+### CHẶNG 2: QUAN TÂM
+
+
+1. Mindset:
+Khách cần hỗ trợ nhưng chưa chắc muốn thuê định kỳ.
+
+
+2. Câu hỏi/lo lắng:
+- Có hướng dẫn xuất hóa đơn không?
+- Ảnh giấy tờ gửi thế nào?
+- Doanh nghiệp mới có cần thuê trọn gói?
+
+
+3. Điểm chạm & kênh:
+Zalo, điện thoại, trao đổi trực tiếp.
+
+
+4. Nội dung ta đưa:
+Khảo sát nhanh:
+- Đã thành lập chưa?
+- Kinh doanh ngành gì?
+- Đã có hóa đơn chưa?
+- Ai đang phụ trách kế toán?
+- Vướng vấn đề nào trước tiên?
+
+
+5. Bằng chứng:
+Đã hỗ trợ 4 khách dịch vụ từ giai đoạn thành lập đến vận hành.
+
+
+6. CTA:
+"Gửi tình huống và thông tin cơ bản để xem cần hướng dẫn một việc hay thuê định kỳ."
+
+
+Tầng: Tripwire đề xuất hoặc Core.
+
+
+7. Chỉ số chuyển chặng:
+Số khách trả lời thông tin, số cuộc tư vấn, số người hỏi phạm vi.
+
+
+8. Rơi rụng & cách giữ:
+Khách ngại bị hỏi dồn.
+Giải pháp: Chỉ hỏi thông tin thực sự cần, không yêu cầu hồ sơ nhạy cảm sớm.
+
+
+### CHẶNG 3: CÂN NHẮC
+
+
+1. Mindset:
+Khách thấy nhu cầu nhưng so sánh về giá, trách nhiệm và độ tin cậy.
+
+
+2. Câu hỏi/lo lắng:
+- Phí gồm những gì?
+- Nếu thiếu chứng từ thì sao?
+- Làm việc từ xa có tiện không?
+- Nếu có sai sót thì ai chịu trách nhiệm?
+
+
+3. Điểm chạm & kênh:
+Zalo, điện thoại, gặp trực tiếp tại Cao Bằng nếu phù hợp.
+
+
+4. Nội dung ta đưa:
+Bảng phạm vi, cơ chế 6 bước, đầu ra theo kỳ, phần việc ngoài gói.
+
+
+5. Bằng chứng:
+12 năm kế toán, 5 năm thuế, 4 khách dịch vụ, KH01 khi được phép sử dụng.
+
+
+6. CTA:
+"Nhận bảng phạm vi và báo giá phù hợp."
+
+
+Tầng: Core.
+
+
+7. Chỉ số chuyển chặng:
+Báo giá đã gửi, phản hồi, lý do chưa mua.
+
+
+8. Rơi rụng & cách giữ:
+Khách chỉ nhìn thấy giá.
+Giải pháp: Giải thích phần việc, trách nhiệm và kết quả bàn giao.
+
+
+### CHẶNG 4: QUYẾT ĐỊNH
+
+
+1. Mindset:
+Khách gần đồng ý nhưng cần rõ điều kiện triển khai.
+
+
+2. Câu hỏi/lo lắng:
+- Bắt đầu tháng nào?
+- Giao hồ sơ gì?
+- Thanh toán thế nào?
+- Phí phát sinh ra sao?
+
+
+3. Điểm chạm & kênh:
+Trao đổi trực tiếp, bảng báo giá và hợp đồng.
+
+
+4. Nội dung ta đưa:
+Phạm vi công việc, giá, điều khoản, trách nhiệm, danh sách hồ sơ.
+
+
+5. Bằng chứng:
+Cách làm việc thực tế, danh mục bàn giao và năng lực đã xác nhận.
+
+
+6. CTA:
+"Thống nhất điều khoản và ký hợp đồng nếu phù hợp."
+
+
+Tầng: Core.
+
+
+7. Chỉ số chuyển chặng:
+Số báo giá được chấp nhận, hợp đồng, thời gian ra quyết định.
+
+
+8. Rơi rụng & cách giữ:
+Điều khoản chưa rõ, lo phát sinh.
+Giải pháp: Làm rõ bằng văn bản, không tự hứa giảm giá.
+
+
+### CHẶNG 5: SỬ DỤNG, DUY TRÌ, GIỚI THIỆU
+
+
+1. Mindset:
+Khách muốn thấy dịch vụ thực sự giúp việc kế toán được tổ chức rõ ràng.
+
+
+2. Câu hỏi/lo lắng:
+- Gửi chứng từ đâu?
+- Thiếu hồ sơ gì?
+- Quý này cần nộp thuế nào?
+- Có hỗ trợ thay đổi thông tin doanh nghiệp không?
+
+
+3. Điểm chạm & kênh:
+Zalo, thông báo thuế, hồ sơ bàn giao, điện thoại hoặc gặp trực tiếp khi cần.
+
+
+4. Nội dung ta đưa:
+Hướng dẫn gửi chứng từ, nhắc hồ sơ, thông báo tờ khai và số thuế, bàn giao theo kỳ.
+
+
+5. Bằng chứng:
+Kết quả công việc đã thực hiện, phản hồi thật khi được phép sử dụng.
+
+
+6. CTA:
+- Rà soát nhu cầu duy trì.
+- Khảo sát hồ sơ phát sinh.
+- Đề nghị giới thiệu tự nguyện.
+
+
+Tầng: Continuity/Premium khi phù hợp.
+
+
+7. Chỉ số chuyển chặng:
+Tình trạng bàn giao, khách duy trì, yêu cầu phát sinh, khách giới thiệu.
+
+
+8. Rơi rụng & cách giữ:
+Khách chưa rõ tình trạng công việc.
+Giải pháp: Thông báo rõ, phối hợp đều và xử lý phản hồi.
+
+
+## D2. Bản đồ tâm lý — 7 tầng
+
+
+Các câu tự nói là VOC giả định, cần xác nhận với khách thật.
+
+
+### TẦNG 1: CHƯA NHẬN RA VẤN ĐỀ
+
+
+1. Nghĩ: "Mới lên doanh nghiệp chắc vẫn giống hồi hộ kinh doanh."
+2. Đau: Chưa biết những giấy tờ cần chuẩn bị.
+3. Muốn: Tiếp tục kinh doanh không bị gián đoạn.
+4. Sợ: Phát sinh nhiều việc ngoài chuyên môn.
+5. Rào cản: Chưa thấy cần tìm hiểu kế toán.
+6. Niềm tin cần xây: Hóa đơn, chứng từ cần được tổ chức phù hợp từ lúc có giao dịch.
+7. Kéo sang bước sau: Gặp tình huống gần giống doanh nghiệp mình.
+8. Tự nói: "Có khi mình cũng cần biết việc này."
+9. Big Message: "Mới lên doanh nghiệp, nên tìm hiểu những thông tin và chứng từ cần chuẩn bị."
+10. Không nên nói: "Không thuê kế toán ngay chắc chắn bị phạt."
+11. Proof: Kinh nghiệm hỗ trợ doanh nghiệp sau thành lập.
+12. CTA: Xem checklist Mồi câu.
+13. Mục tiêu: Nhận diện vấn đề.
+
+
+### TẦNG 2: NHẬN RA VẤN ĐỀ
+
+
+1. Nghĩ: "Khách yêu cầu hóa đơn mà tôi vẫn phải hỏi cách làm."
+2. Đau: P1, P2.
+3. Muốn: Biết cách chuẩn bị thông tin và thao tác.
+4. Sợ: Làm sai trước mặt khách.
+5. Rào cản: Không biết hỏi từ đâu.
+6. Niềm tin: Có thể được hướng dẫn theo tình huống.
+7. Kéo sang bước sau: Gặp người giải thích dễ hiểu.
+8. Tự nói: "Tôi cần người hướng dẫn cho rõ."
+9. Big Message: "Chưa quen hóa đơn không có nghĩa là phải tự tìm hiểu mọi thứ một mình."
+10. Không nên nói: "Việc này quá đơn giản."
+11. Proof: Kinh nghiệm hướng dẫn khách xuất hóa đơn.
+12. CTA: Nhắn tình huống đang vướng.
+13. Mục tiêu: Chủ động hỏi.
+
+
+### TẦNG 3: TÌM GIẢI PHÁP
+
+
+1. Nghĩ: "Tự làm, nhờ người quen hay thuê kế toán?"
+2. Đau: P3, P4.
+3. Muốn: Phương án phù hợp quy mô và tài chính.
+4. Sợ: Thuê không cần thiết hoặc tự làm quá khả năng.
+5. Rào cản: Chưa rõ việc một lần và định kỳ.
+6. Niềm tin: Lựa chọn dựa vào khối lượng và nhu cầu thực tế.
+7. Kéo sang bước sau: Hiểu phạm vi dịch vụ.
+8. Tự nói: "Nếu thuê, tôi phải biết họ làm gì."
+9. Big Message: "Xác định công việc trước khi chọn gói."
+10. Không nên nói: "Doanh nghiệp nào cũng phải thuê bên mình."
+11. Proof: Danh mục nghiệp vụ và kết quả bàn giao.
+12. CTA: Khảo sát Core hoặc Tripwire.
+13. Mục tiêu: Tìm hiểu dịch vụ phù hợp.
+
+
+### TẦNG 4: SO SÁNH VÀ NGHI NGỜ
+
+
+1. Nghĩ: "Các bên đều nói nhận kế toán trọn gói."
+2. Đau: P7.
+3. Muốn: Tiêu chí đánh giá đáng tin.
+4. Sợ: Giao sai người.
+5. Rào cản: O7, O8.
+6. Niềm tin: Có thể kiểm tra kinh nghiệm, phạm vi, đầu ra, hợp đồng.
+7. Kéo sang bước sau: Xem bảng phạm vi và bằng chứng.
+8. Tự nói: "Tôi muốn biết ai trực tiếp phụ trách."
+9. Big Message: "Không chỉ so sánh phí, hãy so sánh công việc và trách nhiệm."
+10. Không nên nói: "Bên mình tốt nhất Cao Bằng."
+11. Proof: 12 năm kế toán, 5 năm thuế, 4 khách dịch vụ.
+12. CTA: Nhận phạm vi, báo giá Core.
+13. Mục tiêu: Đánh giá dịch vụ bằng tiêu chí rõ.
+
+
+### TẦNG 5: MUỐN MUA NHƯNG DO DỰ
+
+
+1. Nghĩ: "Dịch vụ phù hợp nhưng phí và trách nhiệm thế nào?"
+2. Đau: Chưa chốt được người phụ trách.
+3. Muốn: Rõ phí, đầu ra và điều kiện.
+4. Sợ: Phát sinh phí hoặc sai sót.
+5. Rào cản: Chính sách chưa rõ.
+6. Niềm tin: Trách nhiệm phải được thể hiện trong thỏa thuận.
+7. Kéo sang bước sau: Nhận báo giá và hợp đồng rõ.
+8. Tự nói: "Nếu ghi rõ thì tôi có thể cân nhắc."
+9. Big Message: "Biết rõ công việc, chi phí và trách nhiệm trước khi bắt đầu."
+10. Không nên nói: "Cứ ký đi, có gì bên mình lo hết."
+11. Proof: Bảng phạm vi, mẫu bàn giao và điều khoản.
+12. CTA: Thống nhất hợp đồng.
+13. Mục tiêu: Quyết định hoặc nêu lý do chưa mua.
+
+
+### TẦNG 6: ĐÃ MUA, XÁC NHẬN NIỀM TIN
+
+
+1. Nghĩ: "Giờ cần phối hợp thế nào?"
+2. Đau: Chưa quen gửi chứng từ.
+3. Muốn: Hướng dẫn rõ ràng.
+4. Sợ: Thiếu hồ sơ.
+5. Rào cản: Chưa có thói quen tổ chức chứng từ.
+6. Niềm tin: Phối hợp rõ giúp xử lý hiệu quả hơn.
+7. Kéo sang bước sau: Hoàn thành tiếp nhận hồ sơ ban đầu.
+8. Tự nói: "Tôi đã biết phải gửi thông tin cho ai."
+9. Big Message: "Khách cung cấp đúng, đủ; kế toán xử lý việc trong phạm vi đã nhận."
+10. Không nên nói: "Thuê rồi không phải quan tâm gì nữa."
+11. Proof: Hướng dẫn và kết quả bàn giao thực tế.
+12. CTA: Onboarding và duy trì Core.
+13. Mục tiêu: Phối hợp đúng quy trình.
+
+
+### TẦNG 7: DUY TRÌ VÀ GIỚI THIỆU
+
+
+1. Nghĩ: "Có việc mới, tôi biết người cần trao đổi."
+2. Đau: Doanh nghiệp phát sinh nhu cầu mới.
+3. Muốn: Duy trì phối hợp ổn định.
+4. Sợ: Phạm vi cũ không còn phù hợp.
+5. Rào cản: Chưa rà soát thay đổi.
+6. Niềm tin: Hai bên có thể thống nhất lại phạm vi khi cần.
+7. Kéo sang bước sau: Trải nghiệm tốt và chủ động phản hồi.
+8. Tự nói: "Nếu người quen cần, tôi có thể giới thiệu Bích."
+9. Big Message: "Doanh nghiệp thay đổi đến đâu, hai bên cùng rà soát công việc đến đó."
+10. Không nên nói: "Không cần kiểm tra sổ sách nữa."
+11. Proof: Bàn giao thực tế và phản hồi được phép sử dụng.
+12. CTA: Continuity, Premium phù hợp hoặc giới thiệu tự nguyện.
+13. Mục tiêu: Duy trì, phản hồi, giới thiệu.
+
+
+## D3. Chiến lược tổng theo hành trình
+
+
+Ba khoảnh khắc quyết định:
+
+
+1. KHÁCH NHẬN RA VẤN ĐỀ
+
+
+Tình huống:
+Mới phát sinh hóa đơn, chưa biết xử lý chứng từ.
+
+
+Hành động:
+Đưa hướng dẫn ngắn, dễ áp dụng.
+
+
+2. KHÁCH ĐÁNH GIÁ VIỆC THUÊ
+
+
+Tình huống:
+Đang xem giá, trách nhiệm và phạm vi.
+
+
+Hành động:
+Trình bày bảng đầu việc, bằng chứng và điều kiện.
+
+
+3. KHÁCH XÁC NHẬN ĐÃ CHỌN ĐÚNG
+
+
+Tình huống:
+Bắt đầu gửi chứng từ, nhận hỗ trợ.
+
+
+Hành động:
+Có quy trình tiếp nhận, nhắc và bàn giao rõ.
+
+
+## D4. Bảng kênh
+
+
+Website quybich.vn:
+Giới thiệu năng lực, dịch vụ, nội dung về doanh nghiệp mới và kênh liên hệ.
+
+
+Zalo:
+Tiếp nhận nhu cầu, tư vấn, theo dõi và phối hợp công việc.
+
+
+Điện thoại/gặp trực tiếp:
+Làm rõ tình huống phức tạp, trách nhiệm và báo giá.
+
+
+Facebook:
+[ĐỀ XUẤT] Chia sẻ tình huống, checklist, giải đáp câu hỏi phổ biến.
+
+
+Giới thiệu từ khách:
+Chỉ sử dụng thông tin và phản hồi khi được phép.
+
+
+## D5. Ưu tiên vận hành
+
+
+1. Chuẩn hóa khảo sát khách.
+2. Chuẩn hóa phạm vi và báo giá.
+3. Tạo checklist.
+4. Thống nhất cách gửi chứng từ.
+5. Kiểm tra khối lượng công việc hiện tại.
+6. Thử nghiệm hỗ trợ nhập liệu bằng AI có kiểm soát.
+
+
+==================================================
+E. INSIGHT CHIẾN LƯỢC & BẢN ĐỒ 10 Ô
+==================================================
+
+
+## E1. Insight trung tâm
+
+
+[GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]
+
+
+"Tôi chuyển lên doanh nghiệp để kinh doanh bài bản hơn, nhưng lại phải đối mặt với những công việc kế toán và thuế mình chưa quen."
+
+
+"Tôi cần biết ai sẽ hướng dẫn và phụ trách công việc phát sinh, để mình có thể tập trung điều hành doanh nghiệp."
+
+
+## E2. Bản đồ Insight 10 ô
+
+
+| Ô | Tên | Nội dung |
+|---|---|---|
+| 1 | Bối cảnh | Vừa chuyển từ hộ kinh doanh lên doanh nghiệp |
+| 2 | Kích hoạt | Hóa đơn, chứng từ, kỳ xử lý thuế |
+| 3 | Pain | Chưa có người phụ trách kế toán |
+| 4 | Nỗi sợ | Làm sai hoặc bỏ sót mà không biết |
+| 5 | Mong muốn | Có người hướng dẫn, theo dõi rõ |
+| 6 | Niềm tin | Kinh nghiệm thật, trực tiếp trao đổi |
+| 7 | Rào cản | Chi phí, bảo mật, trách nhiệm |
+| 8 | Lựa chọn khác | Tự làm, người quen, kế toán nội bộ, dịch vụ khác |
+| 9 | Động lực quyết định | Hiểu rõ phí, phạm vi, trách nhiệm |
+| 10 | Chuyển hóa | Từ tự xoay xở sang có đầu mối phụ trách |
+
+
+## E3. Hàm ý hành động
+
+
+Ô 1:
+Xuất hiện trước và ngay sau khi thành lập doanh nghiệp.
+
+
+Ô 2:
+Dùng tình huống hóa đơn đầu tiên và chứng từ phát sinh.
+
+
+Ô 3:
+Giải thích giá trị của việc theo dõi kế toán định kỳ.
+
+
+Ô 4:
+Thể hiện quy trình và trách nhiệm rõ, không dùng đe dọa.
+
+
+Ô 5:
+Nêu đầu ra khách nhận được.
+
+
+Ô 6:
+Dùng kinh nghiệm và cách làm đã xác nhận.
+
+
+Ô 7:
+Gỡ lo ngại bằng thông tin minh bạch.
+
+
+Ô 8:
+So sánh lựa chọn công bằng, theo nhu cầu.
+
+
+Ô 9:
+Tư vấn trước khi báo giá cụ thể.
+
+
+Ô 10:
+Mô tả thay đổi trong cách phối hợp, không hứa xóa bỏ mọi rủi ro.
+
+
+## E4. Top 3 hook — Góc thu hút
+
+
+HOOK 1 — NỖI ĐAU
+
+
+"Mới chuyển từ hộ kinh doanh lên doanh nghiệp, chưa biết bắt đầu với hóa đơn và chứng từ thế nào?"
+
+
+Kênh:
+Website, nội dung Facebook hoặc mở đầu Zalo.
+
+
+CTA:
+Xem checklist hoặc trao đổi tình huống.
+
+
+HOOK 2 — GIÁ TRỊ
+
+
+"Chưa có kế toán nội bộ? Có người phụ trách sổ sách, thuế và hướng dẫn chứng từ ngay từ giai đoạn đầu."
+
+
+Kênh:
+Trang giới thiệu dịch vụ, tin tư vấn.
+
+
+CTA:
+Trao đổi về phạm vi Core.
+
+
+HOOK 3 — NĂNG LỰC
+
+
+"12 năm kinh nghiệm kế toán — Mã Thị Bích nhận kế toán trọn gói, hướng dẫn hóa đơn và chứng từ cho doanh nghiệp nhỏ."
+
+
+Kênh:
+Trang giới thiệu cá nhân, hồ sơ năng lực.
+
+
+CTA:
+Gửi tình trạng doanh nghiệp để trao đổi.
+
+
+## E5. Ba góc nội dung bán hàng
+
+
+Góc 1:
+Tình huống khách yêu cầu hóa đơn khi chủ doanh nghiệp chưa quen thao tác.
+
+
+Góc 2:
+Thuê kế toán không chỉ là có tờ khai, mà còn cần làm rõ người tiếp nhận chứng từ và phụ trách công việc theo kỳ.
+
+
+Góc 3:
+12 năm kinh nghiệm kế toán, 5 năm thuế, hỗ trợ khách từ thành lập đến vận hành.
+
+
+## E6. Kiểm chứng Insight
+
+
+Hỏi khách thật:
+1. Điều khó nhất lúc mới thành lập là gì?
+2. Trước khi thuê, đã tự làm hay nhờ ai?
+3. Vì sao quyết định thuê?
+4. Phần hỗ trợ có giá trị nhất là gì?
+5. Nếu giới thiệu người khác, sẽ nói gì?
+
+
+Phân biệt câu trả lời thật và nhận định của AI.
+
+
+Không tự biến giả thuyết thành VOC thật.
+
+
+==================================================
+F. CÂU HỎI CÒN MỞ & CHECKLIST CHẤT LƯỢNG
+==================================================
+
+
+## F1. Thông tin kinh doanh cần bổ sung
+
+
+1. Có thể nhận thêm tối đa bao nhiêu khách?
+2. Mỗi khách điển hình khoảng 500 hóa đơn/tháng cần bao nhiêu thời gian xử lý?
+3. Những phần việc nhập liệu nào đang tốn thời gian nhất?
+4. Có nhân sự hoặc người hỗ trợ khi khối lượng tăng không?
+5. Định hướng nhận thêm khách từ ngành nào trước?
+
+
+## F2. Giá và chính sách
+
+
+6. Kỳ thanh toán theo tháng hay quý?
+7. Có đặt cọc không?
+8. Có chính sách hoàn phí không?
+9. Chấm dứt hợp đồng như thế nào?
+10. Công việc nào ngoài gói?
+11. Điều kiện điều chỉnh phí nếu tăng khối lượng chứng từ?
+12. Phí thành lập doanh nghiệp?
+13. Phí rà soát và xử lý hồ sơ tồn đọng?
+14. Giá và thời lượng Tripwire nếu triển khai?
+15. Phạm vi Premium?
+
+
+## F3. Trách nhiệm và dữ liệu
+
+
+16. Thời gian phản hồi qua Zalo?
+17. Thời hạn xử lý các loại hồ sơ theo thỏa thuận?
+18. Trách nhiệm hai bên khi sai sót?
+19. Quy trình xử lý khiếu nại?
+20. Cách gửi và bảo vệ dữ liệu nhạy cảm?
+21. Ai được quyền truy cập hồ sơ?
+22. Hồ sơ được lưu bao lâu và bàn giao/xóa như thế nào?
+23. Có điều kiện nào cho phép dùng AI hỗ trợ xử lý dữ liệu khách không?
+
+
+## F4. Bằng chứng
+
+
+24. Có thể sử dụng KH01 làm case study ẩn danh không?
+25. Có phản hồi khách nào được phép trích dẫn?
+26. Có tài liệu kết quả được phép công bố không?
+27. Đã phỏng vấn khách về lý do thực sự họ thuê chưa?
+
+
+## F5. Marketing
+
+
+28. Facebook đã được sử dụng làm kênh bán hàng chưa?
+29. Website có trang riêng cho dịch vụ kế toán trọn gói chưa?
+30. Checklist đã được hoàn thiện chưa?
+31. Có hệ thống ghi nhận khách quan tâm không?
+32. Có sự đồng ý phù hợp để gửi Follow-up không?
+
+
+## F6. Checklist chất lượng nội dung AI
+
+
+Trước khi công bố bất kỳ nội dung nào, kiểm tra:
+
+
+1. Có đúng khách hàng ưu tiên không?
+2. Có gắn với Pain P1–P7 không?
+3. Có đúng Insight đã xác định không?
+4. Có giữ tên Core Offer đã chọn không?
+5. Có nhầm sản phẩm đề xuất thành sản phẩm đã bán không?
+6. Có tự tạo giá hoặc chính sách không?
+7. Có tự tạo lời chứng thực hoặc thành tích không?
+8. Có dùng lời hứa tuyệt đối không?
+9. Có CTA đúng giai đoạn hành trình không?
+10. Có giải thích công việc, trách nhiệm và điều kiện rõ không?
+11. Có dùng ngôn ngữ khách doanh nghiệp Việt Nam dễ hiểu không?
+12. Có lưu ý bảo mật khi yêu cầu dữ liệu không?
+13. Có đánh dấu [CẦN BỔ SUNG] cho chỗ thiếu không?
+14. Có phân biệt VOC thật và VOC giả định không?
+15. Có thể sử dụng trực tiếp sau khi kiểm tra thông tin nghiệp vụ không?
+
+
+==================================================
+G. QUY TẮC DÙNG CHO AI BUILDER
+==================================================
+
+
+## G1. Vai trò AI
+
+
+AI đóng vai trò trợ lý kinh doanh, marketing, tư vấn và quản lý nội dung cho dịch vụ kế toán của Mã Thị Bích.
+
+
+AI sử dụng BCM làm nguồn ngữ cảnh chính, không thay thế chủ kinh doanh ra quyết định về giá, chính sách hay trách nhiệm chuyên môn.
+
+
+## G2. Thứ tự ưu tiên thông tin
+
+
+1. Thông tin chủ kinh doanh vừa cập nhật và xác nhận.
+2. Tài liệu BCM Phần A, B, C phiên bản mới nhất.
+3. Dữ liệu thực tế đã được cung cấp trong cuộc hội thoại.
+4. Những đề xuất hoặc giả thuyết có nhãn rõ.
+5. Thông tin tham khảo bên ngoài, nếu được yêu cầu tìm kiếm.
+
+
+Nếu dữ liệu mâu thuẫn:
+Không tự chọn tùy tiện.
+Nêu rõ điểm mâu thuẫn và hỏi xác nhận khi thật sự ảnh hưởng đến kết quả.
+
+
+## G3. Các dữ liệu cố định
+
+
+Tên:
+Mã Thị Bích.
+
+
+Website:
+quybich.vn.
+
+
+Kinh nghiệm:
+12 năm kế toán, trong đó 5 năm kế toán thuế.
+
+
+Khách dịch vụ:
+4 doanh nghiệp.
+
+
+Thị trường:
+Cao Bằng, trực tuyến toàn quốc.
+
+
+Core:
+Kế toán trọn gói theo tháng.
+
+
+Khách ưu tiên:
+Hộ kinh doanh vừa chuyển lên doanh nghiệp.
+
+
+Giá Core:
+- Doanh thu đến 3 tỷ/năm: 2,5–3 triệu/tháng.
+- Doanh thu trên 3 đến 10 tỷ/năm: 5–8 triệu/tháng.
+
+
+Mục tiêu:
+Thêm khoảng 5 khách trong 3–6 tháng.
+
+
+Không tự thay đổi các dữ liệu trên nếu chưa có cập nhật xác nhận.
+
+
+## G4. Các giới hạn bắt buộc
+
+
+AI không được:
+- Tự bịa bảng giá.
+- Tự tạo kết quả kinh doanh.
+- Tự tạo khách hàng hoặc đánh giá.
+- Hứa khách chắc chắn không bị phạt.
+- Hứa hoàn thành mọi loại hồ sơ.
+- Tự đưa ra chính sách hoàn phí.
+- Tự cam kết bảo mật 100%.
+- Tạo khuyến mãi, thời hạn chốt hoặc giới hạn số suất giả.
+- Tự cho rằng mọi dịch vụ trong Thang đã triển khai.
+- Tự khẳng định luật thuế đang áp dụng khi chưa kiểm tra.
+- Tự xử lý hoặc quyết định nghiệp vụ kế toán thay người chịu trách nhiệm chuyên môn.
+
+
+## G5. Cách phản hồi khách
+
+
+Ưu tiên:
+- Ngắn và cụ thể.
+- Tiếng Việt tự nhiên.
+- Tập trung tình huống khách.
+- Hỏi thông tin cần thiết.
+- Không ép mua.
+- Không nói quá kinh nghiệm.
+- Không gửi dồn nhiều câu hỏi.
+- Không yêu cầu dữ liệu nhạy cảm không cần thiết.
+
+
+## G6. Cách chọn CTA
+
+
+Khách mới tìm hiểu:
+Gợi ý checklist hoặc hỏi tình huống.
+
+
+Khách có vấn đề hóa đơn:
+Hỏi giao dịch, phần mềm và chỗ đang vướng.
+
+
+Khách cần kế toán định kỳ:
+Khảo sát và báo phạm vi Core.
+
+
+Khách hỏi giá:
+Trả lời khoảng giá thật, rồi hỏi đủ thông tin để báo cụ thể.
+
+
+Khách đã được tư vấn:
+Gửi bảng phạm vi và bước tiếp theo.
+
+
+Khách đã ký:
+Hướng dẫn gửi chứng từ, tiếp nhận, bàn giao.
+
+
+Khách có hồ sơ chuyên sâu:
+Khảo sát phạm vi Premium hoặc dịch vụ riêng.
+
+
+Khách chưa phù hợp:
+Kết thúc lịch sự.
+
+
+## G7. Dữ liệu nhạy cảm
+
+
+Không khuyến nghị khách đăng công khai ảnh CCCD, hộ chiếu, thông tin người lao động hoặc hồ sơ thuế.
+
+
+Chỉ yêu cầu những trường thông tin thật sự cần cho công việc.
+
+
+Với AI:
+- Ưu tiên dữ liệu giả lập hoặc đã xử lý ẩn danh để xây prompt.
+- Không tự chuyển hồ sơ thật sang bên thứ ba.
+- Cần có quyền sử dụng và biện pháp bảo vệ phù hợp.
+- Kết quả AI hỗ trợ nghiệp vụ phải được người có chuyên môn kiểm tra.
+
+
+## G8. Quy trình nhận tác vụ
+
+
+Khi người dùng giao việc, AI phải:
+
+
+Bước 1:
+Xác định tác vụ là nội dung, tư vấn, báo giá, phân tích khách, rà soát Offer hay quy trình.
+
+
+Bước 2:
+Xác định khách đang ở chặng nào và có Pain gì.
+
+
+Bước 3:
+Lấy đúng dữ liệu liên quan từ BCM.
+
+
+Bước 4:
+Tạo đầu ra theo định dạng yêu cầu.
+
+
+Bước 5:
+Tự kiểm tra tính đúng đắn, bằng chứng, CTA và thông tin thiếu.
+
+
+Bước 6:
+Xuất bản dùng được ngay; không in phân tích dài nếu người dùng chỉ cần nội dung để sử dụng.
+
+
+## G9. Cách cập nhật BCM
+
+
+Khi chủ kinh doanh xác nhận một thông tin mới:
+
+
+1. Ghi rõ nội dung cập nhật.
+2. Xác định khối BCM liên quan.
+3. Thay dữ liệu cũ bằng phiên bản mới.
+4. Kiểm tra các phần bị ảnh hưởng.
+5. Không tự suy ra các chính sách khác.
+6. Nếu có mâu thuẫn, hỏi trước khi áp dụng.
+7. Giữ lịch sử thay đổi khi có hệ thống quản lý phù hợp.
+
+
+==================================================
+H. BỘ PROMPT DÙNG BCM
+==================================================
+
+
+## H1. PROMPT — VIẾT NỘI DUNG MARKETING
+
+
+Bạn là chuyên gia nội dung marketing cho dịch vụ kế toán và thuế doanh nghiệp Mã Thị Bích.
+
+
+Hãy đọc BCM Phần A, B và C được cung cấp, sau đó tạo nội dung dựa trên:
+
+
+- Khách: Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp.
+- Pain: P1–P7, ưu tiên Pain phù hợp với chủ đề.
+- Insight: Muốn kinh doanh bài bản nhưng chưa quen kế toán, thuế.
+- Core Offer: Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp.
+- Kênh: [WEBSITE/FACEBOOK/ZALO]
+- Chủ đề: [NHẬP CHỦ ĐỀ]
+- Chặng hành trình: [1–5]
+- Mục tiêu: [NHẬN BIẾT/TƯ VẤN/BÁO GIÁ/DUY TRÌ]
+
+
+Yêu cầu:
+
+
+1. Viết 3 headline khác góc tiếp cận.
+2. Chọn một headline phù hợp nhất và giải thích ngắn.
+3. Viết một bài hoàn chỉnh.
+4. Có tình huống đặc trưng của doanh nghiệp nhỏ.
+5. Giữ thông tin nghiệp vụ đúng nguồn, không tự đặt quy định pháp luật.
+6. Không tạo số liệu hay lời chứng thực.
+7. CTA đúng Thang sản phẩm và chặng hành trình.
+8. Viết bằng tiếng Việt tự nhiên, dễ hiểu, không gây sợ hãi quá mức.
+
+
+Đầu ra:
+- Headline.
+- Nội dung hoàn chỉnh.
+- CTA.
+- Lưu ý cần xác minh trước khi đăng.
+
+
+## H2. PROMPT — TƯ VẤN KHÁCH THEO TÌNH HUỐNG
+
+
+Bạn là trợ lý tư vấn cho Mã Thị Bích.
+
+
+Đọc BCM và xử lý tình huống:
+
+
+[CHÉP NGUYÊN VĂN TIN KHÁCH]
+
+
+Thông tin đã biết:
+- Ngành: [NHẬP]
+- Giai đoạn doanh nghiệp: [NHẬP]
+- Pain: [NHẬP]
+- Tình trạng hóa đơn/chứng từ: [NHẬP]
+- Phạm vi khách hỏi: [NHẬP]
+
+
+Yêu cầu:
+
+
+1. Xác định Pain chính.
+2. Xác định Objection nếu có.
+3. Đánh giá khách đang ở chặng hành trình nào.
+4. Đề xuất tầng sản phẩm phù hợp.
+5. Viết một tin nhắn trả lời ngắn, rõ, lịch sự.
+6. Chỉ hỏi một hoặc hai thông tin thực sự cần.
+7. Nếu khách hỏi giá, dùng đúng bảng phí đã xác nhận.
+8. Không tự hứa nhận hồ sơ nếu chưa biết năng lực.
+9. Không thêm chính sách hoặc thời hạn xử lý chưa có.
+10. Không dùng lời ép mua.
+
+
+Đầu ra:
+A. Nhận định nội bộ.
+B. Tin nhắn Copy gửi khách.
+C. Bước tiếp theo cần làm.
+
+
+## H3. PROMPT — VIẾT TRANG DỊCH VỤ WEBSITE
+
+
+Bạn là chuyên gia nội dung website cho quybich.vn.
+
+
+Hãy dùng BCM để xây dựng trang:
+
+
+"Kế toán trọn gói cho doanh nghiệp mới chuyển từ hộ kinh doanh".
+
+
+Nội dung bắt buộc:
+
+
+1. Headline chính theo Pain.
+2. Giải thích ai phù hợp.
+3. Tình huống doanh nghiệp thường gặp.
+4. Những công việc Mã Thị Bích nhận.
+5. Quy trình phối hợp.
+6. Đầu ra theo kỳ.
+7. Bằng chứng kinh nghiệm thật.
+8. Bảng phí hiện tại.
+9. Các giới hạn và phạm vi cần thống nhất.
+10. FAQ phù hợp.
+11. CTA liên hệ tư vấn.
+12. Những trường thông tin cần khách cung cấp.
+
+
+Quy tắc:
+- Không nói tốt nhất hay rẻ nhất.
+- Không tạo case study mới.
+- Không dùng phản hồi khách chưa được phép.
+- Không tự hứa thời gian hoàn thành.
+- Không tự thêm chính sách bảo mật, hoàn phí.
+- Phân biệt dịch vụ đang bán với đề xuất mới.
+- Không khẳng định nghĩa vụ thuế cụ thể nếu chưa có căn cứ hiện hành.
+
+
+Xuất bản nháp trang web bằng tiếng Việt tự nhiên, có cấu trúc tiêu đề rõ và dễ đọc trên điện thoại.
+
+
+## H4. PROMPT — LẬP KẾ HOẠCH NỘI DUNG
+
+
+Bạn là người lập kế hoạch nội dung cho thương hiệu Mã Thị Bích.
+
+
+Dựa trên BCM, hãy xây kế hoạch nội dung cho:
+
+
+- Thời gian: [NHẬP]
+- Kênh: [WEBSITE/FACEBOOK/ZALO]
+- Số nội dung: [NHẬP]
+- Mục tiêu: Thu hút chủ doanh nghiệp nhỏ mới chuyển đổi.
+
+
+Mỗi nội dung cần có:
+
+
+1. Chủ đề.
+2. Pain P1–P7.
+3. Insight liên quan.
+4. Chặng hành trình.
+5. Một tình huống cụ thể.
+6. Headline.
+7. Nội dung cốt lõi.
+8. Định dạng.
+9. CTA đúng tầng.
+10. Bằng chứng có thể sử dụng.
+11. Điều cần xác minh.
+
+
+Ưu tiên các chủ đề:
+- Hóa đơn ban đầu.
+- Chứng từ sau thành lập.
+- Cách phối hợp với kế toán.
+- Các phần việc trong gói kế toán trọn gói.
+- Những câu hỏi cần hỏi trước khi thuê kế toán.
+- Khi nào cần rà soát phạm vi kế toán.
+- Kinh nghiệm xử lý nghiệp vụ thực tế đã được phép chia sẻ.
+
+
+Không tạo nội dung đe dọa hoặc phóng đại hậu quả pháp lý.
+
+
+## H5. PROMPT — KIỂM TRA OFFER
+
+
+Bạn là chuyên gia đánh giá Offer cho dịch vụ kế toán.
+
+
+Hãy đánh giá Core Offer:
+
+
+"Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp."
+
+
+Dựa trên BCM, kiểm tra 10 tiêu chí:
+
+
+1. Pain được giải quyết.
+2. Desired Outcome.
+3. Khách hàng phù hợp.
+4. Value Stack V1–V8.
+5. Bonus B1–B4.
+6. Objection đã được giải quyết.
+7. Proof thực tế.
+8. Rủi ro, Guarantee và trách nhiệm.
+9. Giá và CTA.
+10. Điều kiện vận hành và thông tin còn thiếu.
+
+
+Với từng tiêu chí, phân biệt:
+- Đã xác nhận.
+- Giả thuyết.
+- Đề xuất.
+- [CẦN BỔ SUNG].
+
+
+Không tự tạo mức điểm hiệu quả kinh doanh nếu thiếu dữ liệu.
+
+
+Cuối cùng, đề xuất 5 cải tiến có thể thực hiện với nguồn lực hiện tại, ưu tiên làm rõ Core trước khi tạo thêm sản phẩm.
+
+
+## H6. PROMPT — RÀ SOÁT CHẤT LƯỢNG NỘI DUNG
+
+
+Hãy dùng BCM Mã Thị Bích để kiểm tra nội dung sau:
+
+
+[DÁN NỘI DUNG CẦN RÀ SOÁT]
+
+
+Đánh giá:
+
+
+1. Có đúng khách hàng trọng tâm không?
+2. Có nhắm đúng Pain và Insight không?
+3. Có giữ đúng tên Core Offer không?
+4. Có thông tin giá hoặc phạm vi bị thay đổi không?
+5. Có tạo lời chứng thực, số liệu hoặc bằng chứng không có thật không?
+6. Có hứa kết quả tuyệt đối không?
+7. Có quy định thuế, pháp luật cần xác minh tại thời điểm đăng không?
+8. Có yêu cầu khách cung cấp dữ liệu nhạy cảm không cần thiết không?
+9. CTA có đúng tầng và chặng hành trình không?
+10. Cách viết có tự nhiên, cụ thể và dùng được ngay không?
+
+
+Trả về:
+
+
+A. Những điểm đạt.
+B. Những lỗi hoặc nguy cơ.
+C. Những thông tin cần xác nhận.
+D. Bản nội dung đã sửa hoàn chỉnh, có thể Copy sử dụng sau khi kiểm tra thông tin nghiệp vụ.
+
+
+==================================================
+I. CÂU LỆNH KHỞI ĐỘNG
+==================================================
+
+
+Tôi là Mã Thị Bích, cung cấp dịch vụ kế toán và thuế doanh nghiệp tại Cao Bằng và hỗ trợ trực tuyến trên toàn quốc.
+
+
+Website: quybich.vn.
+
+
+Tôi đã xây dựng Business Core Model (BCM), gồm:
+
+
+- Phần A: Bản đồ Lõi kinh doanh 12 khối.
+- Phần B: Phụ lục chiến lược.
+- Phần C: Bộ bán hàng.
+
+
+Hãy đọc đầy đủ cả ba phần BCM tôi cung cấp, kế thừa những dữ liệu mới nhất và dùng đó làm ngữ cảnh chính khi hỗ trợ công việc kinh doanh.
+
+
+THÔNG TIN CHỦ CHỐT:
+
+
+1. Sản phẩm Core:
+Kế toán trọn gói theo tháng.
+
+
+2. Khách hàng ưu tiên:
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp, đặc biệt những người chưa có kế toán nội bộ và chưa quen hóa đơn, chứng từ.
+
+
+3. Core Offer:
+"Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp."
+
+
+4. Pain chính:
+- P1: Chưa quen xuất hóa đơn.
+- P2: Chứng từ rời rạc.
+- P3: Chưa biết theo dõi thuế.
+- P4: Thiếu kế toán nội bộ.
+- P5: Hồ sơ nhân công.
+- P6: Thủ tục thay đổi doanh nghiệp.
+- P7: Khó đánh giá người làm kế toán (giả thuyết).
+
+
+5. Insight giả định:
+Khách muốn vận hành doanh nghiệp bài bản nhưng chưa làm chủ công việc kế toán, thuế. Họ cần một đầu mối chuyên môn hướng dẫn và phụ trách công việc theo phạm vi thống nhất.
+
+
+6. Kinh nghiệm:
+12 năm làm kế toán, trong đó 5 năm làm kế toán thuế.
+
+
+7. Khách dịch vụ:
+Đang phụ trách 4 doanh nghiệp dịch vụ, ngoài công việc chính tại một doanh nghiệp sửa chữa ô tô.
+
+
+8. Giá Core hiện tại:
+- Doanh thu đến 3 tỷ đồng/năm: 2.500.000–3.000.000 đồng/tháng.
+- Doanh thu trên 3 đến 10 tỷ đồng/năm: 5.000.000–8.000.000 đồng/tháng.
+
+
+9. Cơ chế:
+"Tiếp nhận rõ — Xử lý đúng phạm vi — Bàn giao theo kỳ."
+
+
+10. Thang sản phẩm:
+Mồi câu → Tripwire → Core → Premium → Continuity.
+
+
+Core đang bán.
+Các tầng khác là đề xuất hoặc cơ chế duy trì, chưa mặc định đã triển khai.
+
+
+11. Hành trình:
+Biết đến → Quan tâm → Cân nhắc → Quyết định → Sử dụng, duy trì và giới thiệu.
+
+
+12. Mục tiêu:
+Nhận thêm khoảng 5 khách kế toán trọn gói trong 3–6 tháng, nếu năng lực vận hành cho phép.
+
+
+QUY TẮC KHI HỖ TRỢ:
+
+
+- Kế thừa đúng BCM.
+- Không tạo dữ liệu kinh doanh giả.
+- Không biến giả thuyết thành sự thật.
+- Không tự đặt giá, số liệu hay chính sách.
+- Không bịa lời chứng thực.
+- Không hứa kết quả tuyệt đối.
+- Không khẳng định quy định pháp luật đang có hiệu lực nếu chưa xác minh.
+- Không dùng dữ liệu nhạy cảm của khách khi chưa có điều kiện xử lý phù hợp.
+- Viết tiếng Việt tự nhiên.
+- Ưu tiên nội dung cụ thể, đúng ngành kế toán và doanh nghiệp nhỏ.
+- Mọi nội dung bán hàng phải giải quyết đúng Pain, có cơ sở và CTA phù hợp.
+- Ghi [CẦN BỔ SUNG] cho mọi thông tin chưa được xác nhận.
+- Không ép khách mua dịch vụ không phù hợp.
+
+
+KHI TÔI GIAO MỘT TÁC VỤ:
+
+
+1. Xác định đúng khách hàng, Pain và mục tiêu.
+2. Truy xuất những nội dung BCM liên quan.
+3. Chọn đúng tầng sản phẩm và chặng hành trình.
+4. Thực hiện tác vụ.
+5. Tự kiểm tra tính trung thực, chính xác và mức độ sử dụng được.
+6. Trả về nội dung hoàn chỉnh, không chỉ nêu ý tưởng chung.
+
+
+SAU KHI ĐỌC BCM:
+
+
+Hãy xác nhận đã hiểu:
+- Thương hiệu.
+- Sản phẩm Core.
+- Khách hàng trọng tâm.
+- Pain và Insight.
+- Offer.
+- Giá hiện tại.
+- Bằng chứng.
+- Thang sản phẩm.
+- Những chính sách còn thiếu.
+
+
+Sau đó hỏi tôi muốn thực hiện công việc kinh doanh nào đầu tiên.
+
+
+# KẾT THÚC PHỤ LỤC CHIẾN LƯỢC BCM — PHẦN B
+
+
+
+
+# BCM — PHẦN C
+# BỘ BÁN HÀNG HOÀN CHỈNH
+## MÃ THỊ BÍCH — DỊCH VỤ KẾ TOÁN VÀ THUẾ DOANH NGHIỆP
+
+
+**Phiên bản:** BCM 1.0
+**Ngày cập nhật:** 07/11/2026
+**Website:** quybich.vn
+**Thị trường:** Cao Bằng và trực tuyến toàn quốc
+**Sản phẩm Core:** Kế toán trọn gói theo tháng
+**Offer:** Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp
+
+
+---
+
+
+# HƯỚNG DẪN SỬ DỤNG BỘ BÁN HÀNG
+
+
+Đây là bộ nội dung dành cho việc giới thiệu, tư vấn và chăm sóc khách hàng quan tâm đến dịch vụ kế toán và thuế của Mã Thị Bích.
+
+
+Những nội dung được ghi là:
+
+
+- [THỰC TẾ]: Thông tin chủ kinh doanh đã cung cấp.
+- [ĐỀ XUẤT]: Phương án hoặc cách diễn đạt được xây dựng từ BCM.
+- [GIẢ ĐỊNH — CẦN XÁC NHẬN VỚI KHÁCH THẬT]: Lời nói, tâm lý hoặc phản đối mua hàng do AI dự kiến.
+- [CẦN BỔ SUNG]: Thông tin chưa được chủ kinh doanh xác nhận.
+
+
+Nguyên tắc:
+
+
+1. Không tự tạo số liệu, khách hàng hoặc lời chứng thực.
+2. Không tự thay đổi bảng giá.
+3. Không hứa kết quả tuyệt đối.
+4. Không mặc định mọi dịch vụ đề xuất đã triển khai.
+5. Không ép khách mua khi không phù hợp.
+6. Không yêu cầu dữ liệu cá nhân nhạy cảm khi chưa cần thiết.
+7. Không đưa ra khẳng định pháp luật, thuế hoặc BHXH cụ thể mà chưa kiểm tra quy định có hiệu lực.
+8. Luôn làm rõ phạm vi và trách nhiệm trước khi nhận công việc.
+9. Điều chỉnh lời xưng hô phù hợp với khách nhưng không làm thay đổi nội dung cam kết.
+10. Không dùng mẫu tin nhắn như công cụ gửi hàng loạt không có sự đồng ý phù hợp.
+
+
+==================================================
+1. ĐỊNH VỊ DỊCH VỤ VÀ LỰA CHỌN CẠNH TRANH
+==================================================
+
+
+## 1.1. Tuyên bố định vị
+
+
+MÃ THỊ BÍCH — KẾ TOÁN TRỌN GÓI CHO DOANH NGHIỆP NHỎ, ĐẶC BIỆT LÀ CHỦ HỘ VỪA CHUYỂN LÊN DOANH NGHIỆP.
+
+
+"Không chỉ thực hiện sổ sách và kê khai thuế theo thỏa thuận, mình còn trực tiếp hướng dẫn khách chuẩn bị hóa đơn, chứng từ và phối hợp xử lý công việc kế toán trong quá trình doanh nghiệp hoạt động."
+
+
+## 1.2. Bốn trụ cột định vị
+
+
+### Trụ cột 1 — Kinh nghiệm chuyên môn
+
+
+[THỰC TẾ]
+
+
+12 năm làm kế toán, trong đó 5 năm làm kế toán thuế.
+
+
+Có kinh nghiệm thực tế ở các ngành:
+- Du lịch, tour xe máy.
+- Cho thuê xe máy.
+- Cơ khí nhôm kính.
+- Vệ sinh công nghiệp.
+- Sửa chữa ô tô.
+
+
+### Trụ cột 2 — Từ thành lập đến vận hành
+
+
+[THỰC TẾ]
+
+
+Đã thực hiện thủ tục thành lập cho 4 doanh nghiệp đang sử dụng dịch vụ kế toán, sau đó tiếp tục phụ trách kế toán trong quá trình họ hoạt động.
+
+
+### Trụ cột 3 — Trực tiếp hướng dẫn
+
+
+[THỰC TẾ]
+
+
+Mã Thị Bích trực tiếp tiếp nhận và trao đổi với khách qua nhóm Zalo, điện thoại hoặc gặp trực tiếp khi phù hợp.
+
+
+Có kinh nghiệm hướng dẫn người chưa quen xuất hóa đơn từng bước thực hiện thao tác.
+
+
+### Trụ cột 4 — Một đầu mối cho nhiều công việc liên quan
+
+
+[THỰC TẾ]
+
+
+Dịch vụ có thể bao gồm:
+- Hóa đơn.
+- Chứng từ.
+- Sổ sách MISA.
+- Kê khai thuế.
+- Báo cáo tài chính.
+- Quyết toán năm.
+- Hợp đồng.
+- Lương và BHXH.
+- Thủ tục đăng ký doanh nghiệp theo yêu cầu.
+
+
+Mỗi công việc chỉ được thực hiện trong phạm vi đã thống nhất.
+
+
+## 1.3. So sánh những lựa chọn của khách
+
+
+| Lựa chọn | Khi nào phù hợp | Điều cần cân nhắc |
+|---|---|---|
+| Tự làm kế toán | Chủ có kiến thức và thời gian phù hợp | Chuyên môn, khối lượng, thời gian và trách nhiệm |
+| Nhờ người quen | Có người đủ năng lực và nhận trách nhiệm rõ | Phạm vi, tính liên tục, bàn giao |
+| Tuyển kế toán nội bộ | Nhu cầu tại chỗ đủ lớn | Tuyển dụng, quản lý, chi phí và năng lực |
+| Thuê dịch vụ kế toán khác | Phù hợp nhu cầu, ngành và ngân sách | Quy trình, người phụ trách, giá và hợp đồng |
+| Thuê Mã Thị Bích | Doanh nghiệp nhỏ cần hướng dẫn và kế toán định kỳ | Khối lượng, phạm vi và năng lực tiếp nhận |
+
+
+Không khẳng định các lựa chọn khác kém chất lượng.
+
+
+## 1.4. Câu trả lời khi khách so sánh giá
+
+
+"Mình nghĩ anh/chị nên so sánh không chỉ phí tháng, mà cả những việc được thực hiện, ai trực tiếp phụ trách, cách bàn giao và trách nhiệm của hai bên.
+
+
+Mình có kinh nghiệm hỗ trợ doanh nghiệp từ khi thành lập đến khi hoạt động, đồng thời trực tiếp hướng dẫn hóa đơn, chứng từ và xử lý kế toán theo phạm vi đã thống nhất.
+
+
+Anh/chị cho mình biết tình trạng thực tế để mình xác định gói phù hợp, sau đó anh/chị có thể cân nhắc và so sánh với các phương án khác."
+
+
+## 1.5. Bốn thông điệp bán hàng theo tình huống
+
+
+TÌNH HUỐNG 1 — DOANH NGHIỆP MỚI
+
+
+"Mới chuyển từ hộ kinh doanh lên doanh nghiệp, chưa quen hóa đơn và chứng từ? Mình có thể hướng dẫn những công việc kế toán cần chuẩn bị từ giai đoạn đầu."
+
+
+TÌNH HUỐNG 2 — THIẾU KẾ TOÁN NỘI BỘ
+
+
+"Doanh nghiệp chưa có kế toán nội bộ? Mình nhận kế toán trọn gói theo tháng, với phạm vi và đầu ra được thống nhất trước khi thực hiện."
+
+
+TÌNH HUỐNG 3 — LO TRÁCH NHIỆM
+
+
+"Trước khi nhận việc, hai bên cần làm rõ phần kế toán phụ trách, phần doanh nghiệp cung cấp và cách phối hợp khi phát sinh vấn đề."
+
+
+TÌNH HUỐNG 4 — KHÁCH Ở XA
+
+
+"Mình đang nhận hỗ trợ trực tuyến cho doanh nghiệp trên toàn quốc và trao đổi công việc với khách qua nhóm Zalo. Những hồ sơ cần bản gốc hoặc làm việc trực tiếp sẽ được xem xét riêng."
+
+
+==================================================
+2. FAQ — 15 CÂU HỎI VÀ CÂU TRẢ LỜI
+==================================================
+
+
+Các câu hỏi được viết theo ngôn ngữ khách hàng Việt Nam.
+
+
+Chúng là câu hỏi dự kiến, không phải VOC đã xác nhận.
+
+
+## FAQ 01 — Mới chuyển lên doanh nghiệp
+
+
+KHÁCH HỎI:
+
+
+"Em vừa chuyển từ hộ kinh doanh lên công ty, chị có nhận làm kế toán từ đầu không?"
+
+
+TRẢ LỜI:
+
+
+"Có em nhé. Mình có kinh nghiệm hỗ trợ doanh nghiệp từ khi thành lập và tiếp tục phụ trách kế toán trong quá trình hoạt động.
+
+
+Mình sẽ hỏi tình trạng hồ sơ, ngành kinh doanh và những giao dịch đã phát sinh để xác định các đầu việc cần làm trước."
+
+
+CTA:
+
+
+"Em cho mình biết doanh nghiệp đã thành lập được bao lâu và hiện đang vướng phần nào nhất nhé."
+
+
+## FAQ 02 — Không có kế toán nội bộ
+
+
+KHÁCH HỎI:
+
+
+"Công ty em chưa có kế toán nội bộ, thuê chị làm trọn gói được không?"
+
+
+TRẢ LỜI:
+
+
+"Mình có nhận kế toán trọn gói theo tháng cho doanh nghiệp nhỏ.
+
+
+Công việc gồm hóa đơn, chứng từ, sổ sách MISA, kê khai thuế, báo cáo tài chính và những phần liên quan theo phạm vi thỏa thuận.
+
+
+Mình cần kiểm tra khối lượng và tình trạng hồ sơ trước khi nhận."
+
+
+CTA:
+
+
+"Em cho mình biết ngành kinh doanh và số lượng hóa đơn trung bình mỗi tháng nhé."
+
+
+## FAQ 03 — Chưa biết xuất hóa đơn
+
+
+KHÁCH HỎI:
+
+
+"Em không biết xuất hóa đơn, chị có hướng dẫn được không?"
+
+
+TRẢ LỜI:
+
+
+"Có em. Mình đã từng hướng dẫn khách từ chỗ chưa quen đến khi có thể tự thực hiện thao tác khi cần.
+
+
+Em cho mình biết đang dùng hệ thống hóa đơn nào và vướng bước gì, mình sẽ trao đổi cách hỗ trợ phù hợp."
+
+
+CTA:
+
+
+"Em đang vướng phần thông tin người mua, nội dung hóa đơn hay thao tác trên phần mềm?"
+
+
+## FAQ 04 — Gửi ảnh giấy tờ qua Zalo
+
+
+KHÁCH HỎI:
+
+
+"Em chỉ gửi ảnh giấy tờ qua Zalo có được không?"
+
+
+TRẢ LỜI:
+
+
+"Hiện các khách dịch vụ của mình chủ yếu gửi ảnh giấy tờ và thông tin giao dịch để xử lý.
+
+
+Tùy hồ sơ, mình sẽ hướng dẫn những thông tin hoặc chứng từ cần bổ sung và trường hợp cần giữ bản gốc.
+
+
+Với giấy tờ nhạy cảm, hai bên cần thống nhất cách gửi và bảo vệ thông tin phù hợp."
+
+
+CTA:
+
+
+"Em cho mình biết loại giấy tờ đang có trước nhé, chưa cần gửi thông tin cá nhân nhạy cảm."
+
+
+## FAQ 05 — Hợp đồng, lương và BHXH
+
+
+KHÁCH HỎI:
+
+
+"Gói kế toán có làm cả hợp đồng, lương và bảo hiểm xã hội không?"
+
+
+TRẢ LỜI:
+
+
+"Mình có xử lý hợp đồng, hồ sơ lương và BHXH theo phạm vi đã thống nhất.
+
+
+Em cho mình biết số lao động và những công việc phát sinh để mình xem phần nào nằm trong gói, phần nào cần thỏa thuận riêng."
+
+
+CTA:
+
+
+"Doanh nghiệp hiện có bao nhiêu lao động và đang cần xử lý việc gì trước?"
+
+
+## FAQ 06 — Phí kế toán
+
+
+KHÁCH HỎI:
+
+
+"Phí kế toán bên chị bao nhiêu một tháng?"
+
+
+TRẢ LỜI:
+
+
+"Hiện mình áp dụng khoảng 2,5–3 triệu đồng/tháng với doanh nghiệp có doanh thu đến 3 tỷ đồng/năm.
+
+
+Doanh nghiệp có doanh thu trên 3 đến 10 tỷ đồng/năm là khoảng 5–8 triệu đồng/tháng.
+
+
+Mức cụ thể cần xem tình trạng hồ sơ và phạm vi công việc của doanh nghiệp."
+
+
+CTA:
+
+
+"Anh/chị đang kinh doanh ngành gì và mỗi tháng có khoảng bao nhiêu hóa đơn đầu vào, đầu ra ạ?"
+
+
+## FAQ 07 — Doanh nghiệp mới, ngân sách ít
+
+
+KHÁCH HỎI:
+
+
+"Công ty mới mở, chưa nhiều doanh thu, sao phải trả phí kế toán hằng tháng?"
+
+
+TRẢ LỜI:
+
+
+"Mình hiểu anh/chị cần cân nhắc chi phí.
+
+
+Mức phí cần được đối chiếu với công việc thực tế như hóa đơn, chứng từ, sổ sách, kê khai và báo cáo.
+
+
+Nếu doanh nghiệp chưa cần toàn bộ phạm vi trọn gói, mình sẽ nói rõ để anh/chị lựa chọn phương án phù hợp."
+
+
+CTA:
+
+
+"Hiện mình đang muốn tự làm phần nào và cần người phụ trách phần nào nhất ạ?"
+
+
+## FAQ 08 — Hóa đơn tăng
+
+
+KHÁCH HỎI:
+
+
+"Nếu một tháng em có nhiều hóa đơn hơn bình thường thì có tăng phí không?"
+
+
+TRẢ LỜI:
+
+
+"Phí hiện tại của mình được phân nhóm theo doanh thu năm, còn khối lượng và mức độ phức tạp cần được xem khi xác định phạm vi nhận làm.
+
+
+Điều kiện điều chỉnh phí khi số hóa đơn tăng hiện [CẦN BỔ SUNG] và sẽ cần được thỏa thuận rõ, không tự phát sinh phí ngoài điều khoản đã thống nhất."
+
+
+CTA:
+
+
+"Em cho mình biết số hóa đơn hiện tại và mức có thể tăng để mình xem phạm vi cho phù hợp."
+
+
+## FAQ 09 — Làm từ xa
+
+
+KHÁCH HỎI:
+
+
+"Em ở tỉnh khác, không ở Cao Bằng, chị có nhận không?"
+
+
+TRẢ LỜI:
+
+
+"Có em. Mình nhận hỗ trợ trực tuyến cho doanh nghiệp trên toàn quốc.
+
+
+Mình đang trao đổi với khách qua Zalo; còn những hồ sơ cần bản gốc hoặc làm việc trực tiếp thì sẽ xem xét và thống nhất cách thực hiện trước khi nhận."
+
+
+CTA:
+
+
+"Em đang ở tỉnh nào và có hồ sơ nào cần làm trực tiếp không?"
+
+
+## FAQ 10 — Thanh toán
+
+
+KHÁCH HỎI:
+
+
+"Em thanh toán phí theo tháng hay theo quý? Có đặt cọc không?"
+
+
+TRẢ LỜI:
+
+
+"Phí dịch vụ được tính theo tháng.
+
+
+Còn kỳ thanh toán, thời điểm thanh toán và đặt cọc hiện [CẦN BỔ SUNG].
+
+
+Mình sẽ xác nhận những điều kiện này bằng văn bản trước khi bắt đầu công việc."
+
+
+LƯU Ý:
+
+
+Không công bố một chính sách thanh toán chưa được chủ kinh doanh xác nhận.
+
+
+## FAQ 11 — Trách nhiệm khi sai sót
+
+
+KHÁCH HỎI:
+
+
+"Nếu kế toán làm sai hoặc hồ sơ có vấn đề thì ai chịu trách nhiệm?"
+
+
+TRẢ LỜI:
+
+
+"Mình cần phân định rõ trách nhiệm của kế toán và trách nhiệm cung cấp, xác nhận thông tin của doanh nghiệp.
+
+
+Nếu phát sinh sai sót, hai bên phải đối chiếu nguyên nhân và xử lý theo thỏa thuận, quy định áp dụng.
+
+
+Điều khoản trách nhiệm cụ thể hiện [CẦN BỔ SUNG], nên mình sẽ không hứa rằng thuê dịch vụ là không còn bất kỳ rủi ro nào."
+
+
+CTA:
+
+
+"Trước khi bắt đầu, mình sẽ cùng anh/chị làm rõ các trách nhiệm này trong thỏa thuận."
+
+
+## FAQ 12 — Bảo mật thông tin
+
+
+KHÁCH HỎI:
+
+
+"Gửi thông tin khách hàng, CCCD, hợp đồng cho chị có an toàn không?"
+
+
+TRẢ LỜI:
+
+
+"Mình hiểu lo ngại này vì hồ sơ có thể chứa thông tin nhạy cảm.
+
+
+Mình sẽ chỉ đề nghị thông tin cần thiết cho công việc; cách gửi, lưu trữ, phân quyền, thời gian lưu và xóa dữ liệu phải được thống nhất rõ.
+
+
+Chính sách bảo mật chính thức hiện [CẦN BỔ SUNG]."
+
+
+LƯU Ý:
+
+
+Không nói "bảo mật tuyệt đối" hoặc "an toàn 100%".
+
+
+## FAQ 13 — Kinh nghiệm ngành
+
+
+KHÁCH HỎI:
+
+
+"Chị có kinh nghiệm với ngành của em không?"
+
+
+TRẢ LỜI:
+
+
+"Mình đã làm kế toán dịch vụ cho doanh nghiệp du lịch tour xe máy, cho thuê xe máy, cơ khí nhôm kính và vệ sinh công nghiệp.
+
+
+Ngoài ra mình đang phụ trách kế toán tại doanh nghiệp sửa chữa ô tô.
+
+
+Em cho mình biết ngành và loại giao dịch cụ thể để mình đánh giá có phù hợp nhận không."
+
+
+CTA:
+
+
+"Doanh nghiệp mình kinh doanh ngành gì và đang có nghiệp vụ nào đặc thù?"
+
+
+## FAQ 14 — Thay đổi đăng ký doanh nghiệp
+
+
+KHÁCH HỎI:
+
+
+"Công ty em muốn thay đổi địa chỉ hoặc đăng ký thêm địa điểm kinh doanh, chị có làm không?"
+
+
+TRẢ LỜI:
+
+
+"Mình có nhận hồ sơ thay đổi đăng ký doanh nghiệp, với mức phí hiện tại khoảng 500.000–2.000.000 đồng/lần tùy nội dung và số mục thay đổi.
+
+
+Với khách đang dùng gói kế toán, phí phát sinh sẽ cần xem thỏa thuận cụ thể, không mặc định miễn phí."
+
+
+CTA:
+
+
+"Em cho mình biết nội dung cần thay đổi để mình xác định hồ sơ và phí phù hợp."
+
+
+## FAQ 15 — Kết quả bàn giao
+
+
+KHÁCH HỎI:
+
+
+"Thuê chị rồi thì mỗi quý, mỗi năm em nhận được những gì?"
+
+
+TRẢ LỜI:
+
+
+"Với khách dịch vụ hiện tại, hằng quý mình gửi tờ khai thuế và thông báo số thuế cần nộp; hằng năm bàn giao sổ sách và báo cáo tài chính.
+
+
+Những đầu việc phát sinh được trao đổi và xử lý theo phạm vi đã thống nhất.
+
+
+Mình sẽ ghi rõ các kết quả bàn giao trong thỏa thuận dịch vụ của doanh nghiệp em."
+
+
+CTA:
+
+
+"Anh/chị muốn mình gửi danh sách phạm vi công việc và đầu ra dự kiến để xem trước không?"
+
+
+## Ma trận sử dụng FAQ
+
+
+| Nhóm vấn đề | FAQ |
+|---|---|
+| Khách mới thành lập | 01, 02 |
+| Hóa đơn, chứng từ | 03, 04 |
+| Lương và BHXH | 05 |
+| Giá và thanh toán | 06, 07, 08, 10 |
+| Làm việc từ xa | 09 |
+| Trách nhiệm, bảo mật | 11, 12 |
+| Năng lực và ngành | 13 |
+| Công việc phát sinh | 14 |
+| Bàn giao | 15 |
+
+
+==================================================
+3. KỊCH BẢN TƯ VẤN 1-1
+==================================================
+
+
+MỤC TIÊU:
+
+
+- Xác định nhu cầu.
+- Xác nhận Pain.
+- Kiểm tra mức độ phù hợp.
+- Khảo sát phạm vi.
+- Giải thích giá trị.
+- Gỡ Objection.
+- Chốt bước tiếp theo.
+
+
+Không mặc định mọi khách đều cần mua Core.
+
+
+## BƯỚC 1 — MỞ ĐẦU
+
+
+"Chào anh/chị, mình là Bích. Mình làm kế toán được 12 năm, trong đó có 5 năm làm kế toán thuế.
+
+
+Mình đang nhận kế toán trọn gói cho doanh nghiệp nhỏ, đặc biệt là doanh nghiệp mới chuyển từ hộ kinh doanh lên.
+
+
+Trước khi nói đến phí, mình xin hỏi vài thông tin về doanh nghiệp và những công việc đang vướng, để xem dịch vụ của mình có phù hợp không nhé.
+
+
+Hiện doanh nghiệp anh/chị đã thành lập hay đang chuẩn bị thành lập ạ?"
+
+
+Mục tiêu:
+Khách đồng ý chia sẻ thông tin cơ bản.
+
+
+## BƯỚC 2 — KHÁM PHÁ
+
+
+Câu 1:
+"Anh/chị đang kinh doanh ngành gì?"
+
+
+Mục đích:
+Xác định nghiệp vụ ngành.
+
+
+Câu 2:
+"Doanh nghiệp đã hoạt động được bao lâu?"
+
+
+Mục đích:
+Xác định giai đoạn.
+
+
+Câu 3:
+"Trước đây mình làm hộ kinh doanh hay đã là doanh nghiệp?"
+
+
+Mục đích:
+Xác định bối cảnh chuyển đổi.
+
+
+Câu 4:
+"Hiện ai đang phụ trách hóa đơn và sổ sách?"
+
+
+Mục đích:
+Xác định Pain P4.
+
+
+Câu 5:
+"Trung bình một tháng có khoảng bao nhiêu hóa đơn đầu vào và đầu ra?"
+
+
+Mục đích:
+Đánh giá khối lượng.
+
+
+Câu 6:
+"Hồ sơ đang được lưu và gửi như thế nào?"
+
+
+Mục đích:
+Xác định P2.
+
+
+Câu 7:
+"Hiện có lao động, lương và BHXH cần xử lý không?"
+
+
+Mục đích:
+Xác định P5.
+
+
+Câu 8:
+"Việc nào đang làm anh/chị mất thời gian nhất?"
+
+
+Mục đích:
+Tìm Pain ưu tiên.
+
+
+CÂU XÁC NHẬN:
+
+
+"Để mình xác nhận lại: hiện doanh nghiệp đang [tình trạng khách vừa nói], phần hóa đơn/chứng từ do [người phụ trách] xử lý và vấn đề anh/chị muốn giải quyết trước là [Pain].
+
+
+Mình hiểu đúng chưa ạ?"
+
+
+Không tự điền nội dung chưa được khách xác nhận.
+
+
+## BƯỚC 3 — ĐÀO SÂU PAIN
+
+
+"Anh/chị có thể kể một tình huống gần đây nhất mà mình bị vướng về hóa đơn, chứng từ hoặc thuế không ạ?
+
+
+Khi đó anh/chị đã xử lý thế nào?
+
+
+Điều khó nhất là không biết làm, không có thời gian hay không có người chịu trách nhiệm theo dõi?
+
+
+Nếu có người nhận phụ trách công việc kế toán định kỳ, điều gì anh/chị muốn thay đổi đầu tiên?
+
+
+Và khi lựa chọn người làm kế toán, điều gì khiến anh/chị yên tâm nhất?"
+
+
+Mục tiêu:
+Tìm được tình huống đã xảy ra, động cơ và kết quả mong muốn.
+
+
+Lưu ý:
+Không dẫn dắt khách phải thừa nhận những nỗi sợ mà họ chưa có.
+
+
+## BƯỚC 4 — ĐỀ XUẤT CORE
+
+
+"Với tình trạng anh/chị vừa chia sẻ, mình thấy nhu cầu chính hiện tại là [nhắc lại vấn đề khách xác nhận].
+
+
+Mình đang cung cấp dịch vụ kế toán trọn gói theo tháng.
+
+
+Trong phạm vi thống nhất, mình tiếp nhận hóa đơn và chứng từ, nhập liệu và lên sổ MISA, thực hiện công việc kê khai thuế, báo cáo tài chính và các đầu việc liên quan đã thỏa thuận.
+
+
+Mình cũng trực tiếp hướng dẫn những thông tin cần chuẩn bị, nhắc chứng từ còn thiếu và thông báo kết quả theo kỳ.
+
+
+Với doanh nghiệp của anh/chị, mình sẽ đối chiếu khối lượng công việc thực tế để xác định phần nào nằm trong gói và phần nào cần thỏa thuận bổ sung.
+
+
+Anh/chị thấy cách làm việc này có giải quyết được vấn đề đang vướng không ạ?"
+
+
+Mục tiêu:
+Kiểm tra mức độ phù hợp giữa Pain và giải pháp.
+
+
+## BƯỚC 5 — GỠ OBJECTION
+
+
+### NHÁNH A — KHÁCH CHÊ GIÁ CAO
+
+
+"Mình hiểu anh/chị đang cân nhắc chi phí, nhất là doanh nghiệp mới hoạt động.
+
+
+Cho mình hỏi mức phí khiến anh/chị băn khoăn vì ngân sách hiện tại, hay vì mình chưa thấy rõ các công việc được thực hiện trong gói?
+
+
+Mình có thể trình bày lại danh sách công việc và kết quả bàn giao để anh/chị so sánh.
+
+
+Nếu nhu cầu hiện tại chưa cần gói trọn vẹn, mình cũng sẽ nói rõ thay vì đề nghị ký khi chưa phù hợp."
+
+
+### NHÁNH B — KHÁCH MUỐN TỰ LÀM
+
+
+"Nếu anh/chị có thời gian và đủ năng lực xử lý thì tự làm một số phần việc cũng là phương án cần cân nhắc.
+
+
+Mình muốn hỏi thêm: Anh/chị định tự làm phần xuất hóa đơn hay cả việc sổ sách, kê khai và báo cáo?
+
+
+Mình sẽ cùng phân biệt các phần việc để anh/chị quyết định cái nào có thể tự thực hiện và cái nào cần người có chuyên môn phụ trách."
+
+
+### NHÁNH C — KHÁCH SỢ SAI SÓT
+
+
+"Đây là vấn đề mình nghĩ cần trao đổi rõ trước khi ký.
+
+
+Bên mình phải thống nhất trách nhiệm cung cấp thông tin, phần công việc mình thực hiện, cách đối chiếu và quy trình xử lý khi có sai sót.
+
+
+Mình không thể cam kết rằng mọi hồ sơ sẽ không bao giờ phát sinh vấn đề, nhưng có thể cùng anh/chị làm rõ trách nhiệm và quy trình phối hợp trong thỏa thuận dịch vụ."
+
+
+### NHÁNH D — KHÁCH MUỐN HỎI NGƯỜI QUEN
+
+
+"Dạ, anh/chị cứ trao đổi thêm để có quyết định phù hợp.
+
+
+Mình có thể gửi tóm tắt phạm vi công việc, giá dự kiến và những nội dung hai bên cần thống nhất, để anh/chị có cơ sở trao đổi.
+
+
+Trước khi kết thúc, mình xin hỏi còn điểm nào trong dịch vụ khiến anh/chị chưa rõ không ạ?"
+
+
+## BƯỚC 6 — CHỐT BƯỚC TIẾP THEO
+
+
+### NHÁNH 1 — KHÁCH ĐÃ SẴN SÀNG
+
+
+"Nếu anh/chị thấy cách làm việc và phạm vi này phù hợp, bước tiếp theo mình sẽ tổng hợp báo giá cụ thể, các điều khoản cần thống nhất và danh sách hồ sơ ban đầu.
+
+
+Hai bên kiểm tra lại đầy đủ trước khi xác nhận hợp đồng nhé."
+
+
+### NHÁNH 2 — KHÁCH CHƯA SẴN SÀNG
+
+
+"Không sao ạ. Mình sẽ gửi lại phần thông tin liên quan đến tình trạng doanh nghiệp để anh/chị tham khảo.
+
+
+Nếu sau khi xem còn điểm nào chưa rõ, anh/chị cứ phản hồi để mình giải thích thêm.
+
+
+Mình chỉ nhận công việc khi phạm vi và điều kiện thực sự phù hợp với hai bên."
+
+
+### NHÁNH 3 — KHÁCH KHÔNG PHÙ HỢP
+
+
+"Sau khi trao đổi, mình thấy yêu cầu hiện tại có những phần nằm ngoài phạm vi hoặc khả năng mình có thể nhận.
+
+
+Mình không muốn nhận công việc khi chưa có điều kiện thực hiện phù hợp.
+
+
+Anh/chị nên tìm người hoặc đơn vị có chuyên môn, nguồn lực phù hợp hơn cho phần việc này."
+
+
+## PHIẾU GHI NHẬN SAU BUỔI TƯ VẤN
+
+
+1. Tên hoặc mã khách:
+[ĐIỀN]
+
+
+2. Ngành kinh doanh:
+[ĐIỀN]
+
+
+3. Giai đoạn thành lập:
+[ĐIỀN]
+
+
+4. Người đang phụ trách kế toán:
+[ĐIỀN]
+
+
+5. Số hóa đơn/tháng:
+[ĐIỀN]
+
+
+6. Pain chính:
+[ĐIỀN]
+
+
+7. Tình huống thực tế:
+[ĐIỀN]
+
+
+8. Kết quả khách mong muốn:
+[ĐIỀN]
+
+
+9. Phạm vi cần làm:
+[ĐIỀN]
+
+
+10. Objection:
+[ĐIỀN]
+
+
+11. Giá đã trao đổi:
+[ĐIỀN]
+
+
+12. Điều kiện cần xác nhận:
+[ĐIỀN]
+
+
+13. Bước tiếp theo đã thống nhất:
+[ĐIỀN]
+
+
+14. Tình trạng:
+[ĐANG TRAO ĐỔI/CHỜ BÁO GIÁ/CHỜ QUYẾT ĐỊNH/ĐÃ KÝ/CHƯA PHÙ HỢP]
+
+
+==================================================
+4. MA TRẬN KHÓA OBJECTION
+==================================================
+
+
+Mục đích:
+Hiểu và giải quyết nguyên nhân khiến khách chưa quyết định, không gây áp lực.
+
+
+Các lời từ chối bên dưới là giả định, cần kiểm chứng với khách thật.
+
+
+| Objection | Nỗi lo phía sau | Thành phần giải quyết | Cách tư vấn |
+|---|---|---|---|
+| Chưa cần kế toán | Chưa thấy công việc cần làm | V1, V5 | Hỏi ai đang theo dõi hóa đơn, thuế |
+| Muốn tự làm | Muốn tiết kiệm | V1–V6 | Phân biệt việc tự làm và nghiệp vụ cần chuyên môn |
+| Giá cao | Chưa thấy giá trị hoặc thiếu ngân sách | Value Stack | Giải thích phạm vi, khối lượng, đầu ra |
+| Sợ giao hồ sơ | Lo dữ liệu | V8, B3 | Làm rõ cách gửi và bảo vệ dữ liệu |
+| Làm từ xa bất tiện | Sợ phối hợp chậm | V3, V8 | Giải thích kênh phối hợp, điều kiện xử lý |
+| Sợ sai sót | Lo trách nhiệm | Guarantee, B3 | Làm rõ trách nhiệm hợp đồng |
+| Hỏi người quen | Chưa đủ tin tưởng | Proof | Cung cấp phạm vi và kinh nghiệm thật |
+| Hóa đơn tăng | Lo tăng phí | Bảng phạm vi | Làm rõ điều kiện thay đổi giá |
+| Nhiều việc phát sinh | Sợ vượt gói | Bảng phạm vi | Phân biệt trong và ngoài gói |
+| Không biết ai làm | Lo chất lượng | V8 | Giới thiệu người trực tiếp phụ trách |
+| Chưa rõ kết quả | Khó đánh giá | V5, V6, B4 | Nêu kết quả bàn giao theo kỳ |
+| Chưa rõ thanh toán | Sợ điều kiện bất lợi | Hợp đồng | Xác nhận kỳ thanh toán |
+| Cần xử lý việc phức tạp | Lo năng lực | Premium | Khảo sát trước khi nhận |
+| Muốn cam kết không bị phạt | Sợ rủi ro thuế | Quy trình trách nhiệm | Giải thích giới hạn cam kết |
+| Chưa cần quyết định | Chưa cấp thiết | CTA theo tình huống | Gửi thông tin phù hợp và xin phép liên hệ lại |
+
+
+## Quy tắc xử lý Objection
+
+
+Bước 1:
+Lắng nghe nguyên văn.
+
+
+Bước 2:
+Hỏi để xác định nguyên nhân thật.
+
+
+Bước 3:
+Nhắc lại vấn đề khách xác nhận.
+
+
+Bước 4:
+Giải thích bằng năng lực và phạm vi thật.
+
+
+Bước 5:
+Kiểm tra khách đã rõ chưa.
+
+
+Bước 6:
+Đề nghị bước tiếp theo phù hợp hoặc kết thúc lịch sự.
+
+
+Không tranh luận để thắng khách.
+
+
+Không sử dụng nỗi sợ về thuế như công cụ ép ký hợp đồng.
+
+
+==================================================
+5. KỊCH BẢN INBOX ZALO / FACEBOOK — 8 TIN
+==================================================
+
+
+## TIN 1 — CHÀO KHÁCH MỚI
+
+
+"Chào anh/chị, mình là Bích, nhận kế toán và thuế cho doanh nghiệp nhỏ.
+
+
+Anh/chị đang cần kế toán trọn gói hay đang vướng một công việc cụ thể về hóa đơn, chứng từ hoặc thủ tục doanh nghiệp ạ?"
+
+
+Mục tiêu:
+Xác định nhu cầu ban đầu.
+
+
+Chặng:
+Biết đến → Quan tâm.
+
+
+## TIN 2 — KHÁCH MỚI CHUYỂN LÊN DOANH NGHIỆP
+
+
+"Dạ, mình có kinh nghiệm hỗ trợ khách từ khi thành lập doanh nghiệp và tiếp tục làm kế toán trong quá trình hoạt động.
+
+
+Anh/chị mới chuyển từ hộ kinh doanh lên thì cho mình hỏi doanh nghiệp đã phát sinh hóa đơn, chứng từ chưa ạ?
+
+
+Hiện mình vướng bước nào nhất?"
+
+
+Mục tiêu:
+Xác định P1, P2, P3 và tình huống kích hoạt.
+
+
+Chặng:
+Quan tâm.
+
+
+## TIN 3 — KHÁCH HỎI GIÁ
+
+
+"Dạ, phí kế toán trọn gói hiện tại của mình là:
+
+
+- Doanh thu đến 3 tỷ đồng/năm: 2,5–3 triệu đồng/tháng.
+- Doanh thu trên 3 đến 10 tỷ đồng/năm: 5–8 triệu đồng/tháng.
+
+
+Mức cụ thể cần xem tình trạng chứng từ và phạm vi công việc.
+
+
+Anh/chị đang kinh doanh ngành gì, và mỗi tháng có khoảng bao nhiêu hóa đơn đầu vào, đầu ra ạ?"
+
+
+Mục tiêu:
+Trả lời giá trung thực và mở khảo sát.
+
+
+Chặng:
+Quan tâm/Cân nhắc.
+
+
+## TIN 4 — KHÁCH CHƯA QUEN XUẤT HÓA ĐƠN
+
+
+"Dạ, mình có nhận hướng dẫn khách chuẩn bị thông tin và thao tác xuất hóa đơn.
+
+
+Anh/chị đang dùng phần mềm hóa đơn nào và hiện vướng phần thông tin người mua, nội dung hóa đơn hay thao tác trên hệ thống ạ?
+
+
+Mình sẽ xem tình huống trước để xác định cách hỗ trợ phù hợp."
+
+
+Mục tiêu:
+Xác định P1.
+
+
+Chặng:
+Quan tâm.
+
+
+## TIN 5 — KHÁCH HỎI GÓI GỒM NHỮNG GÌ
+
+
+"Gói kế toán hiện tại của mình có các công việc như xuất hóa đơn theo thông tin khách cung cấp, nhập liệu và lên sổ MISA, kê khai thuế, báo cáo tài chính, quyết toán năm, lương và BHXH trong phạm vi đã thống nhất.
+
+
+Mình trực tiếp trao đổi với khách qua Zalo và nhắc những chứng từ cần bổ sung.
+
+
+Mình sẽ đối chiếu nhu cầu thực tế để xác định chính xác phần nào thuộc gói của doanh nghiệp anh/chị nhé."
+
+
+Mục tiêu:
+Làm rõ phạm vi Core.
+
+
+Chặng:
+Cân nhắc.
+
+
+## TIN 6 — KHÁCH LO LÀM TỪ XA
+
+
+"Dạ, mình làm việc trực tiếp tại Cao Bằng và cũng nhận hỗ trợ trực tuyến cho doanh nghiệp trên toàn quốc.
+
+
+Hiện mình trao đổi công việc với khách qua nhóm Zalo.
+
+
+Tùy loại hồ sơ, hai bên sẽ thống nhất cách tiếp nhận và bàn giao phù hợp.
+
+
+Anh/chị đang ở tỉnh nào và có loại hồ sơ nào cần làm trực tiếp không ạ?"
+
+
+Mục tiêu:
+Làm rõ điều kiện phối hợp.
+
+
+Chặng:
+Cân nhắc.
+
+
+## TIN 7 — SAU TƯ VẤN, GỬI BƯỚC CHỐT
+
+
+"Mình tóm tắt lại nhu cầu của doanh nghiệp anh/chị như sau:
+
+
+- Ngành kinh doanh: [điền].
+- Công việc đang vướng: [điền].
+- Phần cần kế toán phụ trách: [điền].
+- Hồ sơ cần kiểm tra thêm: [điền].
+
+
+Bước tiếp theo mình sẽ tổng hợp phạm vi công việc và báo giá cụ thể để anh/chị xem, sau đó hai bên thống nhất các điều khoản nếu phù hợp nhé."
+
+
+Mục tiêu:
+Chuyển từ tư vấn sang báo giá.
+
+
+Chặng:
+Cân nhắc → Quyết định.
+
+
+## TIN 8 — KHÁCH TỪ CHỐI HOẶC CHƯA PHÙ HỢP
+
+
+"Dạ, cảm ơn anh/chị đã trao đổi với mình.
+
+
+Nếu hiện tại chưa phù hợp thì anh/chị cứ cân nhắc thêm.
+
+
+Khi cần xem lại phạm vi kế toán, hóa đơn hoặc hồ sơ doanh nghiệp, anh/chị có thể liên hệ mình.
+
+
+Chúc anh/chị kinh doanh thuận lợi ạ."
+
+
+Mục tiêu:
+Kết thúc lịch sự.
+
+
+Chặng:
+Bất kỳ chặng nào khách quyết định không tiếp tục.
+
+
+## Quy tắc inbox
+
+
+- Mỗi tin ưu tiên một câu hỏi chính.
+- Trả lời đúng điều khách vừa hỏi.
+- Không né giá khi khách hỏi trực tiếp.
+- Không hỏi dồn nhiều dữ liệu.
+- Không yêu cầu gửi CCCD, hộ chiếu, thông tin nhân sự khi chưa cần thiết.
+- Không tự tạo ưu đãi.
+- Không gửi tin hàng loạt khi không có cơ sở liên hệ phù hợp.
+- Chỉ hẹn thời gian khi có khả năng thực hiện và đã thống nhất.
+
+
+==================================================
+6. CHUỖI CHĂM SÓC LẠI — 4 TIN
+==================================================
+
+
+Điều kiện:
+Khách đã trao đổi, chưa mua và không từ chối nhận liên hệ tiếp.
+
+
+Lịch gửi là đề xuất thử nghiệm.
+
+
+Không tự gửi liên tục khi khách không muốn nhận.
+
+
+## TIN 1 — NHẮC ĐÚNG VẤN ĐỀ
+
+
+THỜI ĐIỂM ĐỀ XUẤT:
+Khoảng một ngày sau khi trao đổi.
+
+
+NỘI DUNG:
+
+
+"Chào anh/chị, hôm trước mình có trao đổi về việc doanh nghiệp đang [vấn đề khách thực sự đã chia sẻ].
+
+
+Mình nhắn lại để anh/chị tiện theo dõi.
+
+
+Theo những gì mình đã trao đổi, việc cần làm rõ trước tiên là [đầu việc cần xác định].
+
+
+Anh/chị đã xem được phần thông tin mình gửi chưa ạ?
+
+
+Nếu còn điểm nào chưa rõ, mình có thể giải thích thêm."
+
+
+MỤC TIÊU:
+Nhắc đúng Pain và làm rõ vấn đề còn thiếu.
+
+
+DỪNG KHI:
+Khách yêu cầu không liên hệ nữa.
+
+
+## TIN 2 — GỠ RÀO CẢN PHẠM VI VÀ GIÁ
+
+
+THỜI ĐIỂM ĐỀ XUẤT:
+Khoảng 2–3 ngày sau tin 1, nếu phù hợp và chưa có phản hồi.
+
+
+NỘI DUNG:
+
+
+"Chào anh/chị, mình bổ sung một ý để anh/chị dễ cân nhắc dịch vụ kế toán.
+
+
+Khi chọn người làm kế toán, ngoài phí tháng, anh/chị nên xem rõ những việc được thực hiện, hồ sơ cần bàn giao, ai trực tiếp phụ trách và cách xử lý công việc phát sinh.
+
+
+Nếu anh/chị còn phân vân giữa tự làm, thuê kế toán riêng hay dịch vụ trọn gói, mình có thể trao đổi lại phạm vi để anh/chị có cơ sở lựa chọn."
+
+
+MỤC TIÊU:
+Giúp khách so sánh phạm vi và giá trị.
+
+
+KHÔNG LÀM:
+Tự giảm giá hoặc tạo khuyến mãi.
+
+
+## TIN 3 — CỦNG CỐ NIỀM TIN
+
+
+THỜI ĐIỂM ĐỀ XUẤT:
+Khoảng 3–5 ngày sau tin 2.
+
+
+NỘI DUNG:
+
+
+"Chào anh/chị, mình chia sẻ thêm để anh/chị hiểu cách mình đang làm việc.
+
+
+Mình có 12 năm kinh nghiệm kế toán, trong đó 5 năm làm kế toán thuế.
+
+
+Hiện mình nhận kế toán trọn gói cho 4 doanh nghiệp và đã có kinh nghiệm hỗ trợ khách từ khi thành lập đến quá trình hoạt động.
+
+
+Với khách mới, mình thường cần làm rõ tình trạng hóa đơn, chứng từ và người phụ trách trước khi xác định phạm vi kế toán.
+
+
+Nếu doanh nghiệp anh/chị vẫn đang cần người phụ trách, mình có thể trao đổi tiếp từ những thông tin đã có, không cần anh/chị trình bày lại từ đầu."
+
+
+MỤC TIÊU:
+Xây niềm tin bằng kinh nghiệm thật.
+
+
+KHÔNG LÀM:
+Thêm khách hàng hoặc lời chứng thực không có trong BCM.
+
+
+## TIN 4 — KHÉP LẠI LỊCH SỰ
+
+
+THỜI ĐIỂM ĐỀ XUẤT:
+Khoảng 5–7 ngày sau tin 3.
+
+
+NỘI DUNG:
+
+
+"Chào anh/chị, mình nhắn lại lần này để hỏi xem nhu cầu kế toán của doanh nghiệp mình hiện đã có phương án xử lý phù hợp chưa ạ?
+
+
+Nếu vẫn cần người phụ trách, mình có thể tiếp tục trao đổi về phạm vi công việc và báo giá dựa trên tình trạng thực tế.
+
+
+Nếu anh/chị đã có phương án khác hoặc chưa cần vào lúc này thì hoàn toàn không sao.
+
+
+Mình sẽ không nhắn thêm về đề nghị này để tránh làm phiền.
+
+
+Cảm ơn anh/chị đã dành thời gian trao đổi với mình ạ."
+
+
+MỤC TIÊU:
+Cho khách cơ hội quay lại và tôn trọng lựa chọn.
+
+
+SAU TIN 4:
+Nếu khách không phản hồi, dừng chuỗi.
+
+
+## Ma trận phản hồi Follow-up
+
+
+| Khách phản hồi | Hành động |
+|---|---|
+| Muốn báo giá | Khảo sát và báo Core |
+| Phí cao | Làm rõ nguyên nhân, giải thích phạm vi |
+| Chỉ cần hướng dẫn hóa đơn | Xác định nhu cầu và điều kiện Tripwire |
+| Cần xử lý hồ sơ riêng | Khảo sát dịch vụ phát sinh/Premium |
+| Đã thuê đơn vị khác | Cảm ơn và kết thúc |
+| Không muốn nhận tin | Dừng ngay |
+| Không phản hồi sau tin 4 | Dừng chuỗi |
+| Muốn trao đổi lại sau | Chỉ liên hệ tại thời điểm hai bên đã thống nhất, nếu phù hợp |
+
+
+==================================================
+7. KỊCH BẢN CHỐT OFFER 60 GIÂY
+==================================================
+
+
+## 7.1. Kịch bản chính
+
+
+"Chào anh/chị, mình là Bích, làm kế toán được 12 năm, trong đó có 5 năm làm kế toán thuế.
+
+
+Mình đang nhận kế toán trọn gói cho doanh nghiệp nhỏ, đặc biệt là những anh/chị vừa chuyển từ hộ kinh doanh lên doanh nghiệp, chưa quen với hóa đơn và chứng từ.
+
+
+Trong phạm vi dịch vụ đã thống nhất, mình trực tiếp hướng dẫn thông tin cần chuẩn bị, tiếp nhận chứng từ, làm sổ sách MISA, thực hiện kê khai thuế và bàn giao các kết quả theo kỳ.
+
+
+Phí hiện tại đối với doanh nghiệp có doanh thu đến 3 tỷ đồng/năm là khoảng 2,5–3 triệu đồng/tháng.
+
+
+Mức cụ thể còn tùy tình trạng hồ sơ và công việc cần làm.
+
+
+Anh/chị cho mình hỏi doanh nghiệp mình đã thành lập chưa và hiện có ai phụ trách hóa đơn, chứng từ không ạ?
+
+
+Mình sẽ trao đổi để xác định phạm vi công việc phù hợp trước khi báo giá."
+
+
+## 7.2. Kịch bản ngắn khi khách đã hiểu dịch vụ
+
+
+"Với những công việc anh/chị đang cần, mình có thể khảo sát để đề xuất gói kế toán trọn gói theo tháng.
+
+
+Mình sẽ trực tiếp trao đổi về chứng từ, sổ sách MISA, công việc thuế và các phần liên quan trong phạm vi thống nhất.
+
+
+Trước khi quyết định, mình gửi anh/chị bảng công việc, báo giá và những điều khoản cần làm rõ nhé."
+
+
+## 7.3. Kịch bản chốt khi khách lo chi phí
+
+
+"Mình hiểu mức phí là khoản cần cân nhắc.
+
+
+Mình đề nghị trước tiên đối chiếu những công việc doanh nghiệp đang phát sinh, phần anh/chị có thể tự làm và phần cần người phụ trách.
+
+
+Nếu phù hợp với gói hiện có thì mình báo phạm vi và phí cụ thể.
+
+
+Nếu chưa phù hợp thì mình cũng sẽ nói rõ để anh/chị không phải thuê phần dịch vụ chưa cần."
+
+
+## 7.4. Kịch bản chốt khi khách cần bàn thêm
+
+
+"Anh/chị cứ trao đổi thêm với người liên quan trước khi quyết định.
+
+
+Mình gửi lại bản tổng hợp công việc và mức phí dự kiến để anh/chị xem.
+
+
+Nếu còn băn khoăn về phạm vi, trách nhiệm hoặc cách phối hợp, mình sẽ giải thích thêm trước khi hai bên thống nhất."
+
+
+## 7.5. Quy tắc chốt
+
+
+Không dùng:
+- "Chỉ còn một suất."
+- "Phải ký hôm nay."
+- "Đảm bảo không bị phạt."
+- "Cứ giao hết, không phải lo gì."
+- "Giá này chắc chắn rẻ nhất."
+- "Không làm thì chắc chắn gặp vấn đề."
+
+
+Nên dùng:
+- "Mình làm rõ phạm vi trước."
+- "Mình cần kiểm tra khối lượng."
+- "Hai bên thống nhất trách nhiệm."
+- "Bạn có thể cân nhắc."
+- "Nếu phù hợp thì mình chuyển sang bước hợp đồng."
+
+
+==================================================
+8. QUY TRÌNH BÁN HÀNG & CRM
+==================================================
+
+
+## 8.1. Quy trình bán hàng
+
+
+BƯỚC 1 — TIẾP NHẬN KHÁCH
+
+
+Nguồn:
+Website, Zalo, giới thiệu, nội dung marketing hoặc kênh khác được triển khai.
+
+
+Ghi:
+- Ngành.
+- Giai đoạn.
+- Nhu cầu ban đầu.
+
+
+BƯỚC 2 — XÁC ĐỊNH PAIN
+
+
+Chọn:
+P1–P7 theo tình huống thực tế.
+
+
+Không tự gán nỗi sợ khi khách chưa thể hiện.
+
+
+BƯỚC 3 — KHẢO SÁT PHẠM VI
+
+
+Hỏi:
+- Doanh thu.
+- Hóa đơn.
+- Chứng từ.
+- Nhân công.
+- Công việc thuế.
+- Hồ sơ tồn đọng.
+- Người đang phụ trách.
+
+
+BƯỚC 4 — ĐỀ XUẤT
+
+
+Chọn:
+- Core.
+- Dịch vụ riêng.
+- Tripwire nếu đã triển khai.
+- Premium nếu có đủ năng lực.
+- Hoặc chưa nhận nếu không phù hợp.
+
+
+BƯỚC 5 — BÁO GIÁ
+
+
+Dùng đúng mức phí hiện có.
+
+
+Không tự đặt giá cho công việc chưa có giá chuẩn.
+
+
+BƯỚC 6 — GIẢI THÍCH TRÁCH NHIỆM
+
+
+Thống nhất:
+- Công việc nhận.
+- Công việc không nhận.
+- Hồ sơ khách cung cấp.
+- Đầu ra.
+- Chi phí.
+- Thời hạn.
+- Bảo mật.
+- Xử lý phát sinh.
+
+
+BƯỚC 7 — KÝ VÀ BẮT ĐẦU
+
+
+Chỉ triển khai theo điều kiện hợp đồng được xác nhận.
+
+
+BƯỚC 8 — DUY TRÌ
+
+
+Tiếp nhận, xử lý, thông báo và bàn giao theo kỳ.
+
+
+BƯỚC 9 — RÀ SOÁT
+
+
+Xem thay đổi khối lượng, phạm vi và nhu cầu mới.
+
+
+BƯỚC 10 — GIỚI THIỆU
+
+
+Khi có trải nghiệm phù hợp, có thể đề nghị khách giới thiệu tự nguyện.
+
+
+## 8.2. Bảng CRM tối thiểu
+
+
+| Trường | Nội dung |
+|---|---|
+| Mã khách | Mã định danh nội bộ |
+| Ngày tiếp nhận | Ngày bắt đầu trao đổi |
+| Nguồn khách | Zalo/website/giới thiệu/... |
+| Ngành | Ngành kinh doanh |
+| Giai đoạn | Chuẩn bị thành lập/mới thành lập/đang hoạt động |
+| Pain | P1–P7 |
+| Trở ngại | O1–O9 |
+| Chặng | 1–5 |
+| Dịch vụ quan tâm | Core/khác |
+| Doanh thu | Theo thông tin khách cung cấp |
+| Hóa đơn | Ước tính đầu vào/đầu ra |
+| Phạm vi | Đầu việc cần làm |
+| Objection | Lời khách thực sự nói |
+| Báo giá | Giá thực tế đã báo |
+| Bước tiếp | Hành động được thống nhất |
+| Trạng thái | Đang trao đổi/chờ/đã ký/chưa phù hợp |
+| Lý do không mua | Ghi đúng phản hồi |
+| Quyền liên hệ lại | Có/không/chưa rõ |
+
+
+## 8.3. Chỉ số quản trị
+
+
+Chỉ theo dõi những số liệu thực sự phát sinh:
+
+
+1. Số khách quan tâm.
+2. Số cuộc trao đổi đủ thông tin.
+3. Số báo giá.
+4. Số hợp đồng.
+5. Lý do chưa ký.
+6. Số khách đang dùng dịch vụ.
+7. Số khách tiếp tục sử dụng.
+8. Số khách giới thiệu.
+9. Thời gian xử lý chứng từ.
+10. Khối lượng công việc theo khách.
+
+
+Không tự tạo tỷ lệ chuyển đổi hoặc dự báo doanh thu khi chưa có dữ liệu.
+
+
+## 8.4. Mục tiêu kinh doanh
+
+
+[THỰC TẾ]
+
+
+Chủ kinh doanh muốn nhận thêm khoảng 5 khách kế toán trọn gói trong 3–6 tháng.
+
+
+[CẦN BỔ SUNG]
+
+
+- Năng lực nhận thêm.
+- Thời gian xử lý mỗi khách.
+- Cách phân bổ công việc kế toán chính và dịch vụ ngoài.
+- Thời gian dành cho marketing.
+- Phần nhập liệu có thể giảm bằng AI.
+
+
+Không lấy mục tiêu 5 khách làm giới hạn suất bán hàng.
+
+
+==================================================
+9. CHECKLIST TRIỂN KHAI VÀ KIỂM TRA
+==================================================
+
+
+## 9.1. Tài liệu nên chuẩn bị
+
+
+[ĐỀ XUẤT]
+
+
+1. Trang giới thiệu Core.
+2. Bảng phạm vi dịch vụ.
+3. Mẫu khảo sát khách mới.
+4. Mẫu báo giá.
+5. Mẫu thỏa thuận công việc và trách nhiệm.
+6. Checklist chứng từ ban đầu.
+7. Mẫu hướng dẫn gửi chứng từ.
+8. Mẫu theo dõi hồ sơ còn thiếu.
+9. Mẫu thông báo kết quả theo kỳ.
+10. Bảng CRM.
+11. Nội dung FAQ cho website.
+12. Kịch bản inbox.
+13. Mẫu Follow-up.
+14. Chính sách bảo mật được xác nhận.
+15. Quy trình xử lý sai sót và chấm dứt dịch vụ.
+
+
+## 9.2. Thông tin cần bổ sung trước khi công bố chính thức
+
+
+[CẦN BỔ SUNG]
+
+
+- Kỳ thanh toán.
+- Hình thức thanh toán.
+- Đặt cọc.
+- Chính sách hoàn phí.
+- Chấm dứt hợp đồng.
+- Thời gian phản hồi.
+- Trách nhiệm khi có sai sót.
+- Phạm vi công việc ngoài gói.
+- Điều kiện điều chỉnh giá.
+- Chính sách bảo vệ dữ liệu.
+- Giá dịch vụ thành lập.
+- Giá xử lý hồ sơ tồn đọng.
+- Giá và điều kiện Tripwire.
+- Phạm vi Premium.
+- Năng lực nhận thêm khách.
+
+
+## 9.3. Bằng chứng cần xác nhận
+
+
+- Quyền sử dụng trường hợp KH01.
+- Phản hồi khách được phép công bố.
+- Tài liệu kết quả đã được phép sử dụng.
+- VOC thật về lý do thuê dịch vụ.
+- Các trường hợp thể hiện giá trị rõ nhất.
+
+
+Nếu chưa có quyền sử dụng, không đăng công khai.
+
+
+## 9.4. Kiểm tra mỗi nội dung bán hàng
+
+
+[ ] Đúng khách hàng ưu tiên.
+[ ] Đúng Pain thực sự liên quan.
+[ ] Có tình huống cụ thể của ngành.
+[ ] Không tự tạo thông tin.
+[ ] Không tự đổi giá.
+[ ] Không tự mở rộng phạm vi.
+[ ] Không tự tạo chính sách.
+[ ] Không hứa kết quả tuyệt đối.
+[ ] Không sử dụng proof chưa được phép.
+[ ] CTA phù hợp chặng hành trình.
+[ ] Chỉ yêu cầu thông tin cần thiết.
+[ ] Có thể Copy dùng ngay sau khi kiểm tra.
+
+
+## 9.5. Kiểm tra trước khi nhận khách
+
+
+[ ] Đã biết ngành và giai đoạn doanh nghiệp.
+[ ] Đã biết số lượng hóa đơn dự kiến.
+[ ] Đã kiểm tra tình trạng chứng từ.
+[ ] Đã xác định công việc cần làm.
+[ ] Đã kiểm tra có hồ sơ tồn đọng không.
+[ ] Đã đánh giá năng lực tiếp nhận.
+[ ] Đã thống nhất giá.
+[ ] Đã phân định trách nhiệm.
+[ ] Đã thống nhất cách bảo vệ dữ liệu.
+[ ] Đã thống nhất đầu ra và thời hạn.
+[ ] Đã hoàn tất điều kiện hợp đồng.
+[ ] Đã hướng dẫn khách cách phối hợp.
+
+
+## 9.6. Kiểm tra sau khi sử dụng dịch vụ
+
+
+[ ] Khách hiểu cách gửi chứng từ.
+[ ] Có đầu mối trao đổi rõ.
+[ ] Chứng từ còn thiếu được thông báo.
+[ ] Công việc được xử lý theo phạm vi.
+[ ] Kết quả được bàn giao theo kỳ.
+[ ] Các vấn đề phát sinh được ghi nhận.
+[ ] Không mặc định hỗ trợ miễn phí ngoài gói.
+[ ] Đã rà soát sự thay đổi về khối lượng và nhu cầu.
+[ ] Phản hồi khách được ghi nhận trung thực.
+[ ] Chỉ sử dụng lời chứng thực khi được phép.
+
+
+==================================================
+10. THÔNG ĐIỆP BÁN HÀNG CUỐI CÙNG
+==================================================
+
+
+## Thông điệp chủ đạo
+
+
+"Mới lên doanh nghiệp, chưa quen hóa đơn và chứng từ? Có Mã Thị Bích trực tiếp hướng dẫn và phụ trách kế toán theo thỏa thuận."
+
+
+## Mô tả ngắn thương hiệu
+
+
+"Mình là Mã Thị Bích, có 12 năm kinh nghiệm làm kế toán, trong đó 5 năm làm kế toán thuế.
+
+
+Mình nhận kế toán trọn gói cho doanh nghiệp nhỏ, đặc biệt là những chủ hộ kinh doanh vừa chuyển lên doanh nghiệp.
+
+
+Mình trực tiếp hướng dẫn hóa đơn, chứng từ, tiếp nhận và xử lý công việc kế toán, thuế theo phạm vi đã thống nhất."
+
+
+## CTA chính
+
+
+"Bạn đang cần kế toán trọn gói cho doanh nghiệp mới?
+
+
+Nhắn mình ngành kinh doanh, doanh thu dự kiến và tình trạng hóa đơn, chứng từ hiện tại.
+
+
+Mình sẽ trao đổi về phạm vi dịch vụ phù hợp."
+
+
+## CTA cho khách chưa sẵn sàng
+
+
+"Mới lên doanh nghiệp và chưa biết bắt đầu từ đâu?
+
+
+Nhắn mình tình huống đang vướng về hóa đơn hoặc chứng từ để xác định bước tiếp theo."
+
+
+## CTA cho khách đã dùng dịch vụ
+
+
+"Doanh nghiệp mình có thay đổi về hoạt động, nhân sự hoặc số lượng chứng từ không?
+
+
+Mình cùng rà soát để xác định có cần cập nhật phạm vi công việc không nhé."
+
+
+## Câu định vị cốt lõi
+
+
+MÃ THỊ BÍCH
+
+
+KẾ TOÁN TRỌN GÓI CHO DOANH NGHIỆP NHỎ.
+
+
+ĐỒNG HÀNH TỪ NGÀY ĐẦU DOANH NGHIỆP.
+
+
+TIẾP NHẬN RÕ — XỬ LÝ ĐÚNG PHẠM VI — BÀN GIAO THEO KỲ.
+
+
+==================================================
+11. KẾT LUẬN BỘ BÁN HÀNG
+==================================================
+
+
+KHÁCH HÀNG:
+Chủ hộ kinh doanh vừa chuyển lên doanh nghiệp.
+
+
+PAIN CHÍNH:
+Chưa quen hóa đơn, chứng từ, thuế và thiếu kế toán nội bộ.
+
+
+INSIGHT:
+Muốn quản lý doanh nghiệp bài bản nhưng chưa làm chủ các nghiệp vụ kế toán và thuế.
+
+
+OFFER:
+Kế toán trọn gói — Đồng hành từ ngày đầu doanh nghiệp.
+
+
+GIÁ TRỊ:
+Có một đầu mối trực tiếp hướng dẫn, tiếp nhận, xử lý và bàn giao công việc kế toán theo phạm vi thỏa thuận.
+
+
+BẰNG CHỨNG:
+12 năm kinh nghiệm kế toán, trong đó 5 năm kế toán thuế; 4 khách dịch vụ; kinh nghiệm hỗ trợ từ thành lập đến vận hành.
+
+
+GIÁ:
+- Đến 3 tỷ đồng doanh thu/năm: 2,5–3 triệu đồng/tháng.
+- Trên 3 đến 10 tỷ đồng doanh thu/năm: 5–8 triệu đồng/tháng.
+
+
+CÁCH BÁN:
+Lắng nghe tình huống → Khảo sát nhu cầu → Giải thích phạm vi → Báo giá → Thống nhất trách nhiệm → Ký hợp đồng nếu phù hợp.
+
+
+CÁCH CHĂM SÓC:
+Hướng dẫn phối hợp → Tiếp nhận chứng từ → Xử lý theo phạm vi → Bàn giao theo kỳ → Rà soát nhu cầu mới.
+
+
+MỤC TIÊU:
+Thêm khoảng 5 khách kế toán trọn gói trong 3–6 tháng, nếu nguồn lực cho phép.
+
+
+ƯU TIÊN:
+Chuẩn hóa Core, giảm nhập liệu thủ công bằng AI có kiểm soát và dành thêm thời gian tiếp cận khách phù hợp.
+
+
+# KẾT THÚC PHẦN C
+# HOÀN THÀNH BỘ TÀI LIỆU BCM 1.0
